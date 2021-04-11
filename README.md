@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [examples](https://github.com/elastic/examples)                                    | 2016-09-27 | Jupyter Notebook | 2021-04-09   |
-|  2 | [egg-24time](https://github.com/seasonstar/egg-24time)                             | 2018-04-28 | JavaScript       | 2021-04-08   |
-|  3 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                            | 2017-10-31 | C++              | 2021-04-09   |
-|  4 | [iptv](https://github.com/iptv-org/iptv)                                           | 2020-02-19 | JavaScript       | 2021-04-09   |
-|  5 | [detector](https://github.com/hotoo/detector)                                      | 2017-11-17 | JavaScript       | 2021-04-09   |
-|  6 | [goadmin](https://github.com/CrazyRocks/goadmin)                                   | 2020-01-13 | Go               | 2021-04-07   |
-|  7 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md               | 2021-04-08   |
-|  8 | [bannedwords](https://github.com/spetacular/bannedwords)                           | 2016-11-07 | PHP              | 2021-04-07   |
-|  9 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                               | 2018-01-02 | TypeScript       | 2021-04-09   |
-| 10 | [PowerJob](https://github.com/PowerJob/PowerJob)                                   | 2020-08-04 | Java             | 2021-04-09   |
+| ID |                                             REPO                                              | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [Tars](https://github.com/TarsCloud/Tars)                                                     | 2017-11-02 | C++      | 2021-04-10   |
+|  2 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md       | 2021-04-09   |
+|  3 | [gadmin](https://github.com/hailaz/gadmin)                                                    | 2020-02-25 | Go       | 2021-03-04   |
+|  4 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                        | 2018-10-02 | HTML     | 2021-04-09   |
+|  5 | [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter)                             | 2017-04-12 | Go       | 2021-04-08   |
+|  6 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)           | 2019-02-22 | md       | 2021-04-10   |
+|  7 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                                              | 2018-07-23 | HTML     | 2021-04-05   |
+|  8 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese)            | 2018-09-07 | md       | 2021-04-08   |
+|  9 | [apigateway](https://github.com/adobe-apiplatform/apigateway)                                 | 2017-03-08 | Lua      | 2021-03-03   |
+| 10 | [gf-demos](https://github.com/gogf/gf-demos)                                                  | 2020-02-25 | Go       | 2021-04-10   |
 
 <!--END_SECTION:my_github-->
