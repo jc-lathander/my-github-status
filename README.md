@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                   | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)        | 2019-10-29 | C++      | 2021-03-23   |
-|  2 | [awesome-v](https://github.com/vlang/awesome-v)                          | 2019-11-26 | md       | 2021-04-11   |
-|  3 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina) | 2020-01-19 | md       | 2021-04-09   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)                   | 2019-12-10 | Go       | 2021-04-13   |
-|  5 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)            | 2019-12-03 | Python   | 2021-04-06   |
-|  6 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)         | 2016-11-07 | md       | 2021-04-13   |
-|  7 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                         | 2018-07-23 | HTML     | 2021-04-12   |
-|  8 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  | 2018-08-05 | md       | 2021-04-13   |
-|  9 | [grpcman](https://github.com/grpcman/grpcman)                            | 2020-08-12 | Vue      | 2021-03-06   |
-| 10 | [fonts](https://github.com/powerline/fonts)                              | 2020-07-23 | Shell    | 2021-04-13   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)                                          | 2019-04-22 | TypeScript | 2021-04-14   |
+|  2 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                   | 2020-02-25 | Go         | 2021-04-15   |
+|  3 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                                            | 2020-01-19 | PHP        | 2021-04-10   |
+|  4 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-03-22   |
+|  5 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)                                   | 2019-06-07 | PHP        | 2021-04-14   |
+|  6 | [website](https://github.com/openpitrix/website)                                                      | 2019-01-23 | JavaScript | 2020-06-17   |
+|  7 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                                      | 2017-05-01 | C++        | 2021-04-03   |
+|  8 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                                         | 2019-10-29 | Go         | 2021-04-14   |
+|  9 | [kratos](https://github.com/go-kratos/kratos)                                                         | 2019-04-22 | Go         | 2021-04-15   |
+| 10 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                                | 2018-10-02 | HTML       | 2021-04-09   |
 
 <!--END_SECTION:my_github-->
