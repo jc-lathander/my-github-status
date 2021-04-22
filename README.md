@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                                | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)           | 2017-11-06 | CoffeeScript | 2021-03-19   |
-|  2 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)  | 2017-05-01 | C++          | 2021-04-20   |
-|  3 | [winpcap](https://github.com/patmarion/winpcap)                   | 2020-04-08 | C            | 2020-04-30   |
-|  4 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)           | 2017-04-18 | Shell        | 2021-04-18   |
-|  5 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)     | 2019-12-03 | Python       | 2021-04-06   |
-|  6 | [Mongood](https://github.com/RenzHoly/Mongood)                    | 2020-08-06 | TypeScript   | 2021-04-18   |
-|  7 | [gf](https://github.com/gogf/gf)                                  | 2020-01-13 | Go           | 2021-04-20   |
-|  8 | [libaco](https://github.com/hnes/libaco)                          | 2018-07-18 | C            | 2021-04-20   |
-|  9 | [node-tenpay](https://github.com/befinal/node-tenpay)             | 2018-03-05 | JavaScript   | 2021-04-19   |
-| 10 | [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) | 2017-04-12 | Go           | 2021-04-20   |
+| ID |                                                REPO                                                | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [examples](https://github.com/elastic/examples)                                                    | 2016-09-27 | Jupyter Notebook | 2021-04-21   |
+|  2 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                                    | 2017-08-08 | Erlang           | 2020-11-02   |
+|  3 | [Potatso](https://github.com/icodesign/Potatso)                                                    | 2016-06-30 | md               | 2021-04-20   |
+|  4 | [go-v8](https://github.com/lazytiger/go-v8)                                                        | 2017-05-01 | Go               | 2021-03-30   |
+|  5 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)                    | 2020-08-14 | md               | 2021-04-21   |
+|  6 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp)                             | 2016-09-23 | JavaScript       | 2021-04-21   |
+|  7 | [superset](https://github.com/apache/superset)                                                     | 2016-09-27 | Python           | 2021-04-21   |
+|  8 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | md               | 2021-04-21   |
+|  9 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                                         | 2020-01-19 | PHP              | 2021-04-15   |
+| 10 | [microrust](https://github.com/droogmic/microrust)                                                 | 2020-08-20 | Rust             | 2021-04-19   |
 
 <!--END_SECTION:my_github-->
