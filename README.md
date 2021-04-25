@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [apollo](https://github.com/ApolloAuto/apollo)                          | 2019-01-30 | C++        | 2021-04-23   |
-|  2 | [fuckword](https://github.com/NextZeus/fuckword)                        | 2016-11-07 | JavaScript | 2019-11-27   |
-|  3 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client) | 2016-09-27 | JavaScript | 2020-01-22   |
-|  4 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)   | 2020-10-21 | JavaScript | 2021-04-23   |
-|  5 | [Potatso](https://github.com/icodesign/Potatso)                         | 2016-06-30 | md         | 2021-04-23   |
-|  6 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                 | 2017-10-31 | C++        | 2021-04-23   |
-|  7 | [goadmin](https://github.com/CrazyRocks/goadmin)                        | 2020-01-13 | Go         | 2021-04-17   |
-|  8 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot) | 2017-02-03 | md         | 2021-03-17   |
-|  9 | [iptv](https://github.com/iptv-org/iptv)                                | 2020-02-19 | JavaScript | 2021-04-24   |
-| 10 | [kratos](https://github.com/go-kratos/kratos)                           | 2019-04-22 | Go         | 2021-04-23   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)           | 2020-01-19 | md         | 2021-04-09   |
+|  2 | [CMAK](https://github.com/yahoo/CMAK)                                              | 2018-04-27 | Scala      | 2021-04-23   |
+|  3 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md         | 2021-04-21   |
+|  4 | [apollo](https://github.com/ApolloAuto/apollo)                                     | 2019-01-30 | C++        | 2021-04-24   |
+|  5 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)         | 2016-09-22 | JavaScript | 2021-04-20   |
+|  6 | [fonts](https://github.com/powerline/fonts)                                        | 2020-07-23 | Shell      | 2021-04-24   |
+|  7 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                     | 2020-02-23 | Go         | 2021-04-16   |
+|  8 | [express](https://github.com/expressjs/express)                                    | 2016-03-25 | JavaScript | 2021-04-24   |
+|  9 | [Mongood](https://github.com/RenzHoly/Mongood)                                     | 2020-08-06 | TypeScript | 2021-04-24   |
+| 10 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)            | 2018-08-05 | md         | 2021-04-24   |
 
 <!--END_SECTION:my_github-->
