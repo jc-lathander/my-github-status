@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)           | 2020-01-19 | md         | 2021-04-09   |
-|  2 | [CMAK](https://github.com/yahoo/CMAK)                                              | 2018-04-27 | Scala      | 2021-04-23   |
-|  3 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md         | 2021-04-21   |
-|  4 | [apollo](https://github.com/ApolloAuto/apollo)                                     | 2019-01-30 | C++        | 2021-04-24   |
-|  5 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)         | 2016-09-22 | JavaScript | 2021-04-20   |
-|  6 | [fonts](https://github.com/powerline/fonts)                                        | 2020-07-23 | Shell      | 2021-04-24   |
-|  7 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                     | 2020-02-23 | Go         | 2021-04-16   |
-|  8 | [express](https://github.com/expressjs/express)                                    | 2016-03-25 | JavaScript | 2021-04-24   |
-|  9 | [Mongood](https://github.com/RenzHoly/Mongood)                                     | 2020-08-06 | TypeScript | 2021-04-24   |
-| 10 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)            | 2018-08-05 | md         | 2021-04-24   |
+| ID |                                  REPO                                  | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [examples](https://github.com/elastic/examples)                        | 2016-09-27 | Jupyter Notebook | 2021-04-25   |
+|  2 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                | 2017-10-31 | C++              | 2021-04-25   |
+|  3 | [hosts](https://github.com/kelthuzadx/hosts)                           | 2017-04-26 | Rascal           | 2021-04-25   |
+|  4 | [yin](https://github.com/0x55aa/yin)                                   | 2019-04-21 | Java             | 2021-01-28   |
+|  5 | [feishu](https://github.com/fastwego/feishu)                           | 2020-08-19 | Go               | 2021-04-12   |
+|  6 | [zangodb](https://github.com/erikolson186/zangodb)                     | 2017-06-18 | JavaScript       | 2021-04-19   |
+|  7 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)          | 2019-10-29 | Go               | 2021-04-25   |
+|  8 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN) | 2018-06-08 | JavaScript       | 2021-04-23   |
+|  9 | [iso7064](https://github.com/danieltwagner/iso7064)                    | 2018-06-08 | Java             | 2021-03-05   |
+| 10 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)            | 2016-09-22 | JavaScript       | 2021-03-30   |
 
 <!--END_SECTION:my_github-->
