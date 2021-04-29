@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [insomnia](https://github.com/Kong/insomnia)                                    | 2017-06-13 | JavaScript       | 2021-04-27   |
-|  2 | [go_tls_example](https://github.com/michelia/go_tls_example)                    | 2020-02-23 | Go               | 2020-07-30   |
-|  3 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)      | 2017-05-08 | Python           | 2021-04-16   |
-|  4 | [m-cli](https://github.com/rgcr/m-cli)                                          | 2019-12-04 | Shell            | 2021-04-26   |
-|  5 | [CMAK](https://github.com/yahoo/CMAK)                                           | 2018-04-27 | Scala            | 2021-04-27   |
-|  6 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md               | 2021-04-27   |
-|  7 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                   | 2019-10-29 | Go               | 2021-04-27   |
-|  8 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                       | 2018-11-23 | PHP              | 2021-04-25   |
-|  9 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)         | 2017-02-03 | md               | 2021-03-17   |
-| 10 | [examples](https://github.com/elastic/examples)                                 | 2016-09-27 | Jupyter Notebook | 2021-04-27   |
+| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [gin-admin](https://github.com/LyricTian/gin-admin)                      | 2020-02-25 | Go         | 2021-04-28   |
+|  2 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)  | 2019-12-15 | C++        | 2021-04-14   |
+|  3 | [bannedwords](https://github.com/spetacular/bannedwords)                 | 2016-11-07 | PHP        | 2021-04-19   |
+|  4 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina) | 2020-01-19 | md         | 2021-04-09   |
+|  5 | [awesome-egg](https://github.com/eggjs/awesome-egg)                      | 2019-06-05 | md         | 2021-04-18   |
+|  6 | [fuckword](https://github.com/NextZeus/fuckword)                         | 2016-11-07 | JavaScript | 2019-11-27   |
+|  7 | [gitignore](https://github.com/github/gitignore)                         | 2016-03-25 | md         | 2021-04-29   |
+|  8 | [go_tls_example](https://github.com/michelia/go_tls_example)             | 2020-02-23 | Go         | 2020-07-30   |
+|  9 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)               | 2020-01-19 | PHP        | 2021-04-25   |
+| 10 | [whistle](https://github.com/avwo/whistle)                               | 2018-03-29 | JavaScript | 2021-04-28   |
 
 <!--END_SECTION:my_github-->
