@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [msbingo](https://github.com/khoad/msbingo)                                                           | 2020-01-17 | Go         | 2020-07-16   |
-|  2 | [gnvm](https://github.com/Kenshin/gnvm)                                                               | 2016-04-28 | Go         | 2021-04-29   |
-|  3 | [blog](https://github.com/xizhibei/blog)                                                              | 2018-05-05 | HTML       | 2021-05-01   |
-|  4 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-04-25   |
-|  5 | [egg-24time](https://github.com/seasonstar/egg-24time)                                                | 2018-04-28 | JavaScript | 2021-04-08   |
-|  6 | [kratos](https://github.com/go-kratos/kratos)                                                         | 2019-04-22 | Go         | 2021-05-03   |
-|  7 | [PowerJob](https://github.com/PowerJob/PowerJob)                                                      | 2020-08-04 | Java       | 2021-05-03   |
-|  8 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                                     | 2019-10-23 | Go         | 2021-02-02   |
-|  9 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                                | 2018-10-02 | HTML       | 2021-04-28   |
-| 10 | [awesome-go](https://github.com/avelino/awesome-go)                                                   | 2017-10-30 | Go         | 2021-05-03   |
+| ID |                                        REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [examples](https://github.com/elastic/examples)                                    | 2016-09-27 | Jupyter Notebook | 2021-05-04   |
+|  2 | [blog](https://github.com/xizhibei/blog)                                           | 2018-05-05 | HTML             | 2021-05-01   |
+|  3 | [superset](https://github.com/apache/superset)                                     | 2016-09-27 | Python           | 2021-05-05   |
+|  4 | [iptv](https://github.com/iptv-org/iptv)                                           | 2020-02-19 | JavaScript       | 2021-05-05   |
+|  5 | [apollo](https://github.com/ApolloAuto/apollo)                                     | 2019-01-30 | C++              | 2021-05-04   |
+|  6 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                        | 2020-08-06 | Ruby             | 2021-05-04   |
+|  7 | [whistle](https://github.com/avwo/whistle)                                         | 2018-03-29 | JavaScript       | 2021-05-04   |
+|  8 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md               | 2021-05-03   |
+|  9 | [website](https://github.com/openpitrix/website)                                   | 2019-01-23 | JavaScript       | 2020-06-17   |
+| 10 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                          | 2018-11-23 | PHP              | 2021-05-04   |
 
 <!--END_SECTION:my_github-->
