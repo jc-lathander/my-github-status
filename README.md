@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [examples](https://github.com/elastic/examples)                                    | 2016-09-27 | Jupyter Notebook | 2021-05-04   |
-|  2 | [blog](https://github.com/xizhibei/blog)                                           | 2018-05-05 | HTML             | 2021-05-01   |
-|  3 | [superset](https://github.com/apache/superset)                                     | 2016-09-27 | Python           | 2021-05-05   |
-|  4 | [iptv](https://github.com/iptv-org/iptv)                                           | 2020-02-19 | JavaScript       | 2021-05-05   |
-|  5 | [apollo](https://github.com/ApolloAuto/apollo)                                     | 2019-01-30 | C++              | 2021-05-04   |
-|  6 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                        | 2020-08-06 | Ruby             | 2021-05-04   |
-|  7 | [whistle](https://github.com/avwo/whistle)                                         | 2018-03-29 | JavaScript       | 2021-05-04   |
-|  8 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md               | 2021-05-03   |
-|  9 | [website](https://github.com/openpitrix/website)                                   | 2019-01-23 | JavaScript       | 2020-06-17   |
-| 10 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                          | 2018-11-23 | PHP              | 2021-05-04   |
+| ID |                                        REPO                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                              | 2019-12-10 | Go               | 2021-05-06   |
+|  2 | [examples](https://github.com/elastic/examples)                                     | 2016-09-27 | Jupyter Notebook | 2021-05-05   |
+|  3 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)              | 2018-06-08 | JavaScript       | 2021-05-04   |
+|  4 | [GAutomator](https://github.com/Tencent/GAutomator)                                 | 2017-04-15 | Objective-C      | 2021-04-29   |
+|  5 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)     | 2020-08-14 | md               | 2021-05-05   |
+|  6 | [superset](https://github.com/apache/superset)                                      | 2016-09-27 | Python           | 2021-05-05   |
+|  7 | [go-study-index](https://github.com/unknwon/go-study-index)                         | 2017-10-30 | md               | 2021-05-03   |
+|  8 | [Mongood](https://github.com/RenzHoly/Mongood)                                      | 2020-08-06 | TypeScript       | 2021-05-04   |
+|  9 | [awesome-v](https://github.com/vlang/awesome-v)                                     | 2019-11-26 | md               | 2021-05-04   |
+| 10 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md               | 2021-05-03   |
 
 <!--END_SECTION:my_github-->
