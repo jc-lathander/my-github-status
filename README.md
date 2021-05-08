@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-design](https://github.com/gztchan/awesome-design)                                   | 2016-09-07 | md         | 2021-05-06   |
-|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)                                              | 2019-12-10 | Go         | 2021-05-06   |
-|  3 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-04-09   |
-|  4 | [winpcap](https://github.com/patmarion/winpcap)                                               | 2020-04-08 | C          | 2020-04-30   |
-|  5 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                              | 2020-08-12 | Go         | 2021-03-25   |
-|  6 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)                    | 2016-09-22 | JavaScript | 2021-04-20   |
-|  7 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                           | 2019-03-16 | JavaScript | 2020-07-18   |
-|  8 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                                          | 2020-11-16 | JavaScript | 2021-05-06   |
-|  9 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                           | 2019-06-05 | md         | 2021-04-18   |
-| 10 | [gnvm](https://github.com/Kenshin/gnvm)                                                       | 2016-04-28 | Go         | 2021-05-06   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [blog](https://github.com/fouber/blog)                                  | 2017-03-21 | md         | 2021-05-07   |
+|  2 | [m-cli](https://github.com/rgcr/m-cli)                                  | 2019-12-04 | Shell      | 2021-05-07   |
+|  3 | [alwsl](https://github.com/alwsl/alwsl)                                 | 2017-04-15 | Batchfile  | 2021-05-07   |
+|  4 | [express](https://github.com/expressjs/express)                         | 2016-03-25 | JavaScript | 2021-05-07   |
+|  5 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)             | 2016-09-22 | JavaScript | 2021-03-30   |
+|  6 | [go-v8](https://github.com/lazytiger/go-v8)                             | 2017-05-01 | Go         | 2021-05-07   |
+|  7 | [blog](https://github.com/xizhibei/blog)                                | 2018-05-05 | HTML       | 2021-05-07   |
+|  8 | [whistle](https://github.com/avwo/whistle)                              | 2018-03-29 | JavaScript | 2021-05-07   |
+|  9 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 2018-08-05 | md         | 2021-05-07   |
+| 10 | [superset](https://github.com/apache/superset)                          | 2016-09-27 | Python     | 2021-05-07   |
 
 <!--END_SECTION:my_github-->
