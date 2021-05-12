@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                              | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [mqtt](https://github.com/mcxiaoke/mqtt)                       | 2017-05-04 | Rich Text Format | 2021-05-10   |
-|  2 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)    | 2016-09-22 | JavaScript       | 2021-03-30   |
-|  3 | [gnvm](https://github.com/Kenshin/gnvm)                        | 2016-04-28 | Go               | 2021-05-06   |
-|  4 | [fonts](https://github.com/powerline/fonts)                    | 2020-07-23 | Shell            | 2021-05-10   |
-|  5 | [gadmin](https://github.com/hailaz/gadmin)                     | 2020-02-25 | Go               | 2021-03-04   |
-|  6 | [feishu](https://github.com/fastwego/feishu)                   | 2020-08-19 | Go               | 2021-04-28   |
-|  7 | [zangodb](https://github.com/erikolson186/zangodb)             | 2017-06-18 | JavaScript       | 2021-05-07   |
-|  8 | [wechat](https://github.com/node-webot/wechat)                 | 2016-09-22 | JavaScript       | 2021-05-08   |
-|  9 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)      | 2018-07-09 | JavaScript       | 2020-03-26   |
-| 10 | [casbin-go-client](https://github.com/casbin/casbin-go-client) | 2020-01-19 | Go               | 2021-05-07   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                                     | 2019-10-29 | C++        | 2021-03-23   |
+|  2 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-04-25   |
+|  3 | [feishu](https://github.com/fastwego/feishu)                                                          | 2020-08-19 | Go         | 2021-04-28   |
+|  4 | [zangodb](https://github.com/erikolson186/zangodb)                                                    | 2017-06-18 | JavaScript | 2021-05-07   |
+|  5 | [go_tls_example](https://github.com/michelia/go_tls_example)                                          | 2020-02-23 | Go         | 2020-07-30   |
+|  6 | [gf](https://github.com/gogf/gf)                                                                      | 2020-01-13 | Go         | 2021-05-11   |
+|  7 | [shellcheck](https://github.com/koalaman/shellcheck)                                                  | 2019-06-02 | Haskell    | 2021-05-11   |
+|  8 | [kratos](https://github.com/go-kratos/kratos)                                                         | 2019-04-22 | Go         | 2021-05-11   |
+|  9 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                   | 2020-02-25 | Go         | 2021-05-10   |
+| 10 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)                                          | 2019-01-21 | JavaScript | 2021-05-11   |
 
 <!--END_SECTION:my_github-->
