@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                                     | 2019-10-29 | C++        | 2021-03-23   |
-|  2 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-04-25   |
-|  3 | [feishu](https://github.com/fastwego/feishu)                                                          | 2020-08-19 | Go         | 2021-04-28   |
-|  4 | [zangodb](https://github.com/erikolson186/zangodb)                                                    | 2017-06-18 | JavaScript | 2021-05-07   |
-|  5 | [go_tls_example](https://github.com/michelia/go_tls_example)                                          | 2020-02-23 | Go         | 2020-07-30   |
-|  6 | [gf](https://github.com/gogf/gf)                                                                      | 2020-01-13 | Go         | 2021-05-11   |
-|  7 | [shellcheck](https://github.com/koalaman/shellcheck)                                                  | 2019-06-02 | Haskell    | 2021-05-11   |
-|  8 | [kratos](https://github.com/go-kratos/kratos)                                                         | 2019-04-22 | Go         | 2021-05-11   |
-|  9 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                   | 2020-02-25 | Go         | 2021-05-10   |
-| 10 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)                                          | 2019-01-21 | JavaScript | 2021-05-11   |
+| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp)              | 2016-09-23 | JavaScript | 2021-04-28   |
+|  2 | [go-study-index](https://github.com/unknwon/go-study-index)                         | 2017-10-30 | md         | 2021-05-12   |
+|  3 | [bannedwords](https://github.com/spetacular/bannedwords)                            | 2016-11-07 | PHP        | 2021-05-10   |
+|  4 | [Potatso](https://github.com/icodesign/Potatso)                                     | 2016-06-30 | md         | 2021-05-06   |
+|  5 | [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter)                   | 2017-04-12 | Go         | 2021-05-11   |
+|  6 | [m-cli](https://github.com/rgcr/m-cli)                                              | 2019-12-04 | Shell      | 2021-05-12   |
+|  7 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md         | 2021-05-12   |
+|  8 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                                | 2020-11-16 | JavaScript | 2021-05-12   |
+|  9 | [feishu](https://github.com/fastwego/feishu)                                        | 2020-08-19 | Go         | 2021-05-12   |
+| 10 | [ajv](https://github.com/ajv-validator/ajv)                                         | 2018-04-26 | TypeScript | 2021-05-12   |
 
 <!--END_SECTION:my_github-->
