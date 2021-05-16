@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-04-09   |
-|  2 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)                       | 2019-12-15 | C++        | 2021-04-14   |
-|  3 | [goadmin](https://github.com/CrazyRocks/goadmin)                                              | 2020-01-13 | Go         | 2021-04-17   |
-|  4 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                             | 2019-10-29 | C++        | 2021-03-23   |
-|  5 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)                         | 2020-10-21 | JavaScript | 2021-05-14   |
-|  6 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)                                  | 2019-04-22 | TypeScript | 2021-05-10   |
-|  7 | [fuckword](https://github.com/NextZeus/fuckword)                                              | 2016-11-07 | JavaScript | 2019-11-27   |
-|  8 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                                        | 2020-01-19 | Go         | 2021-05-11   |
-|  9 | [insomnia](https://github.com/Kong/insomnia)                                                  | 2017-06-13 | JavaScript | 2021-05-15   |
-| 10 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                   | 2020-08-06 | Ruby       | 2021-05-15   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [zangodb](https://github.com/erikolson186/zangodb)                                                            | 2017-06-18 | JavaScript | 2021-05-12   |
+|  2 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-05-15   |
+|  3 | [cpython](https://github.com/python/cpython)                                                                  | 2017-07-03 | Python     | 2021-05-15   |
+|  4 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                           | 2020-02-25 | Go         | 2021-05-14   |
+|  5 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh)         | 2019-12-22 | md         | 2021-04-25   |
+|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)                                                              | 2019-12-10 | Go         | 2021-05-15   |
+|  7 | [blog](https://github.com/fouber/blog)                                                                        | 2017-03-21 | md         | 2021-05-14   |
+|  8 | [pix2code](https://github.com/tonybeltramelli/pix2code)                                                       | 2017-05-30 | Python     | 2021-05-15   |
+|  9 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)                                         | 2019-01-16 | Java       | 2021-05-14   |
+| 10 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)                                    | 2017-05-08 | Python     | 2021-05-01   |
 
 <!--END_SECTION:my_github-->
