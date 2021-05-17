@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [zangodb](https://github.com/erikolson186/zangodb)                                                            | 2017-06-18 | JavaScript | 2021-05-12   |
-|  2 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-05-15   |
-|  3 | [cpython](https://github.com/python/cpython)                                                                  | 2017-07-03 | Python     | 2021-05-15   |
-|  4 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                           | 2020-02-25 | Go         | 2021-05-14   |
-|  5 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh)         | 2019-12-22 | md         | 2021-04-25   |
-|  6 | [kubeedge](https://github.com/kubeedge/kubeedge)                                                              | 2019-12-10 | Go         | 2021-05-15   |
-|  7 | [blog](https://github.com/fouber/blog)                                                                        | 2017-03-21 | md         | 2021-05-14   |
-|  8 | [pix2code](https://github.com/tonybeltramelli/pix2code)                                                       | 2017-05-30 | Python     | 2021-05-15   |
-|  9 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)                                         | 2019-01-16 | Java       | 2021-05-14   |
-| 10 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)                                    | 2017-05-08 | Python     | 2021-05-01   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                          | 2019-12-10 | Go         | 2021-05-17   |
+|  2 | [whistle](https://github.com/avwo/whistle)                                      | 2018-03-29 | JavaScript | 2021-05-16   |
+|  3 | [Potatso](https://github.com/icodesign/Potatso)                                 | 2016-06-30 | md         | 2021-05-06   |
+|  4 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                            | 2020-11-16 | JavaScript | 2021-05-16   |
+|  5 | [wechat](https://github.com/node-webot/wechat)                                  | 2016-09-22 | JavaScript | 2021-05-12   |
+|  6 | [vscode-python](https://github.com/microsoft/vscode-python)                     | 2017-11-10 | TypeScript | 2021-05-16   |
+|  7 | [awesome-go](https://github.com/avelino/awesome-go)                             | 2017-10-30 | Go         | 2021-05-17   |
+|  8 | [bannedwords](https://github.com/spetacular/bannedwords)                        | 2016-11-07 | PHP        | 2021-05-10   |
+|  9 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                      | 2020-01-19 | PHP        | 2021-05-16   |
+| 10 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-05-16   |
 
 <!--END_SECTION:my_github-->
