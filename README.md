@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kubernetes](https://github.com/kubernetes/kubernetes)                          | 2019-12-10 | Go         | 2021-05-17   |
-|  2 | [whistle](https://github.com/avwo/whistle)                                      | 2018-03-29 | JavaScript | 2021-05-16   |
-|  3 | [Potatso](https://github.com/icodesign/Potatso)                                 | 2016-06-30 | md         | 2021-05-06   |
-|  4 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                            | 2020-11-16 | JavaScript | 2021-05-16   |
-|  5 | [wechat](https://github.com/node-webot/wechat)                                  | 2016-09-22 | JavaScript | 2021-05-12   |
-|  6 | [vscode-python](https://github.com/microsoft/vscode-python)                     | 2017-11-10 | TypeScript | 2021-05-16   |
-|  7 | [awesome-go](https://github.com/avelino/awesome-go)                             | 2017-10-30 | Go         | 2021-05-17   |
-|  8 | [bannedwords](https://github.com/spetacular/bannedwords)                        | 2016-11-07 | PHP        | 2021-05-10   |
-|  9 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                      | 2020-01-19 | PHP        | 2021-05-16   |
-| 10 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-05-16   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)         | 2016-09-23 | JavaScript | 2021-05-17   |
+|  2 | [docsify](https://github.com/docsifyjs/docsify)                         | 2016-11-27 | JavaScript | 2021-05-17   |
+|  3 | [toc](https://github.com/cncf/toc)                                      | 2020-07-27 | md         | 2021-05-14   |
+|  4 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)              | 2020-01-19 | PHP        | 2021-05-16   |
+|  5 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript | 2021-03-28   |
+|  6 | [fuckword](https://github.com/NextZeus/fuckword)                        | 2016-11-07 | JavaScript | 2019-11-27   |
+|  7 | [goadmin](https://github.com/CrazyRocks/goadmin)                        | 2020-01-13 | Go         | 2021-04-17   |
+|  8 | [CMAK](https://github.com/yahoo/CMAK)                                   | 2018-04-27 | Scala      | 2021-05-17   |
+|  9 | [go-study-index](https://github.com/unknwon/go-study-index)             | 2017-10-30 | md         | 2021-05-17   |
+| 10 | [orange](https://github.com/orlabs/orange)                              | 2017-03-08 | Lua        | 2021-05-13   |
 
 <!--END_SECTION:my_github-->
