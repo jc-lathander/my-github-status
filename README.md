@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                                                | 2020-04-28 | C          | 2020-04-28   |
-|  2 | [gf-demos](https://github.com/gogf/gf-demos)                                                          | 2020-02-25 | Go         | 2021-05-21   |
-|  3 | [msbingo](https://github.com/khoad/msbingo)                                                           | 2020-01-17 | Go         | 2020-07-16   |
-|  4 | [blog](https://github.com/fouber/blog)                                                                | 2017-03-21 | md         | 2021-05-21   |
-|  5 | [iptv](https://github.com/iptv-org/iptv)                                                              | 2020-02-19 | JavaScript | 2021-05-22   |
-|  6 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-04-25   |
-|  7 | [go_tls_example](https://github.com/michelia/go_tls_example)                                          | 2020-02-23 | Go         | 2020-07-30   |
-|  8 | [apollo](https://github.com/ApolloAuto/apollo)                                                        | 2019-01-30 | C++        | 2021-05-21   |
-|  9 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)                                   | 2019-06-07 | PHP        | 2021-05-21   |
-| 10 | [whistle](https://github.com/avwo/whistle)                                                            | 2018-03-29 | JavaScript | 2021-05-21   |
+|  1 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                                               | 2017-04-18 | Shell      | 2021-05-20   |
+|  2 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)                       | 2020-08-14 | md         | 2021-05-22   |
+|  3 | [cpython](https://github.com/python/cpython)                                                          | 2017-07-03 | Python     | 2021-05-22   |
+|  4 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)                                 | 2020-10-21 | JavaScript | 2021-05-22   |
+|  5 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                                       | 2017-08-08 | Erlang     | 2021-05-06   |
+|  6 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                   | 2019-03-16 | JavaScript | 2020-07-18   |
+|  7 | [iptv](https://github.com/iptv-org/iptv)                                                              | 2020-02-19 | JavaScript | 2021-05-23   |
+|  8 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-04-25   |
+|  9 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                                      | 2020-08-12 | Go         | 2021-05-20   |
+| 10 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                             | 2018-07-09 | JavaScript | 2020-03-26   |
 
 <!--END_SECTION:my_github-->
