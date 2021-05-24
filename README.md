@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                                               | 2017-04-18 | Shell      | 2021-05-20   |
-|  2 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)                       | 2020-08-14 | md         | 2021-05-22   |
-|  3 | [cpython](https://github.com/python/cpython)                                                          | 2017-07-03 | Python     | 2021-05-22   |
-|  4 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)                                 | 2020-10-21 | JavaScript | 2021-05-22   |
-|  5 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                                       | 2017-08-08 | Erlang     | 2021-05-06   |
-|  6 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                   | 2019-03-16 | JavaScript | 2020-07-18   |
-|  7 | [iptv](https://github.com/iptv-org/iptv)                                                              | 2020-02-19 | JavaScript | 2021-05-23   |
-|  8 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-04-25   |
-|  9 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                                      | 2020-08-12 | Go         | 2021-05-20   |
-| 10 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                             | 2018-07-09 | JavaScript | 2020-03-26   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese)            | 2018-09-07 | md         | 2021-05-23   |
+|  2 | [Mongood](https://github.com/renzholy/Mongood)                                                | 2020-08-06 | TypeScript | 2021-05-19   |
+|  3 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                                     | 2018-11-23 | PHP        | 2021-05-22   |
+|  4 | [orange](https://github.com/orlabs/orange)                                                    | 2017-03-08 | Lua        | 2021-05-23   |
+|  5 | [express](https://github.com/expressjs/express)                                               | 2016-03-25 | JavaScript | 2021-05-23   |
+|  6 | [CMAK](https://github.com/yahoo/CMAK)                                                         | 2018-04-27 | Scala      | 2021-05-23   |
+|  7 | [fuckword](https://github.com/NextZeus/fuckword)                                              | 2016-11-07 | JavaScript | 2019-11-27   |
+|  8 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-04-09   |
+|  9 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)                                 | 2019-12-03 | Python     | 2021-05-21   |
+| 10 | [wechat](https://github.com/node-webot/wechat)                                                | 2016-09-22 | JavaScript | 2021-05-22   |
 
 <!--END_SECTION:my_github-->
