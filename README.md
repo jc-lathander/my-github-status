@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [winpcap](https://github.com/patmarion/winpcap)                          | 2020-04-08 | C          | 2020-04-30   |
-|  2 | [websocket-bench](https://github.com/M6Web/websocket-bench)              | 2016-09-27 | JavaScript | 2021-05-08   |
-|  3 | [CMAK](https://github.com/yahoo/CMAK)                                    | 2018-04-27 | Scala      | 2021-05-24   |
-|  4 | [conference](https://github.com/gopherchina/conference)                  | 2020-11-24 | md         | 2021-05-22   |
-|  5 | [acme.sh](https://github.com/acmesh-official/acme.sh)                    | 2016-04-21 | Shell      | 2021-05-24   |
-|  6 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)         | 2016-11-07 | md         | 2021-05-24   |
-|  7 | [toc](https://github.com/cncf/toc)                                       | 2020-07-27 | md         | 2021-05-24   |
-|  8 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina) | 2020-01-19 | md         | 2021-04-09   |
-|  9 | [awesome-egg](https://github.com/eggjs/awesome-egg)                      | 2019-06-05 | md         | 2021-05-21   |
-| 10 | [simhash](https://github.com/yanyiwu/simhash)                            | 2016-09-23 | C++        | 2021-05-21   |
+| ID |                                  REPO                                   | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [awesome-design](https://github.com/gztchan/awesome-design)             | 2016-09-07 | md           | 2021-05-25   |
+|  2 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                 | 2017-11-06 | CoffeeScript | 2021-03-19   |
+|  3 | [escpos-php](https://github.com/mike42/escpos-php)                      | 2016-09-26 | PHP          | 2021-05-20   |
+|  4 | [iptv](https://github.com/iptv-org/iptv)                                | 2020-02-19 | JavaScript   | 2021-05-26   |
+|  5 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)       | 2019-10-23 | Go           | 2021-05-20   |
+|  6 | [GAutomator](https://github.com/Tencent/GAutomator)                     | 2017-04-15 | Objective-C  | 2021-05-19   |
+|  7 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript   | 2021-03-28   |
+|  8 | [wechat](https://github.com/node-webot/wechat)                          | 2016-09-22 | JavaScript   | 2021-05-22   |
+|  9 | [casbin-go-client](https://github.com/casbin/casbin-go-client)          | 2020-01-19 | Go           | 2021-05-07   |
+| 10 | [awesome-egg](https://github.com/eggjs/awesome-egg)                     | 2019-06-05 | md           | 2021-05-21   |
 
 <!--END_SECTION:my_github-->
