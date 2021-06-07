@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [binary-parser](https://github.com/Ericbla/binary-parser)      | 2019-03-30 | JavaScript | 2021-04-20   |
-|  2 | [go-study-index](https://github.com/unknwon/go-study-index)    | 2017-10-30 | md         | 2021-06-06   |
-|  3 | [whistle](https://github.com/avwo/whistle)                     | 2018-03-29 | JavaScript | 2021-06-05   |
-|  4 | [tonic](https://github.com/hyperium/tonic)                     | 2020-08-14 | Rust       | 2021-06-05   |
-|  5 | [casbin-go-client](https://github.com/casbin/casbin-go-client) | 2020-01-19 | Go         | 2021-05-07   |
-|  6 | [gadmin](https://github.com/hailaz/gadmin)                     | 2020-02-25 | Go         | 2021-06-02   |
-|  7 | [hosts](https://github.com/kelthuzadx/hosts)                   | 2017-04-26 | Rascal     | 2021-06-05   |
-|  8 | [go_tls_example](https://github.com/michelia/go_tls_example)   | 2020-02-23 | Go         | 2020-07-30   |
-|  9 | [conference](https://github.com/gopherchina/conference)        | 2020-11-24 | md         | 2021-06-05   |
-| 10 | [msbingo](https://github.com/khoad/msbingo)                    | 2020-01-17 | Go         | 2021-06-04   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)            | 2017-02-03 | md         | 2021-03-17   |
+|  2 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python     | 2021-05-27   |
+|  3 | [conference](https://github.com/gopherchina/conference)                            | 2020-11-24 | md         | 2021-06-06   |
+|  4 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)                       | 2019-04-22 | TypeScript | 2021-06-03   |
+|  5 | [grpcman](https://github.com/grpcman/grpcman)                                      | 2020-08-12 | Vue        | 2021-06-02   |
+|  6 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                         | 2020-01-19 | PHP        | 2021-06-06   |
+|  7 | [acme.sh](https://github.com/acmesh-official/acme.sh)                              | 2016-04-21 | Shell      | 2021-06-06   |
+|  8 | [debugcharts](https://github.com/mkevac/debugcharts)                               | 2017-05-01 | Go         | 2021-06-04   |
+|  9 | [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter)                  | 2017-04-12 | Go         | 2021-06-04   |
+| 10 | [gadmin](https://github.com/hailaz/gadmin)                                         | 2020-02-25 | Go         | 2021-06-02   |
 
 <!--END_SECTION:my_github-->
