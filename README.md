@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)            | 2017-02-03 | md         | 2021-03-17   |
-|  2 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python     | 2021-05-27   |
-|  3 | [conference](https://github.com/gopherchina/conference)                            | 2020-11-24 | md         | 2021-06-06   |
-|  4 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)                       | 2019-04-22 | TypeScript | 2021-06-03   |
-|  5 | [grpcman](https://github.com/grpcman/grpcman)                                      | 2020-08-12 | Vue        | 2021-06-02   |
-|  6 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                         | 2020-01-19 | PHP        | 2021-06-06   |
-|  7 | [acme.sh](https://github.com/acmesh-official/acme.sh)                              | 2016-04-21 | Shell      | 2021-06-06   |
-|  8 | [debugcharts](https://github.com/mkevac/debugcharts)                               | 2017-05-01 | Go         | 2021-06-04   |
-|  9 | [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter)                  | 2017-04-12 | Go         | 2021-06-04   |
-| 10 | [gadmin](https://github.com/hailaz/gadmin)                                         | 2020-02-25 | Go         | 2021-06-02   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [PowerJob](https://github.com/PowerJob/PowerJob)                                                              | 2020-08-04 | Java       | 2021-06-07   |
+|  2 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                                                          | 2020-11-16 | JavaScript | 2021-06-08   |
+|  3 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-06-07   |
+|  4 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                           | 2019-03-16 | JavaScript | 2020-07-18   |
+|  5 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese)                            | 2018-09-07 | md         | 2021-06-08   |
+|  6 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                            | 2017-04-15 | Python     | 2021-06-07   |
+|  7 | [whistle](https://github.com/avwo/whistle)                                                                    | 2018-03-29 | JavaScript | 2021-06-07   |
+|  8 | [v](https://github.com/vlang/v)                                                                               | 2019-04-09 | V          | 2021-06-08   |
+|  9 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)                               | 2020-08-14 | md         | 2021-06-07   |
+| 10 | [bannedwords](https://github.com/spetacular/bannedwords)                                                      | 2016-11-07 | PHP        | 2021-05-10   |
 
 <!--END_SECTION:my_github-->
