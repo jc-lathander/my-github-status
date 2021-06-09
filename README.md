@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [PowerJob](https://github.com/PowerJob/PowerJob)                                                              | 2020-08-04 | Java       | 2021-06-07   |
-|  2 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                                                          | 2020-11-16 | JavaScript | 2021-06-08   |
-|  3 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-06-07   |
-|  4 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                           | 2019-03-16 | JavaScript | 2020-07-18   |
-|  5 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese)                            | 2018-09-07 | md         | 2021-06-08   |
-|  6 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                            | 2017-04-15 | Python     | 2021-06-07   |
-|  7 | [whistle](https://github.com/avwo/whistle)                                                                    | 2018-03-29 | JavaScript | 2021-06-07   |
-|  8 | [v](https://github.com/vlang/v)                                                                               | 2019-04-09 | V          | 2021-06-08   |
-|  9 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)                               | 2020-08-14 | md         | 2021-06-07   |
-| 10 | [bannedwords](https://github.com/spetacular/bannedwords)                                                      | 2016-11-07 | PHP        | 2021-05-10   |
+| ID |                                                REPO                                                | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                                            | 2017-04-18 | Shell            | 2021-06-07   |
+|  2 | [fonts](https://github.com/powerline/fonts)                                                        | 2020-07-23 | Shell            | 2021-06-08   |
+|  3 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                     | 2020-02-23 | Go               | 2021-05-07   |
+|  4 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                             | 2018-10-02 | HTML             | 2021-06-04   |
+|  5 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)                    | 2020-08-14 | md               | 2021-06-08   |
+|  6 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)                            | 2016-09-27 | JavaScript       | 2021-04-24   |
+|  7 | [grpcui](https://github.com/fullstorydev/grpcui)                                                   | 2020-08-12 | JavaScript       | 2021-06-08   |
+|  8 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | md               | 2021-06-08   |
+|  9 | [Tars](https://github.com/TarsCloud/Tars)                                                          | 2017-11-02 | C++              | 2021-06-08   |
+| 10 | [mqtt](https://github.com/mcxiaoke/mqtt)                                                           | 2017-05-04 | Rich Text Format | 2021-06-08   |
 
 <!--END_SECTION:my_github-->
