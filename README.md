@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [GAutomator](https://github.com/Tencent/GAutomator)                                 | 2017-04-15 | Objective-C | 2021-06-12   |
-|  2 | [egg-24time](https://github.com/seasonstar/egg-24time)                              | 2018-04-28 | JavaScript  | 2021-06-08   |
-|  3 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                     | 2017-08-08 | Erlang      | 2021-06-01   |
-|  4 | [apollo](https://github.com/ApolloAuto/apollo)                                      | 2019-01-30 | C++         | 2021-06-12   |
-|  5 | [escpos-php](https://github.com/mike42/escpos-php)                                  | 2016-09-26 | PHP         | 2021-06-11   |
-|  6 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)             | 2019-12-15 | C++         | 2021-05-18   |
-|  7 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md          | 2021-06-12   |
-|  8 | [conference](https://github.com/gopherchina/conference)                             | 2020-11-24 | md          | 2021-06-12   |
-|  9 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)                 | 2019-06-07 | PHP         | 2021-06-12   |
-| 10 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)               | 2019-01-16 | Java        | 2021-06-11   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [iptv](https://github.com/iptv-org/iptv)                                           | 2020-02-19 | JavaScript | 2021-06-14   |
+|  2 | [Tars](https://github.com/TarsCloud/Tars)                                          | 2017-11-02 | C++        | 2021-06-13   |
+|  3 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                   | 2020-08-12 | Go         | 2021-05-23   |
+|  4 | [CMAK](https://github.com/yahoo/CMAK)                                              | 2018-04-27 | Scala      | 2021-06-13   |
+|  5 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                             | 2020-04-28 | C          | 2020-04-28   |
+|  6 | [gf](https://github.com/gogf/gf)                                                   | 2020-01-13 | Go         | 2021-06-13   |
+|  7 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python     | 2021-06-07   |
+|  8 | [acme.sh](https://github.com/acmesh-official/acme.sh)                              | 2016-04-21 | Shell      | 2021-06-13   |
+|  9 | [hosts](https://github.com/kelthuzadx/hosts)                                       | 2017-04-26 | Rascal     | 2021-06-13   |
+| 10 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                               | 2020-11-16 | JavaScript | 2021-06-13   |
 
 <!--END_SECTION:my_github-->
