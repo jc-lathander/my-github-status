@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [iptv](https://github.com/iptv-org/iptv)                                           | 2020-02-19 | JavaScript | 2021-06-14   |
-|  2 | [Tars](https://github.com/TarsCloud/Tars)                                          | 2017-11-02 | C++        | 2021-06-13   |
-|  3 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                   | 2020-08-12 | Go         | 2021-05-23   |
-|  4 | [CMAK](https://github.com/yahoo/CMAK)                                              | 2018-04-27 | Scala      | 2021-06-13   |
-|  5 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                             | 2020-04-28 | C          | 2020-04-28   |
-|  6 | [gf](https://github.com/gogf/gf)                                                   | 2020-01-13 | Go         | 2021-06-13   |
-|  7 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python     | 2021-06-07   |
-|  8 | [acme.sh](https://github.com/acmesh-official/acme.sh)                              | 2016-04-21 | Shell      | 2021-06-13   |
-|  9 | [hosts](https://github.com/kelthuzadx/hosts)                                       | 2017-04-26 | Rascal     | 2021-06-13   |
-| 10 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                               | 2020-11-16 | JavaScript | 2021-06-13   |
+| ID |                                  REPO                                  | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [toc](https://github.com/cncf/toc)                                     | 2020-07-27 | md               | 2021-06-12   |
+|  2 | [examples](https://github.com/elastic/examples)                        | 2016-09-27 | Jupyter Notebook | 2021-06-11   |
+|  3 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)            | 2020-08-06 | Ruby             | 2021-06-14   |
+|  4 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN) | 2018-06-08 | JavaScript       | 2021-06-08   |
+|  5 | [wechat-api](https://github.com/node-webot/wechat-api)                 | 2016-09-22 | JavaScript       | 2021-06-13   |
+|  6 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)  | 2020-10-21 | JavaScript       | 2021-06-14   |
+|  7 | [Potatso](https://github.com/icodesign/Potatso)                        | 2016-06-30 | md               | 2021-06-03   |
+|  8 | [winpcap](https://github.com/patmarion/winpcap)                        | 2020-04-08 | C                | 2020-04-30   |
+|  9 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                 | 2018-10-02 | HTML             | 2021-06-11   |
+| 10 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                   | 2020-11-16 | JavaScript       | 2021-06-14   |
 
 <!--END_SECTION:my_github-->
