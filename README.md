@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                                | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [iptv](https://github.com/iptv-org/iptv)                          | 2020-02-19 | JavaScript       | 2021-06-16   |
-|  2 | [kubernetes](https://github.com/kubernetes/kubernetes)            | 2019-12-10 | Go               | 2021-06-16   |
-|  3 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)   | 2016-09-23 | JavaScript       | 2021-06-02   |
-|  4 | [blog](https://github.com/xizhibei/blog)                          | 2018-05-05 | HTML             | 2021-06-04   |
-|  5 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)            | 2020-04-28 | C                | 2020-04-28   |
-|  6 | [egg-24time](https://github.com/seasonstar/egg-24time)            | 2018-04-28 | JavaScript       | 2021-06-08   |
-|  7 | [PowerJob](https://github.com/PowerJob/PowerJob)                  | 2020-08-04 | Java             | 2021-06-14   |
-|  8 | [mqtt](https://github.com/mcxiaoke/mqtt)                          | 2017-05-04 | Rich Text Format | 2021-06-15   |
-|  9 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi) | 2019-10-29 | C++              | 2021-03-23   |
-| 10 | [Tars](https://github.com/TarsCloud/Tars)                         | 2017-11-02 | C++              | 2021-06-15   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [blog](https://github.com/fouber/blog)                                     | 2017-03-21 | md         | 2021-06-16   |
+|  2 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                    | 2017-10-31 | C++        | 2021-06-16   |
+|  3 | [goadmin](https://github.com/CrazyRocks/goadmin)                           | 2020-01-13 | Go         | 2021-06-13   |
+|  4 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2021-06-13   |
+|  5 | [m-cli](https://github.com/rgcr/m-cli)                                     | 2019-12-04 | Shell      | 2021-06-16   |
+|  6 | [bannedwords](https://github.com/spetacular/bannedwords)                   | 2016-11-07 | PHP        | 2021-05-10   |
+|  7 | [ATX](https://github.com/NetEaseGame/ATX)                                  | 2017-04-15 | Python     | 2021-06-11   |
+|  8 | [awesome-design](https://github.com/gztchan/awesome-design)                | 2016-09-07 | md         | 2021-06-16   |
+|  9 | [whistle](https://github.com/avwo/whistle)                                 | 2018-03-29 | JavaScript | 2021-06-16   |
+| 10 | [zangodb](https://github.com/erikolson186/zangodb)                         | 2017-06-18 | JavaScript | 2021-06-14   |
 
 <!--END_SECTION:my_github-->
