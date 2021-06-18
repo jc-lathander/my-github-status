@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [blog](https://github.com/fouber/blog)                                     | 2017-03-21 | md         | 2021-06-16   |
-|  2 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                    | 2017-10-31 | C++        | 2021-06-16   |
-|  3 | [goadmin](https://github.com/CrazyRocks/goadmin)                           | 2020-01-13 | Go         | 2021-06-13   |
-|  4 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2021-06-13   |
-|  5 | [m-cli](https://github.com/rgcr/m-cli)                                     | 2019-12-04 | Shell      | 2021-06-16   |
-|  6 | [bannedwords](https://github.com/spetacular/bannedwords)                   | 2016-11-07 | PHP        | 2021-05-10   |
-|  7 | [ATX](https://github.com/NetEaseGame/ATX)                                  | 2017-04-15 | Python     | 2021-06-11   |
-|  8 | [awesome-design](https://github.com/gztchan/awesome-design)                | 2016-09-07 | md         | 2021-06-16   |
-|  9 | [whistle](https://github.com/avwo/whistle)                                 | 2018-03-29 | JavaScript | 2021-06-16   |
-| 10 | [zangodb](https://github.com/erikolson186/zangodb)                         | 2017-06-18 | JavaScript | 2021-06-14   |
+| ID |                                                 REPO                                                  | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md               | 2021-04-25   |
+|  2 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                                       | 2020-04-08 | Batchfile        | 2021-06-03   |
+|  3 | [mqtt](https://github.com/mcxiaoke/mqtt)                                                              | 2017-05-04 | Rich Text Format | 2021-06-17   |
+|  4 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                    | 2017-04-15 | Python           | 2021-06-16   |
+|  5 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                                                  | 2020-11-16 | JavaScript       | 2021-06-17   |
+|  6 | [gf](https://github.com/gogf/gf)                                                                      | 2020-01-13 | Go               | 2021-06-17   |
+|  7 | [debugcharts](https://github.com/mkevac/debugcharts)                                                  | 2017-05-01 | Go               | 2021-06-15   |
+|  8 | [vscode-python](https://github.com/microsoft/vscode-python)                                           | 2017-11-10 | TypeScript       | 2021-06-17   |
+|  9 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                                                | 2020-01-19 | Go               | 2021-06-11   |
+| 10 | [superset](https://github.com/apache/superset)                                                        | 2016-09-27 | Python           | 2021-06-17   |
 
 <!--END_SECTION:my_github-->
