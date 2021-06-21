@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [iptv](https://github.com/iptv-org/iptv)                                                      | 2020-02-19 | JavaScript | 2021-06-20   |
-|  2 | [iso7064](https://github.com/danieltwagner/iso7064)                                           | 2018-06-08 | Java       | 2021-03-05   |
-|  3 | [mongood](https://github.com/renzholy/mongood)                                                | 2020-08-06 | TypeScript | 2021-06-19   |
-|  4 | [go_tls_example](https://github.com/michelia/go_tls_example)                                  | 2020-02-23 | Go         | 2020-07-30   |
-|  5 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)                       | 2017-02-03 | md         | 2021-03-17   |
-|  6 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)                        | 2018-06-08 | JavaScript | 2021-06-15   |
-|  7 | [blog](https://github.com/fouber/blog)                                                        | 2017-03-21 | md         | 2021-06-18   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)                                        | 2019-12-10 | Go         | 2021-06-20   |
-|  9 | [debugcharts](https://github.com/mkevac/debugcharts)                                          | 2017-05-01 | Go         | 2021-06-19   |
-| 10 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-04-09   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [shellcheck](https://github.com/koalaman/shellcheck)                            | 2019-06-02 | Haskell    | 2021-06-20   |
+|  2 | [ajv](https://github.com/ajv-validator/ajv)                                     | 2018-04-26 | TypeScript | 2021-06-20   |
+|  3 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                   | 2019-01-04 | Go         | 2021-06-21   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)                          | 2019-12-10 | Go         | 2021-06-20   |
+|  5 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                       | 2018-07-09 | JavaScript | 2020-03-26   |
+|  6 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                       | 2018-11-23 | PHP        | 2021-06-18   |
+|  7 | [zangodb](https://github.com/erikolson186/zangodb)                              | 2017-06-18 | JavaScript | 2021-06-14   |
+|  8 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)         | 2018-08-05 | md         | 2021-06-21   |
+|  9 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)                     | 2016-09-22 | JavaScript | 2021-05-27   |
+| 10 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-06-21   |
 
 <!--END_SECTION:my_github-->
