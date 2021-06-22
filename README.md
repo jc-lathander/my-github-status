@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|---------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [shellcheck](https://github.com/koalaman/shellcheck)                            | 2019-06-02 | Haskell    | 2021-06-20   |
-|  2 | [ajv](https://github.com/ajv-validator/ajv)                                     | 2018-04-26 | TypeScript | 2021-06-20   |
-|  3 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                   | 2019-01-04 | Go         | 2021-06-21   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)                          | 2019-12-10 | Go         | 2021-06-20   |
-|  5 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                       | 2018-07-09 | JavaScript | 2020-03-26   |
-|  6 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                       | 2018-11-23 | PHP        | 2021-06-18   |
-|  7 | [zangodb](https://github.com/erikolson186/zangodb)                              | 2017-06-18 | JavaScript | 2021-06-14   |
-|  8 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)         | 2018-08-05 | md         | 2021-06-21   |
-|  9 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)                     | 2016-09-22 | JavaScript | 2021-05-27   |
-| 10 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-06-21   |
+|  1 | [docsify](https://github.com/docsifyjs/docsify)                                 | 2016-11-27 | JavaScript | 2021-06-21   |
+|  2 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                            | 2018-01-02 | TypeScript | 2021-06-19   |
+|  3 | [cpython](https://github.com/python/cpython)                                    | 2017-07-03 | Python     | 2021-06-21   |
+|  4 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                         | 2017-04-18 | Shell      | 2021-06-21   |
+|  5 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-06-21   |
+|  6 | [m-cli](https://github.com/rgcr/m-cli)                                          | 2019-12-04 | Shell      | 2021-06-21   |
+|  7 | [gf](https://github.com/gogf/gf)                                                | 2020-01-13 | Go         | 2021-06-21   |
+|  8 | [website](https://github.com/openpitrix/website)                                | 2019-01-23 | JavaScript | 2020-06-17   |
+|  9 | [escpos-php](https://github.com/mike42/escpos-php)                              | 2016-09-26 | PHP        | 2021-06-20   |
+| 10 | [bannedwords](https://github.com/spetacular/bannedwords)                        | 2016-11-07 | PHP        | 2021-05-10   |
 
 <!--END_SECTION:my_github-->
