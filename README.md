@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [docsify](https://github.com/docsifyjs/docsify)                                 | 2016-11-27 | JavaScript | 2021-06-21   |
-|  2 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                            | 2018-01-02 | TypeScript | 2021-06-19   |
-|  3 | [cpython](https://github.com/python/cpython)                                    | 2017-07-03 | Python     | 2021-06-21   |
-|  4 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                         | 2017-04-18 | Shell      | 2021-06-21   |
-|  5 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-06-21   |
-|  6 | [m-cli](https://github.com/rgcr/m-cli)                                          | 2019-12-04 | Shell      | 2021-06-21   |
-|  7 | [gf](https://github.com/gogf/gf)                                                | 2020-01-13 | Go         | 2021-06-21   |
-|  8 | [website](https://github.com/openpitrix/website)                                | 2019-01-23 | JavaScript | 2020-06-17   |
-|  9 | [escpos-php](https://github.com/mike42/escpos-php)                              | 2016-09-26 | PHP        | 2021-06-20   |
-| 10 | [bannedwords](https://github.com/spetacular/bannedwords)                        | 2016-11-07 | PHP        | 2021-05-10   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [zangodb](https://github.com/erikolson186/zangodb)              | 2017-06-18 | JavaScript | 2021-06-14   |
+|  2 | [tonic](https://github.com/hyperium/tonic)                      | 2020-08-14 | Rust       | 2021-06-22   |
+|  3 | [go-study-index](https://github.com/unknwon/go-study-index)     | 2017-10-30 | md         | 2021-06-22   |
+|  4 | [awesome-egg](https://github.com/eggjs/awesome-egg)             | 2019-06-05 | md         | 2021-06-22   |
+|  5 | [apollo](https://github.com/ApolloAuto/apollo)                  | 2019-01-30 | C++        | 2021-06-22   |
+|  6 | [node-tenpay](https://github.com/befinal/node-tenpay)           | 2018-03-05 | JavaScript | 2021-06-22   |
+|  7 | [insomnia](https://github.com/Kong/insomnia)                    | 2017-06-13 | JavaScript | 2021-06-22   |
+|  8 | [wechat](https://github.com/node-webot/wechat)                  | 2016-09-22 | JavaScript | 2021-06-22   |
+|  9 | [grpcman](https://github.com/grpcman/grpcman)                   | 2020-08-12 | Vue        | 2021-06-18   |
+| 10 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) | 2016-09-23 | JavaScript | 2021-06-02   |
 
 <!--END_SECTION:my_github-->
