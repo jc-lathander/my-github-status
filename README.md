@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                    | 2020-08-12 | Go         | 2021-06-17   |
-|  2 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)                        | 2019-01-21 | JavaScript | 2021-06-24   |
-|  3 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)              | 2018-06-08 | JavaScript | 2021-06-23   |
-|  4 | [microrust](https://github.com/droogmic/microrust)                                  | 2020-08-20 | Rust       | 2021-06-22   |
-|  5 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                       | 2019-10-29 | Go         | 2021-06-24   |
-|  6 | [cpython](https://github.com/python/cpython)                                        | 2017-07-03 | Python     | 2021-06-25   |
-|  7 | [v](https://github.com/vlang/v)                                                     | 2019-04-09 | V          | 2021-06-24   |
-|  8 | [node-tenpay](https://github.com/befinal/node-tenpay)                               | 2018-03-05 | JavaScript | 2021-06-23   |
-|  9 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                   | 2019-10-29 | C++        | 2021-03-23   |
-| 10 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md         | 2021-06-24   |
+|  1 | [zangodb](https://github.com/erikolson186/zangodb)                                  | 2017-06-18 | JavaScript | 2021-06-14   |
+|  2 | [CMAK](https://github.com/yahoo/CMAK)                                               | 2018-04-27 | Scala      | 2021-06-25   |
+|  3 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                   | 2019-10-29 | C++        | 2021-03-23   |
+|  4 | [conference](https://github.com/gopherchina/conference)                             | 2020-11-24 | md         | 2021-06-26   |
+|  5 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md         | 2021-06-25   |
+|  6 | [gf](https://github.com/gogf/gf)                                                    | 2020-01-13 | Go         | 2021-06-25   |
+|  7 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)            | 2020-01-19 | md         | 2021-04-09   |
+|  8 | [bannedwords](https://github.com/spetacular/bannedwords)                            | 2016-11-07 | PHP        | 2021-06-23   |
+|  9 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                    | 2016-11-07 | md         | 2021-06-24   |
+| 10 | [hosts](https://github.com/kelthuzadx/hosts)                                        | 2017-04-26 | Rascal     | 2021-06-24   |
 
 <!--END_SECTION:my_github-->
