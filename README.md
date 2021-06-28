@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                                | STAREDDATE | LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|-----------|--------------|
-|  1 | [msbingo](https://github.com/khoad/msbingo)                       | 2020-01-17 | Go        | 2021-06-04   |
-|  2 | [escpos-php](https://github.com/mike42/escpos-php)                | 2016-09-26 | PHP       | 2021-06-25   |
-|  3 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)   | 2020-04-08 | Batchfile | 2021-06-03   |
-|  4 | [fonts](https://github.com/powerline/fonts)                       | 2020-07-23 | Shell     | 2021-06-26   |
-|  5 | [hosts](https://github.com/kelthuzadx/hosts)                      | 2017-04-26 | Rascal    | 2021-06-26   |
-|  6 | [gitignore](https://github.com/github/gitignore)                  | 2016-03-25 | md        | 2021-06-27   |
-|  7 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)            | 2018-10-02 | HTML      | 2021-06-22   |
-|  8 | [shellcheck](https://github.com/koalaman/shellcheck)              | 2019-06-02 | Haskell   | 2021-06-26   |
-|  9 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)  | 2020-08-12 | Go        | 2021-06-17   |
-| 10 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi) | 2019-10-29 | C++       | 2021-03-23   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [apigateway](https://github.com/adobe-apiplatform/apigateway)           | 2017-03-08 | Lua        | 2021-05-03   |
+|  2 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                 | 2017-04-18 | Shell      | 2021-06-24   |
+|  3 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript | 2021-03-28   |
+|  4 | [blog](https://github.com/fouber/blog)                                  | 2017-03-21 | md         | 2021-06-27   |
+|  5 | [binary-parser](https://github.com/Ericbla/binary-parser)               | 2019-03-30 | JavaScript | 2021-06-23   |
+|  6 | [insomnia](https://github.com/Kong/insomnia)                            | 2017-06-13 | JavaScript | 2021-06-27   |
+|  7 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                           | 2019-01-04 | Go         | 2021-06-27   |
+|  8 | [ATX](https://github.com/NetEaseGame/ATX)                               | 2017-04-15 | Python     | 2021-06-24   |
+|  9 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)   | 2019-01-16 | Java       | 2021-06-27   |
+| 10 | [gnvm](https://github.com/Kenshin/gnvm)                                 | 2016-04-28 | Go         | 2021-06-24   |
 
 <!--END_SECTION:my_github-->
