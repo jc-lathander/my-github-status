@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [apigateway](https://github.com/adobe-apiplatform/apigateway)           | 2017-03-08 | Lua        | 2021-05-03   |
-|  2 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                 | 2017-04-18 | Shell      | 2021-06-24   |
-|  3 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript | 2021-03-28   |
-|  4 | [blog](https://github.com/fouber/blog)                                  | 2017-03-21 | md         | 2021-06-27   |
-|  5 | [binary-parser](https://github.com/Ericbla/binary-parser)               | 2019-03-30 | JavaScript | 2021-06-23   |
-|  6 | [insomnia](https://github.com/Kong/insomnia)                            | 2017-06-13 | JavaScript | 2021-06-27   |
-|  7 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                           | 2019-01-04 | Go         | 2021-06-27   |
-|  8 | [ATX](https://github.com/NetEaseGame/ATX)                               | 2017-04-15 | Python     | 2021-06-24   |
-|  9 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)   | 2019-01-16 | Java       | 2021-06-27   |
-| 10 | [gnvm](https://github.com/Kenshin/gnvm)                                 | 2016-04-28 | Go         | 2021-06-24   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [blog](https://github.com/fouber/blog)                                                                        | 2017-03-21 | md         | 2021-06-28   |
+|  2 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)                                       | 2018-08-05 | md         | 2021-06-28   |
+|  3 | [alwsl](https://github.com/alwsl/alwsl)                                                                       | 2017-04-15 | Batchfile  | 2021-06-28   |
+|  4 | [superset](https://github.com/apache/superset)                                                                | 2016-09-27 | Python     | 2021-06-29   |
+|  5 | [iptv](https://github.com/iptv-org/iptv)                                                                      | 2020-02-19 | JavaScript | 2021-06-29   |
+|  6 | [Win10Pcap](https://github.com/pmsjt/Win10Pcap)                                                               | 2020-04-08 | C          | 2020-06-04   |
+|  7 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-06-28   |
+|  8 | [fuckword](https://github.com/NextZeus/fuckword)                                                              | 2016-11-07 | JavaScript | 2019-11-27   |
+|  9 | [Potatso](https://github.com/icodesign/Potatso)                                                               | 2016-06-30 | md         | 2021-06-27   |
+| 10 | [Tars](https://github.com/TarsCloud/Tars)                                                                     | 2017-11-02 | C++        | 2021-06-26   |
 
 <!--END_SECTION:my_github-->
