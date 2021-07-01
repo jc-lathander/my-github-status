@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)                               | 2017-02-03 | md         | 2021-06-29   |
-|  2 | [yin](https://github.com/0x55aa/yin)                                                                  | 2019-04-21 | Java       | 2021-05-27   |
-|  3 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)                               | 2016-09-27 | JavaScript | 2021-04-24   |
-|  4 | [shellcheck](https://github.com/koalaman/shellcheck)                                                  | 2019-06-02 | Haskell    | 2021-06-29   |
-|  5 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-04-25   |
-|  6 | [casbin-go-client](https://github.com/casbin/casbin-go-client)                                        | 2020-01-19 | Go         | 2021-06-22   |
-|  7 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)                              | 2020-01-19 | md         | 2021-04-09   |
-|  8 | [libaco](https://github.com/hnes/libaco)                                                              | 2018-07-18 | C          | 2021-06-28   |
-|  9 | [websocket-bench](https://github.com/M6Web/websocket-bench)                                           | 2016-09-27 | JavaScript | 2021-06-29   |
-| 10 | [go-v8](https://github.com/lazytiger/go-v8)                                                           | 2017-05-01 | Go         | 2021-06-11   |
+| ID |                                    REPO                                    | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [m-cli](https://github.com/rgcr/m-cli)                                     | 2019-12-04 | Shell        | 2021-06-30   |
+|  2 | [bannedwords](https://github.com/spetacular/bannedwords)                   | 2016-11-07 | PHP          | 2021-06-30   |
+|  3 | [gadmin](https://github.com/hailaz/gadmin)                                 | 2020-02-25 | Go           | 2021-06-16   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)                     | 2019-12-10 | Go           | 2021-07-01   |
+|  5 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)        | 2019-06-07 | PHP          | 2021-06-30   |
+|  6 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                    | 2017-11-06 | CoffeeScript | 2021-03-19   |
+|  7 | [blog](https://github.com/fouber/blog)                                     | 2017-03-21 | md           | 2021-06-30   |
+|  8 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript   | 2021-06-30   |
+|  9 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                       | 2020-11-16 | JavaScript   | 2021-06-30   |
+| 10 | [Win10Pcap](https://github.com/pmsjt/Win10Pcap)                            | 2020-04-08 | C            | 2020-06-04   |
 
 <!--END_SECTION:my_github-->
