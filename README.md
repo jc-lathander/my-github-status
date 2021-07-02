@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [m-cli](https://github.com/rgcr/m-cli)                                     | 2019-12-04 | Shell        | 2021-06-30   |
-|  2 | [bannedwords](https://github.com/spetacular/bannedwords)                   | 2016-11-07 | PHP          | 2021-06-30   |
-|  3 | [gadmin](https://github.com/hailaz/gadmin)                                 | 2020-02-25 | Go           | 2021-06-16   |
-|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)                     | 2019-12-10 | Go           | 2021-07-01   |
-|  5 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)        | 2019-06-07 | PHP          | 2021-06-30   |
-|  6 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                    | 2017-11-06 | CoffeeScript | 2021-03-19   |
-|  7 | [blog](https://github.com/fouber/blog)                                     | 2017-03-21 | md           | 2021-06-30   |
-|  8 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript   | 2021-06-30   |
-|  9 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                       | 2020-11-16 | JavaScript   | 2021-06-30   |
-| 10 | [Win10Pcap](https://github.com/pmsjt/Win10Pcap)                            | 2020-04-08 | C            | 2020-06-04   |
+| ID |                            REPO                             | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)     | 2017-04-18 | Shell        | 2021-06-28   |
+|  2 | [doesitarm](https://github.com/ThatGuySam/doesitarm)        | 2020-11-16 | JavaScript   | 2021-07-01   |
+|  3 | [grpcui](https://github.com/fullstorydev/grpcui)            | 2020-08-12 | JavaScript   | 2021-07-01   |
+|  4 | [go-study-index](https://github.com/unknwon/go-study-index) | 2017-10-30 | md           | 2021-07-01   |
+|  5 | [shellcheck](https://github.com/koalaman/shellcheck)        | 2019-06-02 | Haskell      | 2021-07-02   |
+|  6 | [PowerJob](https://github.com/PowerJob/PowerJob)            | 2020-08-04 | Java         | 2021-07-01   |
+|  7 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)     | 2017-11-06 | CoffeeScript | 2021-03-19   |
+|  8 | [Tars](https://github.com/TarsCloud/Tars)                   | 2017-11-02 | C++          | 2021-06-30   |
+|  9 | [Potatso](https://github.com/icodesign/Potatso)             | 2016-06-30 | md           | 2021-06-30   |
+| 10 | [vscode-python](https://github.com/microsoft/vscode-python) | 2017-11-10 | TypeScript   | 2021-07-01   |
 
 <!--END_SECTION:my_github-->
