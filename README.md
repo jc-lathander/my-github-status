@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                            REPO                             | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)     | 2017-04-18 | Shell        | 2021-06-28   |
-|  2 | [doesitarm](https://github.com/ThatGuySam/doesitarm)        | 2020-11-16 | JavaScript   | 2021-07-01   |
-|  3 | [grpcui](https://github.com/fullstorydev/grpcui)            | 2020-08-12 | JavaScript   | 2021-07-01   |
-|  4 | [go-study-index](https://github.com/unknwon/go-study-index) | 2017-10-30 | md           | 2021-07-01   |
-|  5 | [shellcheck](https://github.com/koalaman/shellcheck)        | 2019-06-02 | Haskell      | 2021-07-02   |
-|  6 | [PowerJob](https://github.com/PowerJob/PowerJob)            | 2020-08-04 | Java         | 2021-07-01   |
-|  7 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)     | 2017-11-06 | CoffeeScript | 2021-03-19   |
-|  8 | [Tars](https://github.com/TarsCloud/Tars)                   | 2017-11-02 | C++          | 2021-06-30   |
-|  9 | [Potatso](https://github.com/icodesign/Potatso)             | 2016-06-30 | md           | 2021-06-30   |
-| 10 | [vscode-python](https://github.com/microsoft/vscode-python) | 2017-11-10 | TypeScript   | 2021-07-01   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md         | 2021-07-02   |
+|  2 | [node-tenpay](https://github.com/befinal/node-tenpay)                              | 2018-03-05 | JavaScript | 2021-06-27   |
+|  3 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket)            | 2016-09-27 | JavaScript | 2021-03-28   |
+|  4 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                             | 2020-01-19 | Go         | 2021-07-02   |
+|  5 | [ATX](https://github.com/NetEaseGame/ATX)                                          | 2017-04-15 | Python     | 2021-06-29   |
+|  6 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)                       | 2019-01-21 | JavaScript | 2021-07-02   |
+|  7 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                  | 2019-10-23 | Go         | 2021-05-20   |
+|  8 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)              | 2020-10-21 | JavaScript | 2021-07-02   |
+|  9 | [conference](https://github.com/gopherchina/conference)                            | 2020-11-24 | md         | 2021-07-02   |
+| 10 | [express](https://github.com/expressjs/express)                                    | 2016-03-25 | JavaScript | 2021-07-02   |
 
 <!--END_SECTION:my_github-->
