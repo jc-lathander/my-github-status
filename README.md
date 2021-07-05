@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)         | 2017-04-18 | Shell      | 2021-07-02   |
-|  2 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                | 2018-07-23 | HTML       | 2021-06-29   |
-|  3 | [binary-parser](https://github.com/Ericbla/binary-parser)       | 2019-03-30 | JavaScript | 2021-06-23   |
-|  4 | [libaco](https://github.com/hnes/libaco)                        | 2018-07-18 | C          | 2021-06-30   |
-|  5 | [escpos-php](https://github.com/mike42/escpos-php)              | 2016-09-26 | PHP        | 2021-07-01   |
-|  6 | [yin](https://github.com/0x55aa/yin)                            | 2019-04-21 | Java       | 2021-05-27   |
-|  7 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install) | 2020-04-08 | Batchfile  | 2021-06-03   |
-|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2019-12-10 | Go         | 2021-07-03   |
-|  9 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) | 2016-09-23 | JavaScript | 2021-06-02   |
-| 10 | [shellcheck](https://github.com/koalaman/shellcheck)            | 2019-06-02 | Haskell    | 2021-07-03   |
+| ID |                                 REPO                                  | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                | 2020-01-19 | Go               | 2021-07-02   |
+|  2 | [feishu](https://github.com/fastwego/feishu)                          | 2020-08-19 | Go               | 2021-07-04   |
+|  3 | [whistle](https://github.com/avwo/whistle)                            | 2018-03-29 | JavaScript       | 2021-07-04   |
+|  4 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                  | 2018-01-02 | TypeScript       | 2021-06-25   |
+|  5 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) | 2019-01-16 | Java             | 2021-07-04   |
+|  6 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)           | 2020-08-06 | Ruby             | 2021-07-04   |
+|  7 | [awesome-design](https://github.com/gztchan/awesome-design)           | 2016-09-07 | md               | 2021-07-04   |
+|  8 | [blog](https://github.com/xizhibei/blog)                              | 2018-05-05 | HTML             | 2021-06-29   |
+|  9 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)   | 2019-06-07 | PHP              | 2021-07-04   |
+| 10 | [mqtt](https://github.com/mcxiaoke/mqtt)                              | 2017-05-04 | Rich Text Format | 2021-07-03   |
 
 <!--END_SECTION:my_github-->
