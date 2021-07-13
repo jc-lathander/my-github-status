@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh)      | 2019-12-22 | md         | 2021-04-09   |
-|  2 | [awesome-go](https://github.com/avelino/awesome-go)                                                | 2017-10-30 | Go         | 2021-07-11   |
-|  3 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)                                    | 2016-09-23 | JavaScript | 2021-06-02   |
-|  4 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)                              | 2019-01-16 | Java       | 2021-07-10   |
-|  5 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                     | 2020-02-23 | Go         | 2021-07-03   |
-|  6 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | md         | 2021-07-11   |
-|  7 | [gadmin](https://github.com/hailaz/gadmin)                                                         | 2020-02-25 | Go         | 2021-06-16   |
-|  8 | [iso7064](https://github.com/danieltwagner/iso7064)                                                | 2018-06-08 | Java       | 2021-03-05   |
-|  9 | [libaco](https://github.com/hnes/libaco)                                                           | 2018-07-18 | C          | 2021-07-11   |
-| 10 | [kratos](https://github.com/go-kratos/kratos)                                                      | 2019-04-22 | Go         | 2021-07-12   |
+| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick) | 2019-01-16 | Java        | 2021-07-10   |
+|  2 | [simhash](https://github.com/yanyiwu/simhash)                         | 2016-09-23 | C++         | 2021-07-12   |
+|  3 | [pix2code](https://github.com/tonybeltramelli/pix2code)               | 2017-05-30 | Python      | 2021-07-12   |
+|  4 | [fuckword](https://github.com/NextZeus/fuckword)                      | 2016-11-07 | JavaScript  | 2021-07-01   |
+|  5 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                | 2020-04-28 | C           | 2020-04-28   |
+|  6 | [v](https://github.com/vlang/v)                                       | 2019-04-09 | V           | 2021-07-13   |
+|  7 | [gf-demos](https://github.com/gogf/gf-demos)                          | 2020-02-25 | Go          | 2021-07-10   |
+|  8 | [gin-admin](https://github.com/LyricTian/gin-admin)                   | 2020-02-25 | Go          | 2021-07-12   |
+|  9 | [GAutomator](https://github.com/Tencent/GAutomator)                   | 2017-04-15 | Objective-C | 2021-07-06   |
+| 10 | [egg-24time](https://github.com/seasonstar/egg-24time)                | 2018-04-28 | JavaScript  | 2021-06-21   |
 
 <!--END_SECTION:my_github-->
