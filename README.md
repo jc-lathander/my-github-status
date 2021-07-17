@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)        | 2020-08-12 | Go         | 2021-06-30   |
-|  2 | [superset](https://github.com/apache/superset)                          | 2016-09-27 | Python     | 2021-07-15   |
-|  3 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++        | 2021-07-13   |
-|  4 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)        | 2016-11-07 | md         | 2021-07-15   |
-|  5 | [gadmin](https://github.com/hailaz/gadmin)                              | 2020-02-25 | Go         | 2021-06-16   |
-|  6 | [wechat](https://github.com/node-webot/wechat)                          | 2016-09-22 | JavaScript | 2021-07-15   |
-|  7 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)     | 2019-06-07 | PHP        | 2021-07-15   |
-|  8 | [yin](https://github.com/0x55aa/yin)                                    | 2019-04-21 | Java       | 2021-05-27   |
-|  9 | [feishu](https://github.com/fastwego/feishu)                            | 2020-08-19 | Go         | 2021-07-04   |
-| 10 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client) | 2016-09-27 | JavaScript | 2021-04-24   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [blog](https://github.com/xizhibei/blog)                                                                      | 2018-05-05 | HTML       | 2021-07-08   |
+|  2 | [agent](https://github.com/LeonZYang/agent)                                                                   | 2019-10-23 | Go         | 2021-01-12   |
+|  3 | [ajv](https://github.com/ajv-validator/ajv)                                                                   | 2018-04-26 | TypeScript | 2021-07-16   |
+|  4 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)                                               | 2016-09-23 | JavaScript | 2021-07-15   |
+|  5 | [gitignore](https://github.com/github/gitignore)                                                              | 2016-03-25 | md         | 2021-07-17   |
+|  6 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                                                       | 2017-10-31 | C++        | 2021-07-10   |
+|  7 | [Win10Pcap](https://github.com/pmsjt/Win10Pcap)                                                               | 2020-04-08 | C          | 2020-06-04   |
+|  8 | [awesome-design](https://github.com/gztchan/awesome-design)                                                   | 2016-09-07 | md         | 2021-07-16   |
+|  9 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-07-16   |
+| 10 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)                           | 2019-02-22 | md         | 2021-07-16   |
 
 <!--END_SECTION:my_github-->
