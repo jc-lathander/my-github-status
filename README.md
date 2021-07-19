@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE | LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|-----------|--------------|
-|  1 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                                                        | 2020-04-28 | C         | 2020-04-28   |
-|  2 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                            | 2017-04-15 | Python    | 2021-07-14   |
-|  3 | [alwsl](https://github.com/alwsl/alwsl)                                                                       | 2017-04-15 | Batchfile | 2021-07-11   |
-|  4 | [libaco](https://github.com/hnes/libaco)                                                                      | 2018-07-18 | C         | 2021-07-17   |
-|  5 | [awesome-go](https://github.com/avelino/awesome-go)                                                           | 2017-10-30 | Go        | 2021-07-17   |
-|  6 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                                                    | 2020-01-19 | PHP       | 2021-07-15   |
-|  7 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                                                       | 2017-04-18 | Shell     | 2021-07-17   |
-|  8 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md        | 2021-07-17   |
-|  9 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                                               | 2020-04-08 | Batchfile | 2021-06-03   |
-| 10 | [debugcharts](https://github.com/mkevac/debugcharts)                                                          | 2017-05-01 | Go        | 2021-06-22   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                                                        | 2020-01-19 | Go         | 2021-07-18   |
+|  2 | [gf-demos](https://github.com/gogf/gf-demos)                                                                  | 2020-02-25 | Go         | 2021-07-15   |
+|  3 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                                   | 2020-08-06 | Ruby       | 2021-07-19   |
+|  4 | [superset](https://github.com/apache/superset)                                                                | 2016-09-27 | Python     | 2021-07-18   |
+|  5 | [goadmin](https://github.com/CrazyRocks/goadmin)                                                              | 2020-01-13 | Go         | 2021-07-16   |
+|  6 | [msbingo](https://github.com/khoad/msbingo)                                                                   | 2020-01-17 | Go         | 2021-06-04   |
+|  7 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                                                          | 2018-01-02 | TypeScript | 2021-07-15   |
+|  8 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)                                         | 2020-10-21 | JavaScript | 2021-07-18   |
+|  9 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-07-18   |
+| 10 | [gitignore](https://github.com/github/gitignore)                                                              | 2016-03-25 | md         | 2021-07-18   |
 
 <!--END_SECTION:my_github-->
