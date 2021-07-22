@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [express](https://github.com/expressjs/express)                            | 2016-03-25 | JavaScript | 2021-07-20   |
-|  2 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)           | 2020-08-12 | Go         | 2021-06-30   |
-|  3 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                       | 2018-01-02 | TypeScript | 2021-07-15   |
-|  4 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2021-07-06   |
-|  5 | [msbingo](https://github.com/khoad/msbingo)                                | 2020-01-17 | Go         | 2021-06-04   |
-|  6 | [PowerJob](https://github.com/PowerJob/PowerJob)                           | 2020-08-04 | Java       | 2021-07-20   |
-|  7 | [alwsl](https://github.com/alwsl/alwsl)                                    | 2017-04-15 | Batchfile  | 2021-07-20   |
-|  8 | [awesome-egg](https://github.com/eggjs/awesome-egg)                        | 2019-06-05 | md         | 2021-07-16   |
-|  9 | [CMAK](https://github.com/yahoo/CMAK)                                      | 2018-04-27 | Scala      | 2021-07-20   |
-| 10 | [gin-admin](https://github.com/LyricTian/gin-admin)                        | 2020-02-25 | Go         | 2021-07-20   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Tars](https://github.com/TarsCloud/Tars)                                                     | 2017-11-02 | C++        | 2021-07-21   |
+|  2 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                              | 2020-08-12 | Go         | 2021-06-30   |
+|  3 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)                       | 2019-12-15 | C++        | 2021-07-13   |
+|  4 | [go-study-index](https://github.com/unknwon/go-study-index)                                   | 2017-10-30 | md         | 2021-07-21   |
+|  5 | [orange](https://github.com/orlabs/orange)                                                    | 2017-03-08 | Lua        | 2021-07-19   |
+|  6 | [debugcharts](https://github.com/mkevac/debugcharts)                                          | 2017-05-01 | Go         | 2021-06-22   |
+|  7 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)                                 | 2019-12-03 | Python     | 2021-06-12   |
+|  8 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-07-20   |
+|  9 | [fuckword](https://github.com/NextZeus/fuckword)                                              | 2016-11-07 | JavaScript | 2021-07-01   |
+| 10 | [escpos-php](https://github.com/mike42/escpos-php)                                            | 2016-09-26 | PHP        | 2021-07-20   |
 
 <!--END_SECTION:my_github-->
