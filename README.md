@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                                     | 2019-10-23 | Go          | 2021-07-22   |
-|  2 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                                      | 2017-05-01 | C++         | 2021-06-13   |
-|  3 | [Potatso](https://github.com/icodesign/Potatso)                                                       | 2016-06-30 | md          | 2021-07-20   |
-|  4 | [v](https://github.com/vlang/v)                                                                       | 2019-04-09 | V           | 2021-07-23   |
-|  5 | [superset](https://github.com/apache/superset)                                                        | 2016-09-27 | Python      | 2021-07-23   |
-|  6 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)                            | 2017-05-08 | Python      | 2021-07-18   |
-|  7 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md          | 2021-07-15   |
-|  8 | [GAutomator](https://github.com/Tencent/GAutomator)                                                   | 2017-04-15 | Objective-C | 2021-07-23   |
-|  9 | [bannedwords](https://github.com/spetacular/bannedwords)                                              | 2016-11-07 | PHP         | 2021-06-30   |
-| 10 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                   | 2019-03-16 | JavaScript  | 2021-07-12   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [docsify](https://github.com/docsifyjs/docsify)                                                       | 2016-11-27 | JavaScript | 2021-07-24   |
+|  2 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                        | 2020-02-23 | Go         | 2021-07-03   |
+|  3 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
+|  4 | [kubernetes](https://github.com/kubernetes/kubernetes)                                                | 2019-12-10 | Go         | 2021-07-24   |
+|  5 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                    | 2017-04-15 | Python     | 2021-07-20   |
+|  6 | [fonts](https://github.com/powerline/fonts)                                                           | 2020-07-23 | Shell      | 2021-07-24   |
+|  7 | [Potatso](https://github.com/icodesign/Potatso)                                                       | 2016-06-30 | md         | 2021-07-20   |
+|  8 | [awesome-go](https://github.com/avelino/awesome-go)                                                   | 2017-10-30 | Go         | 2021-07-24   |
+|  9 | [Tars](https://github.com/TarsCloud/Tars)                                                             | 2017-11-02 | C++        | 2021-07-24   |
+| 10 | [debugcharts](https://github.com/mkevac/debugcharts)                                                  | 2017-05-01 | Go         | 2021-07-23   |
 
 <!--END_SECTION:my_github-->
