@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                    | 2017-10-31 | C++          | 2021-07-28   |
-|  2 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider) | 2017-05-08 | Python       | 2021-07-27   |
-|  3 | [egg-24time](https://github.com/seasonstar/egg-24time)                     | 2018-04-28 | JavaScript   | 2021-07-20   |
-|  4 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                  | 2018-11-23 | PHP          | 2021-07-29   |
-|  5 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)      | 2019-01-16 | Java         | 2021-07-27   |
-|  6 | [websocket-bench](https://github.com/M6Web/websocket-bench)                | 2016-09-27 | JavaScript   | 2021-07-08   |
-|  7 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                  | 2018-07-09 | JavaScript   | 2020-03-26   |
-|  8 | [insomnia](https://github.com/Kong/insomnia)                               | 2017-06-13 | JavaScript   | 2021-07-30   |
-|  9 | [tsung_ws](https://github.com/wulczer/tsung_ws)                            | 2017-08-08 | Erlang       | 2021-06-01   |
-| 10 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                    | 2017-11-06 | CoffeeScript | 2021-03-19   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-v](https://github.com/vlang/awesome-v)                                 | 2019-11-26 | md         | 2021-07-28   |
+|  2 | [kubeedge](https://github.com/kubeedge/kubeedge)                                | 2019-12-10 | Go         | 2021-07-30   |
+|  3 | [hosts](https://github.com/kelthuzadx/hosts)                                    | 2017-04-26 | Rascal     | 2021-07-30   |
+|  4 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                 | 2020-04-08 | Batchfile  | 2021-07-27   |
+|  5 | [toc](https://github.com/cncf/toc)                                              | 2020-07-27 | md         | 2021-07-28   |
+|  6 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                       | 2018-11-23 | PHP        | 2021-07-30   |
+|  7 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-07-30   |
+|  8 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)                 | 2016-09-23 | JavaScript | 2021-07-28   |
+|  9 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)                   | 2019-12-03 | Python     | 2021-06-12   |
+| 10 | [awesome-go](https://github.com/avelino/awesome-go)                             | 2017-10-30 | Go         | 2021-07-31   |
 
 <!--END_SECTION:my_github-->
