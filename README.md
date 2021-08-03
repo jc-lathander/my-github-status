@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [express](https://github.com/expressjs/express)                                                       | 2016-03-25 | JavaScript       | 2021-08-01   |
-|  2 | [mongood](https://github.com/renzholy/mongood)                                                        | 2020-08-06 | TypeScript       | 2021-07-30   |
-|  3 | [gf](https://github.com/gogf/gf)                                                                      | 2020-01-13 | Go               | 2021-08-01   |
-|  4 | [hosts](https://github.com/kelthuzadx/hosts)                                                          | 2017-04-26 | Rascal           | 2021-08-01   |
-|  5 | [Potatso](https://github.com/icodesign/Potatso)                                                       | 2016-06-30 | md               | 2021-08-01   |
-|  6 | [m-cli](https://github.com/rgcr/m-cli)                                                                | 2019-12-04 | Shell            | 2021-08-01   |
-|  7 | [examples](https://github.com/elastic/examples)                                                       | 2016-09-27 | Jupyter Notebook | 2021-07-28   |
-|  8 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md               | 2021-07-24   |
-|  9 | [zangodb](https://github.com/erikolson186/zangodb)                                                    | 2017-06-18 | JavaScript       | 2021-07-26   |
-| 10 | [ATX](https://github.com/NetEaseGame/ATX)                                                             | 2017-04-15 | Python           | 2021-07-30   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [egg-24time](https://github.com/seasonstar/egg-24time)                                                | 2018-04-28 | JavaScript | 2021-07-20   |
+|  2 | [iso7064](https://github.com/danieltwagner/iso7064)                                                   | 2018-06-08 | Java       | 2021-03-05   |
+|  3 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)                               | 2017-02-03 | md         | 2021-07-15   |
+|  4 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                                       | 2017-08-08 | Erlang     | 2021-06-01   |
+|  5 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)                                       | 2016-09-23 | JavaScript | 2021-07-28   |
+|  6 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
+|  7 | [m-cli](https://github.com/rgcr/m-cli)                                                                | 2019-12-04 | Shell      | 2021-08-01   |
+|  8 | [wechat-api](https://github.com/node-webot/wechat-api)                                                | 2016-09-22 | JavaScript | 2021-07-28   |
+|  9 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)                              | 2020-01-19 | md         | 2021-04-09   |
+| 10 | [orange](https://github.com/orlabs/orange)                                                            | 2017-03-08 | Lua        | 2021-08-02   |
 
 <!--END_SECTION:my_github-->
