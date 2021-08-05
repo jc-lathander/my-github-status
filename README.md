@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [go-study-index](https://github.com/unknwon/go-study-index)              | 2017-10-30 | md          | 2021-08-03   |
-|  2 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)         | 2016-11-07 | md          | 2021-08-04   |
-|  3 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)  | 2019-12-15 | C++         | 2021-07-13   |
-|  4 | [mongood](https://github.com/renzholy/mongood)                           | 2020-08-06 | TypeScript  | 2021-08-03   |
-|  5 | [agent](https://github.com/LeonZYang/agent)                              | 2019-10-23 | Go          | 2021-01-12   |
-|  6 | [GAutomator](https://github.com/Tencent/GAutomator)                      | 2017-04-15 | Objective-C | 2021-08-03   |
-|  7 | [ajv](https://github.com/ajv-validator/ajv)                              | 2018-04-26 | TypeScript  | 2021-08-03   |
-|  8 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                | 2018-07-09 | JavaScript  | 2020-03-26   |
-|  9 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina) | 2020-01-19 | md          | 2021-04-09   |
-| 10 | [awesome-go](https://github.com/avelino/awesome-go)                      | 2017-10-30 | Go          | 2021-08-04   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                           | 2019-01-04 | Go         | 2021-08-04   |
+|  2 | [gitignore](https://github.com/github/gitignore)                        | 2016-03-25 | md         | 2021-08-05   |
+|  3 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript | 2021-07-28   |
+|  4 | [node-tenpay](https://github.com/befinal/node-tenpay)                   | 2018-03-05 | JavaScript | 2021-08-01   |
+|  5 | [goadmin](https://github.com/CrazyRocks/goadmin)                        | 2020-01-13 | Go         | 2021-07-29   |
+|  6 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)             | 2016-09-22 | JavaScript | 2021-07-18   |
+|  7 | [mongood](https://github.com/renzholy/mongood)                          | 2020-08-06 | TypeScript | 2021-08-04   |
+|  8 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                  | 2020-01-19 | Go         | 2021-08-04   |
+|  9 | [simhash](https://github.com/yanyiwu/simhash)                           | 2016-09-23 | C++        | 2021-08-04   |
+| 10 | [go-v8](https://github.com/lazytiger/go-v8)                             | 2017-05-01 | Go         | 2021-07-14   |
 
 <!--END_SECTION:my_github-->
