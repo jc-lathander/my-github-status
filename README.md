@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kratos](https://github.com/go-kratos/kratos)                 | 2019-04-22 | Go         | 2021-08-06   |
-|  2 | [grpcman](https://github.com/grpcman/grpcman)                 | 2020-08-12 | Vue        | 2021-07-22   |
-|  3 | [go-study-index](https://github.com/unknwon/go-study-index)   | 2017-10-30 | md         | 2021-08-06   |
-|  4 | [wechat](https://github.com/node-webot/wechat)                | 2016-09-22 | JavaScript | 2021-08-06   |
-|  5 | [fontObfuscator](https://github.com/solarhell/fontObfuscator) | 2019-12-03 | Python     | 2021-06-12   |
-|  6 | [node-tenpay](https://github.com/befinal/node-tenpay)         | 2018-03-05 | JavaScript | 2021-08-05   |
-|  7 | [goadmin](https://github.com/CrazyRocks/goadmin)              | 2020-01-13 | Go         | 2021-07-29   |
-|  8 | [Win10Pcap](https://github.com/pmsjt/Win10Pcap)               | 2020-04-08 | C          | 2020-06-04   |
-|  9 | [tonic](https://github.com/hyperium/tonic)                    | 2020-08-14 | Rust       | 2021-08-06   |
-| 10 | [grpcui](https://github.com/fullstorydev/grpcui)              | 2020-08-12 | JavaScript | 2021-08-06   |
+| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                | 2019-03-16 | JavaScript  | 2021-07-12   |
+|  2 | [simhash](https://github.com/yanyiwu/simhash)                                                      | 2016-09-23 | C++         | 2021-08-07   |
+|  3 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                                  | 2019-10-23 | Go          | 2021-08-07   |
+|  4 | [docsify](https://github.com/docsifyjs/docsify)                                                    | 2016-11-27 | JavaScript  | 2021-08-07   |
+|  5 | [gitignore](https://github.com/github/gitignore)                                                   | 2016-03-25 | md          | 2021-08-07   |
+|  6 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)                              | 2020-10-21 | JavaScript  | 2021-08-05   |
+|  7 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)                         | 2016-09-22 | JavaScript  | 2021-08-05   |
+|  8 | [GAutomator](https://github.com/Tencent/GAutomator)                                                | 2017-04-15 | Objective-C | 2021-08-06   |
+|  9 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | md          | 2021-08-07   |
+| 10 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                                   | 2016-11-07 | md          | 2021-08-07   |
 
 <!--END_SECTION:my_github-->
