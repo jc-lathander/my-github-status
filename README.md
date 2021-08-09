@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                | 2019-03-16 | JavaScript  | 2021-07-12   |
-|  2 | [simhash](https://github.com/yanyiwu/simhash)                                                      | 2016-09-23 | C++         | 2021-08-07   |
-|  3 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                                  | 2019-10-23 | Go          | 2021-08-07   |
-|  4 | [docsify](https://github.com/docsifyjs/docsify)                                                    | 2016-11-27 | JavaScript  | 2021-08-07   |
-|  5 | [gitignore](https://github.com/github/gitignore)                                                   | 2016-03-25 | md          | 2021-08-07   |
-|  6 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)                              | 2020-10-21 | JavaScript  | 2021-08-05   |
-|  7 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)                         | 2016-09-22 | JavaScript  | 2021-08-05   |
-|  8 | [GAutomator](https://github.com/Tencent/GAutomator)                                                | 2017-04-15 | Objective-C | 2021-08-06   |
-|  9 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | md          | 2021-08-07   |
-| 10 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                                   | 2016-11-07 | md          | 2021-08-07   |
+| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [conference](https://github.com/gopherchina/conference)                  | 2020-11-24 | md         | 2021-08-07   |
+|  2 | [gf](https://github.com/gogf/gf)                                         | 2020-01-13 | Go         | 2021-08-08   |
+|  3 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina) | 2020-01-19 | md         | 2021-04-09   |
+|  4 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)             | 2019-01-21 | JavaScript | 2021-08-08   |
+|  5 | [pix2code](https://github.com/tonybeltramelli/pix2code)                  | 2017-05-30 | Python     | 2021-08-08   |
+|  6 | [winpcap](https://github.com/patmarion/winpcap)                          | 2020-04-08 | C          | 2021-06-29   |
+|  7 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                         | 2018-07-23 | HTML       | 2021-07-29   |
+|  8 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                | 2018-11-23 | PHP        | 2021-08-07   |
+|  9 | [casbin-go-client](https://github.com/casbin/casbin-go-client)           | 2020-01-19 | Go         | 2021-06-22   |
+| 10 | [go-study-index](https://github.com/unknwon/go-study-index)              | 2017-10-30 | md         | 2021-08-08   |
 
 <!--END_SECTION:my_github-->
