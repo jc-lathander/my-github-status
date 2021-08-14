@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                   | 2020-02-25 | Go         | 2021-08-11   |
-|  2 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
-|  3 | [detector](https://github.com/hotoo/detector)                                                         | 2017-11-17 | JavaScript | 2021-08-12   |
-|  4 | [node-tenpay](https://github.com/befinal/node-tenpay)                                                 | 2018-03-05 | JavaScript | 2021-08-09   |
-|  5 | [wechat](https://github.com/node-webot/wechat)                                                        | 2016-09-22 | JavaScript | 2021-08-10   |
-|  6 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)                                          | 2019-01-21 | JavaScript | 2021-08-12   |
-|  7 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)                                       | 2016-09-23 | JavaScript | 2021-08-07   |
-|  8 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                                   | 2019-06-05 | md         | 2021-08-12   |
-|  9 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                                         | 2019-01-04 | Go         | 2021-08-12   |
-| 10 | [cpython](https://github.com/python/cpython)                                                          | 2017-07-03 | Python     | 2021-08-12   |
+| ID |                                        REPO                                         | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [libaco](https://github.com/hnes/libaco)                                            | 2018-07-18 | C            | 2021-08-12   |
+|  2 | [conference](https://github.com/gopherchina/conference)                             | 2020-11-24 | md           | 2021-08-13   |
+|  3 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md           | 2021-08-13   |
+|  4 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)             | 2018-08-05 | md           | 2021-08-13   |
+|  5 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                             | 2017-11-06 | CoffeeScript | 2021-08-02   |
+|  6 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                       | 2019-01-04 | Go           | 2021-08-13   |
+|  7 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                              | 2018-10-02 | HTML         | 2021-08-13   |
+|  8 | [Tars](https://github.com/TarsCloud/Tars)                                           | 2017-11-02 | C++          | 2021-08-13   |
+|  9 | [wechat-api](https://github.com/node-webot/wechat-api)                              | 2016-09-22 | JavaScript   | 2021-07-28   |
+| 10 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp)              | 2016-09-23 | JavaScript   | 2021-07-28   |
 
 <!--END_SECTION:my_github-->
