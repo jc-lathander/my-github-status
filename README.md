@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)        | 2020-01-19 | md           | 2021-04-09   |
-|  2 | [vscode-python](https://github.com/microsoft/vscode-python)                     | 2017-11-10 | TypeScript   | 2021-08-17   |
-|  3 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)          | 2018-06-08 | JavaScript   | 2021-08-15   |
-|  4 | [superset](https://github.com/apache/superset)                                  | 2016-09-27 | Python       | 2021-08-18   |
-|  5 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md           | 2021-08-17   |
-|  6 | [awesome-design](https://github.com/gztchan/awesome-design)                     | 2016-09-07 | md           | 2021-08-17   |
-|  7 | [debugcharts](https://github.com/mkevac/debugcharts)                            | 2017-05-01 | Go           | 2021-08-13   |
-|  8 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                         | 2017-11-06 | CoffeeScript | 2021-08-02   |
-|  9 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)               | 2019-10-23 | Go           | 2021-08-07   |
-| 10 | [yin](https://github.com/0x55aa/yin)                                            | 2019-04-21 | Java         | 2021-08-15   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [go-study-index](https://github.com/unknwon/go-study-index)                     | 2017-10-30 | md         | 2021-08-18   |
+|  2 | [microrust](https://github.com/droogmic/microrust)                              | 2020-08-20 | Rust       | 2021-07-18   |
+|  3 | [iptv](https://github.com/iptv-org/iptv)                                        | 2020-02-19 | JavaScript | 2021-08-18   |
+|  4 | [insomnia](https://github.com/Kong/insomnia)                                    | 2017-06-13 | JavaScript | 2021-08-18   |
+|  5 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)         | 2016-09-27 | JavaScript | 2021-04-24   |
+|  6 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                   | 2019-10-29 | Go         | 2021-08-18   |
+|  7 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                | 2020-08-12 | Go         | 2021-08-05   |
+|  8 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-08-18   |
+|  9 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                 | 2020-04-08 | Batchfile  | 2021-07-27   |
+| 10 | [gitignore](https://github.com/github/gitignore)                                | 2016-03-25 | md         | 2021-08-18   |
 
 <!--END_SECTION:my_github-->
