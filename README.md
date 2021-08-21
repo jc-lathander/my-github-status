@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                          | 2020-01-19 | Go         | 2021-08-17   |
-|  2 | [msbingo](https://github.com/khoad/msbingo)                                     | 2020-01-17 | Go         | 2021-06-04   |
-|  3 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                         | 2017-04-18 | Shell      | 2021-08-17   |
-|  4 | [toc](https://github.com/cncf/toc)                                              | 2020-07-27 | md         | 2021-08-19   |
-|  5 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                       | 2018-07-09 | JavaScript | 2020-03-26   |
-|  6 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-08-19   |
-|  7 | [microrust](https://github.com/droogmic/microrust)                              | 2020-08-20 | Rust       | 2021-07-18   |
-|  8 | [m-cli](https://github.com/rgcr/m-cli)                                          | 2019-12-04 | Shell      | 2021-08-19   |
-|  9 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                          | 2020-04-28 | C          | 2020-04-28   |
-| 10 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)         | 2019-12-15 | C++        | 2021-08-16   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                                                  | 2018-01-02 | TypeScript | 2021-08-20   |
+|  2 | [feishu](https://github.com/fastwego/feishu)                                                          | 2020-08-19 | Go         | 2021-08-18   |
+|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)                                                | 2019-12-10 | Go         | 2021-08-20   |
+|  4 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                                     | 2019-10-23 | Go         | 2021-08-07   |
+|  5 | [PowerJob](https://github.com/PowerJob/PowerJob)                                                      | 2020-08-04 | Java       | 2021-08-19   |
+|  6 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
+|  7 | [Potatso](https://github.com/icodesign/Potatso)                                                       | 2016-06-30 | md         | 2021-08-10   |
+|  8 | [go_tls_example](https://github.com/michelia/go_tls_example)                                          | 2020-02-23 | Go         | 2020-07-30   |
+|  9 | [goreporter](https://github.com/qax-os/goreporter)                                                    | 2017-04-12 | Go         | 2021-08-17   |
+| 10 | [agent](https://github.com/LeonZYang/agent)                                                           | 2019-10-23 | Go         | 2021-01-12   |
 
 <!--END_SECTION:my_github-->
