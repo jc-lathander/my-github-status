@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [casbin-go-client](https://github.com/casbin/casbin-go-client)                                                | 2020-01-19 | Go         | 2021-06-22   |
-|  2 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)                                       | 2016-09-27 | JavaScript | 2021-04-24   |
-|  3 | [debugcharts](https://github.com/mkevac/debugcharts)                                                          | 2017-05-01 | Go         | 2021-08-13   |
-|  4 | [blog](https://github.com/xizhibei/blog)                                                                      | 2018-05-05 | HTML       | 2021-08-19   |
-|  5 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                                                        | 2020-04-28 | C          | 2020-04-28   |
-|  6 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                                               | 2017-08-08 | Erlang     | 2021-06-01   |
-|  7 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                                           | 2019-06-05 | md         | 2021-08-16   |
-|  8 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                                               | 2020-04-08 | Batchfile  | 2021-07-27   |
-|  9 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-08-21   |
-| 10 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)                                       | 2017-02-03 | md         | 2021-07-15   |
+| ID |                                        REPO                                        | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [wechat-api](https://github.com/node-webot/wechat-api)                             | 2016-09-22 | JavaScript   | 2021-08-17   |
+|  2 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                            | 2017-11-06 | CoffeeScript | 2021-08-02   |
+|  3 | [wechat](https://github.com/node-webot/wechat)                                     | 2016-09-22 | JavaScript   | 2021-08-17   |
+|  4 | [iptv](https://github.com/iptv-org/iptv)                                           | 2020-02-19 | JavaScript   | 2021-08-22   |
+|  5 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md           | 2021-08-22   |
+|  6 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                            | 2017-04-18 | Shell        | 2021-08-22   |
+|  7 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)            | 2017-02-03 | md           | 2021-07-15   |
+|  8 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                          | 2018-07-09 | JavaScript   | 2020-03-26   |
+|  9 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)            | 2018-08-05 | md           | 2021-08-22   |
+| 10 | [escpos-php](https://github.com/mike42/escpos-php)                                 | 2016-09-26 | PHP          | 2021-08-22   |
 
 <!--END_SECTION:my_github-->
