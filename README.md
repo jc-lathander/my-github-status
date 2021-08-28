@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [mongood](https://github.com/renzholy/mongood)                                                                | 2020-08-06 | TypeScript       | 2021-08-25   |
-|  2 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)                                       | 2018-08-05 | md               | 2021-08-26   |
-|  3 | [vscode-python](https://github.com/microsoft/vscode-python)                                                   | 2017-11-10 | TypeScript       | 2021-08-26   |
-|  4 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                                   | 2020-08-06 | Ruby             | 2021-08-26   |
-|  5 | [goadmin](https://github.com/CrazyRocks/goadmin)                                                              | 2020-01-13 | Go               | 2021-08-18   |
-|  6 | [detector](https://github.com/hotoo/detector)                                                                 | 2017-11-17 | JavaScript       | 2021-08-20   |
-|  7 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md               | 2021-08-26   |
-|  8 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                                              | 2020-08-12 | Go               | 2021-08-25   |
-|  9 | [msbingo](https://github.com/khoad/msbingo)                                                                   | 2020-01-17 | Go               | 2021-06-04   |
-| 10 | [examples](https://github.com/elastic/examples)                                                               | 2016-09-27 | Jupyter Notebook | 2021-08-26   |
+| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [insomnia](https://github.com/Kong/insomnia)                            | 2017-06-13 | JavaScript       | 2021-08-28   |
+|  2 | [fonts](https://github.com/powerline/fonts)                             | 2020-07-23 | Shell            | 2021-08-28   |
+|  3 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)              | 2020-01-19 | PHP              | 2021-08-27   |
+|  4 | [ATX](https://github.com/NetEaseGame/ATX)                               | 2017-04-15 | Python           | 2021-08-23   |
+|  5 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++              | 2021-08-16   |
+|  6 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)         | 2020-04-08 | Batchfile        | 2021-07-27   |
+|  7 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp)  | 2016-09-23 | JavaScript       | 2021-07-28   |
+|  8 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                    | 2020-11-16 | JavaScript       | 2021-08-26   |
+|  9 | [gadmin](https://github.com/hailaz/gadmin)                              | 2020-02-25 | Go               | 2021-08-04   |
+| 10 | [mqtt](https://github.com/mcxiaoke/mqtt)                                | 2017-05-04 | Rich Text Format | 2021-08-27   |
 
 <!--END_SECTION:my_github-->
