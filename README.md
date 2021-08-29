@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [insomnia](https://github.com/Kong/insomnia)                            | 2017-06-13 | JavaScript       | 2021-08-28   |
-|  2 | [fonts](https://github.com/powerline/fonts)                             | 2020-07-23 | Shell            | 2021-08-28   |
-|  3 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)              | 2020-01-19 | PHP              | 2021-08-27   |
-|  4 | [ATX](https://github.com/NetEaseGame/ATX)                               | 2017-04-15 | Python           | 2021-08-23   |
-|  5 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++              | 2021-08-16   |
-|  6 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)         | 2020-04-08 | Batchfile        | 2021-07-27   |
-|  7 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp)  | 2016-09-23 | JavaScript       | 2021-07-28   |
-|  8 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                    | 2020-11-16 | JavaScript       | 2021-08-26   |
-|  9 | [gadmin](https://github.com/hailaz/gadmin)                              | 2020-02-25 | Go               | 2021-08-04   |
-| 10 | [mqtt](https://github.com/mcxiaoke/mqtt)                                | 2017-05-04 | Rich Text Format | 2021-08-27   |
+| ID |                                  REPO                                  | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [detector](https://github.com/hotoo/detector)                          | 2017-11-17 | JavaScript       | 2021-08-27   |
+|  2 | [goreporter](https://github.com/qax-os/goreporter)                     | 2017-04-12 | Go               | 2021-08-28   |
+|  3 | [conference](https://github.com/gopherchina/conference)                | 2020-11-24 | md               | 2021-08-28   |
+|  4 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                | 2017-10-31 | C++              | 2021-08-28   |
+|  5 | [mqtt](https://github.com/mcxiaoke/mqtt)                               | 2017-05-04 | Rich Text Format | 2021-08-28   |
+|  6 | [amazing-qr](https://github.com/x-hw/amazing-qr)                       | 2016-09-05 | Python           | 2021-08-28   |
+|  7 | [msbingo](https://github.com/khoad/msbingo)                            | 2020-01-17 | Go               | 2021-06-04   |
+|  8 | [kubernetes](https://github.com/kubernetes/kubernetes)                 | 2019-12-10 | Go               | 2021-08-28   |
+|  9 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN) | 2018-06-08 | JavaScript       | 2021-08-20   |
+| 10 | [v](https://github.com/vlang/v)                                        | 2019-04-09 | V                | 2021-08-29   |
 
 <!--END_SECTION:my_github-->
