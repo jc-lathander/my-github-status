@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [simhash](https://github.com/yanyiwu/simhash)                                                 | 2016-09-23 | C++        | 2021-08-24   |
-|  2 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-08-21   |
-|  3 | [v](https://github.com/vlang/v)                                                               | 2019-04-09 | V          | 2021-08-29   |
-|  4 | [yin](https://github.com/0x55aa/yin)                                                          | 2019-04-21 | Java       | 2021-08-15   |
-|  5 | [winpcap](https://github.com/patmarion/winpcap)                                               | 2020-04-08 | C          | 2021-06-29   |
-|  6 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                               | 2020-04-08 | Batchfile  | 2021-07-27   |
-|  7 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                     | 2018-07-09 | JavaScript | 2020-03-26   |
-|  8 | [insomnia](https://github.com/Kong/insomnia)                                                  | 2017-06-13 | JavaScript | 2021-08-29   |
-|  9 | [m-cli](https://github.com/rgcr/m-cli)                                                        | 2019-12-04 | Shell      | 2021-08-29   |
-| 10 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)                                   | 2016-09-22 | JavaScript | 2021-08-11   |
+| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [kubeedge](https://github.com/kubeedge/kubeedge)                       | 2019-12-10 | Go         | 2021-08-30   |
+|  2 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)        | 2020-04-08 | Batchfile  | 2021-07-27   |
+|  3 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN) | 2018-06-08 | JavaScript | 2021-08-20   |
+|  4 | [gitignore](https://github.com/github/gitignore)                       | 2016-03-25 | md         | 2021-08-30   |
+|  5 | [binary-parser](https://github.com/Ericbla/binary-parser)              | 2019-03-30 | JavaScript | 2021-08-07   |
+|  6 | [awesome-design](https://github.com/gztchan/awesome-design)            | 2016-09-07 | md         | 2021-08-30   |
+|  7 | [website](https://github.com/openpitrix/website)                       | 2019-01-23 | JavaScript | 2020-06-17   |
+|  8 | [tsung_ws](https://github.com/wulczer/tsung_ws)                        | 2017-08-08 | Erlang     | 2021-06-01   |
+|  9 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp) | 2016-09-23 | JavaScript | 2021-07-28   |
+| 10 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)      | 2019-10-23 | Go         | 2021-08-25   |
 
 <!--END_SECTION:my_github-->
