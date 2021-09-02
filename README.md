@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)                           | 2019-02-22 | md               | 2021-08-31   |
-|  2 | [go-study-index](https://github.com/unknwon/go-study-index)                                                   | 2017-10-30 | md               | 2021-08-31   |
-|  3 | [website](https://github.com/openpitrix/website)                                                              | 2019-01-23 | JavaScript       | 2020-06-17   |
-|  4 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                                        | 2018-10-02 | HTML             | 2021-08-30   |
-|  5 | [mqtt](https://github.com/mcxiaoke/mqtt)                                                                      | 2017-05-04 | Rich Text Format | 2021-08-28   |
-|  6 | [binary-parser](https://github.com/Ericbla/binary-parser)                                                     | 2019-03-30 | JavaScript       | 2021-08-07   |
-|  7 | [go_tls_example](https://github.com/michelia/go_tls_example)                                                  | 2020-02-23 | Go               | 2020-07-30   |
-|  8 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                           | 2019-03-16 | JavaScript       | 2021-07-12   |
-|  9 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                                                              | 2018-07-23 | HTML             | 2021-08-25   |
-| 10 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md               | 2021-08-31   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [amazing-qr](https://github.com/x-hw/amazing-qr)                        | 2016-09-05 | Python     | 2021-09-01   |
+|  2 | [m-cli](https://github.com/rgcr/m-cli)                                  | 2019-12-04 | Shell      | 2021-09-01   |
+|  3 | [wechat](https://github.com/node-webot/wechat)                          | 2016-09-22 | JavaScript | 2021-09-01   |
+|  4 | [blog](https://github.com/xizhibei/blog)                                | 2018-05-05 | HTML       | 2021-08-30   |
+|  5 | [fonts](https://github.com/powerline/fonts)                             | 2020-07-23 | Shell      | 2021-09-01   |
+|  6 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++        | 2021-08-16   |
+|  7 | [gitignore](https://github.com/github/gitignore)                        | 2016-03-25 | md         | 2021-09-02   |
+|  8 | [gadmin](https://github.com/hailaz/gadmin)                              | 2020-02-25 | Go         | 2021-08-04   |
+|  9 | [gf](https://github.com/gogf/gf)                                        | 2020-01-13 | Go         | 2021-09-01   |
+| 10 | [egg-24time](https://github.com/seasonstar/egg-24time)                  | 2018-04-28 | JavaScript | 2021-08-21   |
 
 <!--END_SECTION:my_github-->
