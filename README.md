@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [amazing-qr](https://github.com/x-hw/amazing-qr)                        | 2016-09-05 | Python     | 2021-09-01   |
-|  2 | [m-cli](https://github.com/rgcr/m-cli)                                  | 2019-12-04 | Shell      | 2021-09-01   |
-|  3 | [wechat](https://github.com/node-webot/wechat)                          | 2016-09-22 | JavaScript | 2021-09-01   |
-|  4 | [blog](https://github.com/xizhibei/blog)                                | 2018-05-05 | HTML       | 2021-08-30   |
-|  5 | [fonts](https://github.com/powerline/fonts)                             | 2020-07-23 | Shell      | 2021-09-01   |
-|  6 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++        | 2021-08-16   |
-|  7 | [gitignore](https://github.com/github/gitignore)                        | 2016-03-25 | md         | 2021-09-02   |
-|  8 | [gadmin](https://github.com/hailaz/gadmin)                              | 2020-02-25 | Go         | 2021-08-04   |
-|  9 | [gf](https://github.com/gogf/gf)                                        | 2020-01-13 | Go         | 2021-09-01   |
-| 10 | [egg-24time](https://github.com/seasonstar/egg-24time)                  | 2018-04-28 | JavaScript | 2021-08-21   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [agent](https://github.com/LeonZYang/agent)                      | 2019-10-23 | Go         | 2021-01-12   |
+|  2 | [simhash](https://github.com/yanyiwu/simhash)                    | 2016-09-23 | C++        | 2021-08-31   |
+|  3 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)           | 2020-01-19 | Go         | 2021-08-29   |
+|  4 | [microrust](https://github.com/droogmic/microrust)               | 2020-08-20 | Rust       | 2021-08-24   |
+|  5 | [amazing-qr](https://github.com/x-hw/amazing-qr)                 | 2016-09-05 | Python     | 2021-09-02   |
+|  6 | [escpos-php](https://github.com/mike42/escpos-php)               | 2016-09-26 | PHP        | 2021-09-02   |
+|  7 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta) | 2017-05-01 | C++        | 2021-08-24   |
+|  8 | [ajv](https://github.com/ajv-validator/ajv)                      | 2018-04-26 | TypeScript | 2021-09-02   |
+|  9 | [CMAK](https://github.com/yahoo/CMAK)                            | 2018-04-27 | Scala      | 2021-09-02   |
+| 10 | [mongood](https://github.com/renzholy/mongood)                   | 2020-08-06 | TypeScript | 2021-09-02   |
 
 <!--END_SECTION:my_github-->
