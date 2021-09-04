@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [agent](https://github.com/LeonZYang/agent)                      | 2019-10-23 | Go         | 2021-01-12   |
-|  2 | [simhash](https://github.com/yanyiwu/simhash)                    | 2016-09-23 | C++        | 2021-08-31   |
-|  3 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)           | 2020-01-19 | Go         | 2021-08-29   |
-|  4 | [microrust](https://github.com/droogmic/microrust)               | 2020-08-20 | Rust       | 2021-08-24   |
-|  5 | [amazing-qr](https://github.com/x-hw/amazing-qr)                 | 2016-09-05 | Python     | 2021-09-02   |
-|  6 | [escpos-php](https://github.com/mike42/escpos-php)               | 2016-09-26 | PHP        | 2021-09-02   |
-|  7 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta) | 2017-05-01 | C++        | 2021-08-24   |
-|  8 | [ajv](https://github.com/ajv-validator/ajv)                      | 2018-04-26 | TypeScript | 2021-09-02   |
-|  9 | [CMAK](https://github.com/yahoo/CMAK)                            | 2018-04-27 | Scala      | 2021-09-02   |
-| 10 | [mongood](https://github.com/renzholy/mongood)                   | 2020-08-06 | TypeScript | 2021-09-02   |
+| ID |                                                REPO                                                | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [detector](https://github.com/hotoo/detector)                                                      | 2017-11-17 | JavaScript   | 2021-08-27   |
+|  2 | [orange](https://github.com/orlabs/orange)                                                         | 2017-03-08 | Lua          | 2021-09-03   |
+|  3 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                          | 2018-07-09 | JavaScript   | 2020-03-26   |
+|  4 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                                            | 2017-11-06 | CoffeeScript | 2021-08-02   |
+|  5 | [kratos](https://github.com/go-kratos/kratos)                                                      | 2019-04-22 | Go           | 2021-09-03   |
+|  6 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                                             | 2020-04-28 | C            | 2020-04-28   |
+|  7 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                                          | 2018-11-23 | PHP          | 2021-08-31   |
+|  8 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                                      | 2019-01-04 | Go           | 2021-09-03   |
+|  9 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | md           | 2021-09-03   |
+| 10 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)                                       | 2019-01-21 | JavaScript   | 2021-09-01   |
 
 <!--END_SECTION:my_github-->
