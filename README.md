@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [yin](https://github.com/0x55aa/yin)                                                | 2019-04-21 | Java             | 2021-08-15   |
-|  2 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket)             | 2016-09-27 | JavaScript       | 2021-08-19   |
-|  3 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)             | 2016-09-27 | JavaScript       | 2021-04-24   |
-|  4 | [goadmin](https://github.com/CrazyRocks/goadmin)                                    | 2020-01-13 | Go               | 2021-09-03   |
-|  5 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                    | 2016-11-07 | md               | 2021-09-08   |
-|  6 | [examples](https://github.com/elastic/examples)                                     | 2016-09-27 | Jupyter Notebook | 2021-09-07   |
-|  7 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md               | 2021-09-08   |
-|  8 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                       | 2019-01-04 | Go               | 2021-09-08   |
-|  9 | [iptv](https://github.com/iptv-org/iptv)                                            | 2020-02-19 | JavaScript       | 2021-09-08   |
-| 10 | [gnvm](https://github.com/Kenshin/gnvm)                                             | 2016-04-28 | Go               | 2021-09-02   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                           | 2019-06-05 | md         | 2021-09-07   |
+|  2 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                               | 2020-04-08 | Batchfile  | 2021-07-27   |
+|  3 | [gf-demos](https://github.com/gogf/gf-demos)                                                  | 2020-02-25 | Go         | 2021-09-08   |
+|  4 | [blog](https://github.com/fouber/blog)                                                        | 2017-03-21 | md         | 2021-09-09   |
+|  5 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-08-21   |
+|  6 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)                    | 2017-05-08 | Python     | 2021-07-27   |
+|  7 | [awesome-go](https://github.com/avelino/awesome-go)                                           | 2017-10-30 | Go         | 2021-09-10   |
+|  8 | [Tars](https://github.com/TarsCloud/Tars)                                                     | 2017-11-02 | C++        | 2021-09-09   |
+|  9 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                                          | 2018-01-02 | TypeScript | 2021-09-07   |
+| 10 | [fuckword](https://github.com/NextZeus/fuckword)                                              | 2016-11-07 | JavaScript | 2021-07-01   |
 
 <!--END_SECTION:my_github-->
