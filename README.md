@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [grpcman](https://github.com/grpcman/grpcman)                  | 2020-08-12 | Vue        | 2021-07-22   |
-|  2 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                  | 2019-01-04 | Go         | 2021-09-10   |
-|  3 | [go_tls_example](https://github.com/michelia/go_tls_example)   | 2020-02-23 | Go         | 2020-07-30   |
-|  4 | [apigateway](https://github.com/adobe-apiplatform/apigateway)  | 2017-03-08 | Lua        | 2021-08-24   |
-|  5 | [cpython](https://github.com/python/cpython)                   | 2017-07-03 | Python     | 2021-09-11   |
-|  6 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert) | 2020-02-23 | Go         | 2021-09-10   |
-|  7 | [Potatso](https://github.com/icodesign/Potatso)                | 2016-06-30 | md         | 2021-09-05   |
-|  8 | [orange](https://github.com/orlabs/orange)                     | 2017-03-08 | Lua        | 2021-09-08   |
-|  9 | [gin-admin](https://github.com/LyricTian/gin-admin)            | 2020-02-25 | Go         | 2021-09-10   |
-| 10 | [detector](https://github.com/hotoo/detector)                  | 2017-11-17 | JavaScript | 2021-08-27   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                           | 2020-02-25 | Go         | 2021-09-11   |
+|  2 | [gadmin](https://github.com/hailaz/gadmin)                                                                    | 2020-02-25 | Go         | 2021-08-04   |
+|  3 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                                        | 2018-10-02 | HTML       | 2021-09-11   |
+|  4 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)                                                 | 2019-12-03 | Python     | 2021-08-31   |
+|  5 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)                                        | 2016-09-27 | JavaScript | 2021-09-08   |
+|  6 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-09-11   |
+|  7 | [node-tenpay](https://github.com/befinal/node-tenpay)                                                         | 2018-03-05 | JavaScript | 2021-09-11   |
+|  8 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket)                                       | 2016-09-27 | JavaScript | 2021-08-19   |
+|  9 | [goreporter](https://github.com/qax-os/goreporter)                                                            | 2017-04-12 | Go         | 2021-09-10   |
+| 10 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                                             | 2019-10-23 | Go         | 2021-08-25   |
 
 <!--END_SECTION:my_github-->
