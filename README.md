@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [orange](https://github.com/orlabs/orange)                      | 2017-03-08 | Lua        | 2021-09-17   |
-|  2 | [toc](https://github.com/cncf/toc)                              | 2020-07-27 | md         | 2021-09-17   |
-|  3 | [iso7064](https://github.com/danieltwagner/iso7064)             | 2018-06-08 | Java       | 2021-03-05   |
-|  4 | [simhash](https://github.com/yanyiwu/simhash)                   | 2016-09-23 | C++        | 2021-09-16   |
-|  5 | [binary-parser](https://github.com/Ericbla/binary-parser)       | 2019-03-30 | JavaScript | 2021-09-01   |
-|  6 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install) | 2020-04-08 | Batchfile  | 2021-07-27   |
-|  7 | [go_tls_example](https://github.com/michelia/go_tls_example)    | 2020-02-23 | Go         | 2020-07-30   |
-|  8 | [goreporter](https://github.com/qax-os/goreporter)              | 2017-04-12 | Go         | 2021-09-16   |
-|  9 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                | 2018-07-23 | HTML       | 2021-09-17   |
-| 10 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)  | 2020-02-23 | Go         | 2021-09-15   |
+| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [egg-24time](https://github.com/seasonstar/egg-24time)                 | 2018-04-28 | JavaScript | 2021-09-10   |
+|  2 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                   | 2018-01-02 | TypeScript | 2021-09-18   |
+|  3 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)       | 2017-05-01 | C++        | 2021-08-24   |
+|  4 | [conference](https://github.com/gopherchina/conference)                | 2020-11-24 | md         | 2021-09-18   |
+|  5 | [grpcman](https://github.com/grpcman/grpcman)                          | 2020-08-12 | Vue        | 2021-07-22   |
+|  6 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp) | 2016-09-23 | JavaScript | 2021-09-09   |
+|  7 | [wechat](https://github.com/node-webot/wechat)                         | 2016-09-22 | JavaScript | 2021-09-17   |
+|  8 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                       | 2018-07-23 | HTML       | 2021-09-17   |
+|  9 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)              | 2018-07-09 | JavaScript | 2020-03-26   |
+| 10 | [fonts](https://github.com/powerline/fonts)                            | 2020-07-23 | Shell      | 2021-09-18   |
 
 <!--END_SECTION:my_github-->
