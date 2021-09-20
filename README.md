@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [egg-24time](https://github.com/seasonstar/egg-24time)                 | 2018-04-28 | JavaScript | 2021-09-10   |
-|  2 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                   | 2018-01-02 | TypeScript | 2021-09-18   |
-|  3 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)       | 2017-05-01 | C++        | 2021-08-24   |
-|  4 | [conference](https://github.com/gopherchina/conference)                | 2020-11-24 | md         | 2021-09-18   |
-|  5 | [grpcman](https://github.com/grpcman/grpcman)                          | 2020-08-12 | Vue        | 2021-07-22   |
-|  6 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp) | 2016-09-23 | JavaScript | 2021-09-09   |
-|  7 | [wechat](https://github.com/node-webot/wechat)                         | 2016-09-22 | JavaScript | 2021-09-17   |
-|  8 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                       | 2018-07-23 | HTML       | 2021-09-17   |
-|  9 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)              | 2018-07-09 | JavaScript | 2020-03-26   |
-| 10 | [fonts](https://github.com/powerline/fonts)                            | 2020-07-23 | Shell      | 2021-09-18   |
+| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [orange](https://github.com/orlabs/orange)                              | 2017-03-08 | Lua              | 2021-09-18   |
+|  2 | [goadmin](https://github.com/CrazyRocks/goadmin)                        | 2020-01-13 | Go               | 2021-09-13   |
+|  3 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client) | 2016-09-27 | JavaScript       | 2021-04-24   |
+|  4 | [v](https://github.com/vlang/v)                                         | 2019-04-09 | V                | 2021-09-19   |
+|  5 | [wechat](https://github.com/node-webot/wechat)                          | 2016-09-22 | JavaScript       | 2021-09-19   |
+|  6 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)  | 2018-06-08 | JavaScript       | 2021-09-10   |
+|  7 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)        | 2020-08-12 | Go               | 2021-08-25   |
+|  8 | [microrust](https://github.com/droogmic/microrust)                      | 2020-08-20 | Rust             | 2021-08-24   |
+|  9 | [msbingo](https://github.com/khoad/msbingo)                             | 2020-01-17 | Go               | 2021-06-04   |
+| 10 | [examples](https://github.com/elastic/examples)                         | 2016-09-27 | Jupyter Notebook | 2021-09-18   |
 
 <!--END_SECTION:my_github-->
