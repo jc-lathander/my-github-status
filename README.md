@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [orange](https://github.com/orlabs/orange)                              | 2017-03-08 | Lua              | 2021-09-18   |
-|  2 | [goadmin](https://github.com/CrazyRocks/goadmin)                        | 2020-01-13 | Go               | 2021-09-13   |
-|  3 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client) | 2016-09-27 | JavaScript       | 2021-04-24   |
-|  4 | [v](https://github.com/vlang/v)                                         | 2019-04-09 | V                | 2021-09-19   |
-|  5 | [wechat](https://github.com/node-webot/wechat)                          | 2016-09-22 | JavaScript       | 2021-09-19   |
-|  6 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)  | 2018-06-08 | JavaScript       | 2021-09-10   |
-|  7 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)        | 2020-08-12 | Go               | 2021-08-25   |
-|  8 | [microrust](https://github.com/droogmic/microrust)                      | 2020-08-20 | Rust             | 2021-08-24   |
-|  9 | [msbingo](https://github.com/khoad/msbingo)                             | 2020-01-17 | Go               | 2021-06-04   |
-| 10 | [examples](https://github.com/elastic/examples)                         | 2016-09-27 | Jupyter Notebook | 2021-09-18   |
+| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md         | 2021-09-20   |
+|  2 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                   | 2019-10-23 | Go         | 2021-08-25   |
+|  3 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)                        | 2019-01-21 | JavaScript | 2021-09-20   |
+|  4 | [wooyun_public](https://github.com/hanc00l/wooyun_public)                           | 2018-11-23 | PHP        | 2021-09-20   |
+|  5 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)              | 2016-09-27 | JavaScript | 2021-09-17   |
+|  6 | [binary-parser](https://github.com/Ericbla/binary-parser)                           | 2019-03-30 | JavaScript | 2021-09-01   |
+|  7 | [goadmin](https://github.com/CrazyRocks/goadmin)                                    | 2020-01-13 | Go         | 2021-09-13   |
+|  8 | [fuckword](https://github.com/NextZeus/fuckword)                                    | 2016-11-07 | JavaScript | 2021-07-01   |
+|  9 | [debugcharts](https://github.com/mkevac/debugcharts)                                | 2017-05-01 | Go         | 2021-09-18   |
+| 10 | [winpcap](https://github.com/patmarion/winpcap)                                     | 2020-04-08 | C          | 2021-06-29   |
 
 <!--END_SECTION:my_github-->
