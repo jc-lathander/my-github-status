@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|------------|--------------|
-|  1 | [cpython](https://github.com/python/cpython)                 | 2017-07-03 | Python     | 2021-09-22   |
-|  2 | [goreporter](https://github.com/qax-os/goreporter)           | 2017-04-12 | Go         | 2021-09-22   |
-|  3 | [apollo](https://github.com/ApolloAuto/apollo)               | 2019-01-30 | C++        | 2021-09-22   |
-|  4 | [awesome-v](https://github.com/vlang/awesome-v)              | 2019-11-26 | md         | 2021-09-21   |
-|  5 | [zangodb](https://github.com/erikolson186/zangodb)           | 2017-06-18 | JavaScript | 2021-09-17   |
-|  6 | [data-forge-ts](https://github.com/data-forge/data-forge-ts) | 2019-04-22 | TypeScript | 2021-09-22   |
-|  7 | [superset](https://github.com/apache/superset)               | 2016-09-27 | Python     | 2021-09-22   |
-|  8 | [awesome-egg](https://github.com/eggjs/awesome-egg)          | 2019-06-05 | md         | 2021-09-16   |
-|  9 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)       | 2018-10-02 | HTML       | 2021-09-14   |
-| 10 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)       | 2020-01-19 | Go         | 2021-09-19   |
+| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [v](https://github.com/vlang/v)                                       | 2019-04-09 | V          | 2021-09-23   |
+|  2 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)          | 2019-01-21 | JavaScript | 2021-09-23   |
+|  3 | [superset](https://github.com/apache/superset)                        | 2016-09-27 | Python     | 2021-09-23   |
+|  4 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)     | 2019-10-23 | Go         | 2021-08-25   |
+|  5 | [kubeedge](https://github.com/kubeedge/kubeedge)                      | 2019-12-10 | Go         | 2021-09-23   |
+|  6 | [grpcui](https://github.com/fullstorydev/grpcui)                      | 2020-08-12 | JavaScript | 2021-09-23   |
+|  7 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework) | 2020-10-21 | JavaScript | 2021-09-23   |
+|  8 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)      | 2017-05-01 | C++        | 2021-08-24   |
+|  9 | [kratos](https://github.com/go-kratos/kratos)                         | 2019-04-22 | Go         | 2021-09-23   |
+| 10 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                      | 2018-07-23 | HTML       | 2021-09-17   |
 
 <!--END_SECTION:my_github-->
