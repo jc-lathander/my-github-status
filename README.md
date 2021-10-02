@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [go-study-index](https://github.com/unknwon/go-study-index)                                           | 2017-10-30 | md         | 2021-09-30   |
-|  2 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                                | 2018-10-02 | HTML       | 2021-09-30   |
-|  3 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                                     | 2019-10-29 | C++        | 2021-03-23   |
-|  4 | [escpos-php](https://github.com/mike42/escpos-php)                                                    | 2016-09-26 | PHP        | 2021-09-30   |
-|  5 | [debugcharts](https://github.com/mkevac/debugcharts)                                                  | 2017-05-01 | Go         | 2021-09-18   |
-|  6 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
-|  7 | [acme.sh](https://github.com/acmesh-official/acme.sh)                                                 | 2016-04-21 | Shell      | 2021-09-30   |
-|  8 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)                               | 2018-08-05 | md         | 2021-10-01   |
-|  9 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                        | 2020-02-23 | Go         | 2021-09-28   |
-| 10 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)                                           | 2016-09-22 | JavaScript | 2021-08-11   |
+| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Potatso](https://github.com/icodesign/Potatso)               | 2016-06-30 | md         | 2021-09-14   |
+|  2 | [escpos-php](https://github.com/mike42/escpos-php)            | 2016-09-26 | PHP        | 2021-09-30   |
+|  3 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)   | 2016-09-22 | JavaScript | 2021-08-11   |
+|  4 | [simhash](https://github.com/yanyiwu/simhash)                 | 2016-09-23 | C++        | 2021-09-23   |
+|  5 | [Tars](https://github.com/TarsCloud/Tars)                     | 2017-11-02 | C++        | 2021-09-30   |
+|  6 | [goadmin](https://github.com/CrazyRocks/goadmin)              | 2020-01-13 | Go         | 2021-09-13   |
+|  7 | [apollo](https://github.com/ApolloAuto/apollo)                | 2019-01-30 | C++        | 2021-10-01   |
+|  8 | [apigateway](https://github.com/adobe-apiplatform/apigateway) | 2017-03-08 | Lua        | 2021-08-24   |
+|  9 | [go_tls_example](https://github.com/michelia/go_tls_example)  | 2020-02-23 | Go         | 2020-07-30   |
+| 10 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)    | 2020-01-19 | PHP        | 2021-09-29   |
 
 <!--END_SECTION:my_github-->
