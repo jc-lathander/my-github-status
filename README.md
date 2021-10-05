@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                | 2018-07-09 | JavaScript | 2020-03-26   |
-|  2 | [toc](https://github.com/cncf/toc)                                       | 2020-07-27 | md         | 2021-09-28   |
-|  3 | [amazing-qr](https://github.com/x-hw/amazing-qr)                         | 2016-09-05 | Python     | 2021-10-03   |
-|  4 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina) | 2020-01-19 | md         | 2021-04-09   |
-|  5 | [simhash](https://github.com/yanyiwu/simhash)                            | 2016-09-23 | C++        | 2021-09-23   |
-|  6 | [gnvm](https://github.com/Kenshin/gnvm)                                  | 2016-04-28 | Go         | 2021-09-23   |
-|  7 | [blog](https://github.com/xizhibei/blog)                                 | 2018-05-05 | HTML       | 2021-10-02   |
-|  8 | [iptv](https://github.com/iptv-org/iptv)                                 | 2020-02-19 | JavaScript | 2021-10-04   |
-|  9 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                     | 2018-01-02 | TypeScript | 2021-10-03   |
-| 10 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)   | 2018-06-08 | JavaScript | 2021-09-10   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [escpos-php](https://github.com/mike42/escpos-php)               | 2016-09-26 | PHP        | 2021-09-30   |
+|  2 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql) | 2016-11-07 | md         | 2021-10-04   |
+|  3 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)   | 2020-02-23 | Go         | 2021-09-28   |
+|  4 | [zangodb](https://github.com/erikolson186/zangodb)               | 2017-06-18 | JavaScript | 2021-09-27   |
+|  5 | [gadmin](https://github.com/hailaz/gadmin)                       | 2020-02-25 | Go         | 2021-08-04   |
+|  6 | [acme.sh](https://github.com/acmesh-official/acme.sh)            | 2016-04-21 | Shell      | 2021-10-04   |
+|  7 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta) | 2017-05-01 | C++        | 2021-08-24   |
+|  8 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)  | 2020-04-08 | Batchfile  | 2021-07-27   |
+|  9 | [shellcheck](https://github.com/koalaman/shellcheck)             | 2019-06-02 | Haskell    | 2021-10-05   |
+| 10 | [tsung_ws](https://github.com/wulczer/tsung_ws)                  | 2017-08-08 | Erlang     | 2021-06-01   |
 
 <!--END_SECTION:my_github-->
