@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)               | 2018-07-09 | JavaScript       | 2020-03-26   |
-|  2 | [iso7064](https://github.com/danieltwagner/iso7064)                     | 2018-06-08 | Java             | 2021-03-05   |
-|  3 | [mqtt](https://github.com/mcxiaoke/mqtt)                                | 2017-05-04 | Rich Text Format | 2021-10-15   |
-|  4 | [awesome-go](https://github.com/avelino/awesome-go)                     | 2017-10-30 | Go               | 2021-10-16   |
-|  5 | [cpython](https://github.com/python/cpython)                            | 2017-07-03 | Python           | 2021-10-15   |
-|  6 | [wooyun_public](https://github.com/hanc00l/wooyun_public)               | 2018-11-23 | PHP              | 2021-10-13   |
-|  7 | [escpos-php](https://github.com/mike42/escpos-php)                      | 2016-09-26 | PHP              | 2021-10-15   |
-|  8 | [fonts](https://github.com/powerline/fonts)                             | 2020-07-23 | Shell            | 2021-10-15   |
-|  9 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client) | 2016-09-27 | JavaScript       | 2021-04-24   |
-| 10 | [ATX](https://github.com/NetEaseGame/ATX)                               | 2017-04-15 | Python           | 2021-10-12   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                              | 2020-08-12 | Go         | 2021-10-15   |
+|  2 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-09-29   |
+|  3 | [gf](https://github.com/gogf/gf)                                                              | 2020-01-13 | Go         | 2021-10-16   |
+|  4 | [grpcman](https://github.com/grpcman/grpcman)                                                 | 2020-08-12 | Vue        | 2021-09-23   |
+|  5 | [yin](https://github.com/0x55aa/yin)                                                          | 2019-04-21 | Java       | 2021-09-17   |
+|  6 | [apigateway](https://github.com/adobe-apiplatform/apigateway)                                 | 2017-03-08 | Lua        | 2021-10-14   |
+|  7 | [ajv](https://github.com/ajv-validator/ajv)                                                   | 2018-04-26 | TypeScript | 2021-10-16   |
+|  8 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                              | 2016-11-07 | md         | 2021-10-15   |
+|  9 | [ATX](https://github.com/NetEaseGame/ATX)                                                     | 2017-04-15 | Python     | 2021-10-12   |
+| 10 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)                      | 2020-01-19 | md         | 2021-04-09   |
 
 <!--END_SECTION:my_github-->
