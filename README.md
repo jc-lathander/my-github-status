@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                              | 2020-08-12 | Go         | 2021-10-15   |
-|  2 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-09-29   |
-|  3 | [gf](https://github.com/gogf/gf)                                                              | 2020-01-13 | Go         | 2021-10-16   |
-|  4 | [grpcman](https://github.com/grpcman/grpcman)                                                 | 2020-08-12 | Vue        | 2021-09-23   |
-|  5 | [yin](https://github.com/0x55aa/yin)                                                          | 2019-04-21 | Java       | 2021-09-17   |
-|  6 | [apigateway](https://github.com/adobe-apiplatform/apigateway)                                 | 2017-03-08 | Lua        | 2021-10-14   |
-|  7 | [ajv](https://github.com/ajv-validator/ajv)                                                   | 2018-04-26 | TypeScript | 2021-10-16   |
-|  8 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                              | 2016-11-07 | md         | 2021-10-15   |
-|  9 | [ATX](https://github.com/NetEaseGame/ATX)                                                     | 2017-04-15 | Python     | 2021-10-12   |
-| 10 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)                      | 2020-01-19 | md         | 2021-04-09   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [alwsl](https://github.com/alwsl/alwsl)                                                               | 2017-04-15 | Batchfile  | 2021-09-14   |
+|  2 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
+|  3 | [orange](https://github.com/orlabs/orange)                                                            | 2017-03-08 | Lua        | 2021-10-13   |
+|  4 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                        | 2020-02-23 | Go         | 2021-09-28   |
+|  5 | [awesome-design](https://github.com/gztchan/awesome-design)                                           | 2016-09-07 | md         | 2021-10-17   |
+|  6 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)    | 2020-08-06 | md         | 2021-10-17   |
+|  7 | [apigateway](https://github.com/adobe-apiplatform/apigateway)                                         | 2017-03-08 | Lua        | 2021-10-14   |
+|  8 | [docsify](https://github.com/docsifyjs/docsify)                                                       | 2016-11-27 | JavaScript | 2021-10-17   |
+|  9 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket)                               | 2016-09-27 | JavaScript | 2021-09-22   |
+| 10 | [grpcui](https://github.com/fullstorydev/grpcui)                                                      | 2020-08-12 | JavaScript | 2021-10-17   |
 
 <!--END_SECTION:my_github-->
