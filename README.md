@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [alwsl](https://github.com/alwsl/alwsl)                                                               | 2017-04-15 | Batchfile  | 2021-09-14   |
-|  2 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
-|  3 | [orange](https://github.com/orlabs/orange)                                                            | 2017-03-08 | Lua        | 2021-10-13   |
-|  4 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                        | 2020-02-23 | Go         | 2021-09-28   |
-|  5 | [awesome-design](https://github.com/gztchan/awesome-design)                                           | 2016-09-07 | md         | 2021-10-17   |
-|  6 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)    | 2020-08-06 | md         | 2021-10-17   |
-|  7 | [apigateway](https://github.com/adobe-apiplatform/apigateway)                                         | 2017-03-08 | Lua        | 2021-10-14   |
-|  8 | [docsify](https://github.com/docsifyjs/docsify)                                                       | 2016-11-27 | JavaScript | 2021-10-17   |
-|  9 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket)                               | 2016-09-27 | JavaScript | 2021-09-22   |
-| 10 | [grpcui](https://github.com/fullstorydev/grpcui)                                                      | 2020-08-12 | JavaScript | 2021-10-17   |
+|  1 | [go-v8](https://github.com/lazytiger/go-v8)                                                           | 2017-05-01 | Go         | 2021-09-23   |
+|  2 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                                      | 2020-08-12 | Go         | 2021-10-15   |
+|  3 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)                   | 2019-02-22 | md         | 2021-10-18   |
+|  4 | [go_tls_example](https://github.com/michelia/go_tls_example)                                          | 2020-02-23 | Go         | 2020-07-30   |
+|  5 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                    | 2017-04-15 | Python     | 2021-10-18   |
+|  6 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)                            | 2017-05-08 | Python     | 2021-10-12   |
+|  7 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                        | 2020-02-23 | Go         | 2021-09-28   |
+|  8 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                             | 2018-07-09 | JavaScript | 2020-03-26   |
+|  9 | [insomnia](https://github.com/Kong/insomnia)                                                          | 2017-06-13 | JavaScript | 2021-10-18   |
+| 10 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
 
 <!--END_SECTION:my_github-->
