@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                             REPO                             | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|--------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [v](https://github.com/vlang/v)                              | 2019-04-09 | V           | 2021-10-19   |
-|  2 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)             | 2018-07-23 | HTML        | 2021-09-17   |
-|  3 | [iso7064](https://github.com/danieltwagner/iso7064)          | 2018-06-08 | Java        | 2021-03-05   |
-|  4 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop) | 2019-01-21 | JavaScript  | 2021-10-18   |
-|  5 | [fuckword](https://github.com/NextZeus/fuckword)             | 2016-11-07 | JavaScript  | 2021-07-01   |
-|  6 | [amazing-qr](https://github.com/x-hw/amazing-qr)             | 2016-09-05 | Python      | 2021-10-19   |
-|  7 | [yin](https://github.com/0x55aa/yin)                         | 2019-04-21 | Java        | 2021-09-17   |
-|  8 | [GAutomator](https://github.com/Tencent/GAutomator)          | 2017-04-15 | Objective-C | 2021-10-15   |
-|  9 | [detector](https://github.com/hotoo/detector)                | 2017-11-17 | JavaScript  | 2021-09-30   |
-| 10 | [hardseed](https://github.com/yangyangwithgnu/hardseed)      | 2017-10-31 | C++         | 2021-10-19   |
+| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [GAutomator](https://github.com/Tencent/GAutomator)                                 | 2017-04-15 | Objective-C | 2021-10-21   |
+|  2 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)             | 2017-02-03 | md          | 2021-10-08   |
+|  3 | [node-tenpay](https://github.com/befinal/node-tenpay)                               | 2018-03-05 | JavaScript  | 2021-10-20   |
+|  4 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)             | 2019-12-15 | C++         | 2021-10-20   |
+|  5 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md          | 2021-10-20   |
+|  6 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                             | 2017-10-31 | C++         | 2021-10-20   |
+|  7 | [apigateway](https://github.com/adobe-apiplatform/apigateway)                       | 2017-03-08 | Lua         | 2021-10-14   |
+|  8 | [kratos](https://github.com/go-kratos/kratos)                                       | 2019-04-22 | Go          | 2021-10-20   |
+|  9 | [acme.sh](https://github.com/acmesh-official/acme.sh)                               | 2016-04-21 | Shell       | 2021-10-21   |
+| 10 | [cpython](https://github.com/python/cpython)                                        | 2017-07-03 | Python      | 2021-10-21   |
 
 <!--END_SECTION:my_github-->
