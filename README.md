@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [fuckword](https://github.com/NextZeus/fuckword)                | 2016-11-07 | JavaScript | 2021-07-01   |
-|  2 | [insomnia](https://github.com/Kong/insomnia)                    | 2017-06-13 | JavaScript | 2021-10-23   |
-|  3 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)          | 2020-04-28 | C          | 2020-04-28   |
-|  4 | [gadmin](https://github.com/hailaz/gadmin)                      | 2020-02-25 | Go         | 2021-08-04   |
-|  5 | [PowerJob](https://github.com/PowerJob/PowerJob)                | 2020-08-04 | Java       | 2021-10-23   |
-|  6 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) | 2016-09-23 | JavaScript | 2021-10-07   |
-|  7 | [orange](https://github.com/orlabs/orange)                      | 2017-03-08 | Lua        | 2021-10-21   |
-|  8 | [awesome-go](https://github.com/avelino/awesome-go)             | 2017-10-30 | Go         | 2021-10-24   |
-|  9 | [egg-24time](https://github.com/seasonstar/egg-24time)          | 2018-04-28 | JavaScript | 2021-09-10   |
-| 10 | [tonic](https://github.com/hyperium/tonic)                      | 2020-08-14 | Rust       | 2021-10-23   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [toc](https://github.com/cncf/toc)                                                                            | 2020-07-27 | md         | 2021-10-20   |
+|  2 | [website](https://github.com/openpitrix/website)                                                              | 2019-01-23 | JavaScript | 2021-09-27   |
+|  3 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                                     | 2018-07-09 | JavaScript | 2020-03-26   |
+|  4 | [shellcheck](https://github.com/koalaman/shellcheck)                                                          | 2019-06-02 | Haskell    | 2021-10-24   |
+|  5 | [escpos-php](https://github.com/mike42/escpos-php)                                                            | 2016-09-26 | PHP        | 2021-10-23   |
+|  6 | [wechat-api](https://github.com/node-webot/wechat-api)                                                        | 2016-09-22 | JavaScript | 2021-10-06   |
+|  7 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-10-24   |
+|  8 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                                                        | 2020-01-19 | Go         | 2021-10-23   |
+|  9 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)                                        | 2016-09-27 | JavaScript | 2021-09-17   |
+| 10 | [PowerJob](https://github.com/PowerJob/PowerJob)                                                              | 2020-08-04 | Java       | 2021-10-24   |
 
 <!--END_SECTION:my_github-->
