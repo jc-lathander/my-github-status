@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [toc](https://github.com/cncf/toc)                                                                            | 2020-07-27 | md         | 2021-10-20   |
-|  2 | [website](https://github.com/openpitrix/website)                                                              | 2019-01-23 | JavaScript | 2021-09-27   |
-|  3 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                                     | 2018-07-09 | JavaScript | 2020-03-26   |
-|  4 | [shellcheck](https://github.com/koalaman/shellcheck)                                                          | 2019-06-02 | Haskell    | 2021-10-24   |
-|  5 | [escpos-php](https://github.com/mike42/escpos-php)                                                            | 2016-09-26 | PHP        | 2021-10-23   |
-|  6 | [wechat-api](https://github.com/node-webot/wechat-api)                                                        | 2016-09-22 | JavaScript | 2021-10-06   |
-|  7 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-10-24   |
-|  8 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                                                        | 2020-01-19 | Go         | 2021-10-23   |
-|  9 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)                                        | 2016-09-27 | JavaScript | 2021-09-17   |
-| 10 | [PowerJob](https://github.com/PowerJob/PowerJob)                                                              | 2020-08-04 | Java       | 2021-10-24   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)  | 2020-08-12 | Go          | 2021-10-15   |
+|  2 | [casbin-go-client](https://github.com/casbin/casbin-go-client)    | 2020-01-19 | Go          | 2021-09-29   |
+|  3 | [detector](https://github.com/hotoo/detector)                     | 2017-11-17 | JavaScript  | 2021-09-30   |
+|  4 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)       | 2016-09-22 | JavaScript  | 2021-10-12   |
+|  5 | [Win10Pcap](https://github.com/pmsjt/Win10Pcap)                   | 2020-04-08 | C           | 2020-06-04   |
+|  6 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)    | 2020-02-23 | Go          | 2021-10-25   |
+|  7 | [conference](https://github.com/gopherchina/conference)           | 2020-11-24 | md          | 2021-10-25   |
+|  8 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi) | 2019-10-29 | C++         | 2021-03-23   |
+|  9 | [GAutomator](https://github.com/Tencent/GAutomator)               | 2017-04-15 | Objective-C | 2021-10-25   |
+| 10 | [toc](https://github.com/cncf/toc)                                | 2020-07-27 | md          | 2021-10-25   |
 
 <!--END_SECTION:my_github-->
