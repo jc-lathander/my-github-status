@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [goreporter](https://github.com/qax-os/goreporter)                                                            | 2017-04-12 | Go         | 2021-10-25   |
-|  2 | [orange](https://github.com/orlabs/orange)                                                                    | 2017-03-08 | Lua        | 2021-10-26   |
-|  3 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)                                                 | 2019-12-03 | Python     | 2021-10-26   |
-|  4 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                                                        | 2020-01-19 | Go         | 2021-10-25   |
-|  5 | [goadmin](https://github.com/CrazyRocks/goadmin)                                                              | 2020-01-13 | Go         | 2021-10-25   |
-|  6 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                                | 2020-02-23 | Go         | 2021-10-25   |
-|  7 | [fuckword](https://github.com/NextZeus/fuckword)                                                              | 2016-11-07 | JavaScript | 2021-07-01   |
-|  8 | [website](https://github.com/openpitrix/website)                                                              | 2019-01-23 | JavaScript | 2021-09-27   |
-|  9 | [toc](https://github.com/cncf/toc)                                                                            | 2020-07-27 | md         | 2021-10-26   |
-| 10 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-10-26   |
+| ID |                                                     REPO                                                      | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [apigateway](https://github.com/adobe-apiplatform/apigateway)                                                 | 2017-03-08 | Lua              | 2021-10-14   |
+|  2 | [alwsl](https://github.com/alwsl/alwsl)                                                                       | 2017-04-15 | Batchfile        | 2021-10-26   |
+|  3 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md               | 2021-10-27   |
+|  4 | [toc](https://github.com/cncf/toc)                                                                            | 2020-07-27 | md               | 2021-10-26   |
+|  5 | [zangodb](https://github.com/erikolson186/zangodb)                                                            | 2017-06-18 | JavaScript       | 2021-10-27   |
+|  6 | [go-v8](https://github.com/lazytiger/go-v8)                                                                   | 2017-05-01 | Go               | 2021-09-23   |
+|  7 | [examples](https://github.com/elastic/examples)                                                               | 2016-09-27 | Jupyter Notebook | 2021-10-27   |
+|  8 | [yin](https://github.com/0x55aa/yin)                                                                          | 2019-04-21 | Java             | 2021-10-26   |
+|  9 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket)                                       | 2016-09-27 | JavaScript       | 2021-09-22   |
+| 10 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)                                       | 2016-09-27 | JavaScript       | 2021-04-24   |
 
 <!--END_SECTION:my_github-->
