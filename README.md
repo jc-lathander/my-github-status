@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [apigateway](https://github.com/adobe-apiplatform/apigateway)                                                 | 2017-03-08 | Lua              | 2021-10-14   |
-|  2 | [alwsl](https://github.com/alwsl/alwsl)                                                                       | 2017-04-15 | Batchfile        | 2021-10-26   |
-|  3 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md               | 2021-10-27   |
-|  4 | [toc](https://github.com/cncf/toc)                                                                            | 2020-07-27 | md               | 2021-10-26   |
-|  5 | [zangodb](https://github.com/erikolson186/zangodb)                                                            | 2017-06-18 | JavaScript       | 2021-10-27   |
-|  6 | [go-v8](https://github.com/lazytiger/go-v8)                                                                   | 2017-05-01 | Go               | 2021-09-23   |
-|  7 | [examples](https://github.com/elastic/examples)                                                               | 2016-09-27 | Jupyter Notebook | 2021-10-27   |
-|  8 | [yin](https://github.com/0x55aa/yin)                                                                          | 2019-04-21 | Java             | 2021-10-26   |
-|  9 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket)                                       | 2016-09-27 | JavaScript       | 2021-09-22   |
-| 10 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)                                       | 2016-09-27 | JavaScript       | 2021-04-24   |
+| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-v](https://github.com/vlang/awesome-v)        | 2019-11-26 | md         | 2021-10-27   |
+|  2 | [msbingo](https://github.com/khoad/msbingo)            | 2020-01-17 | Go         | 2021-06-04   |
+|  3 | [fonts](https://github.com/powerline/fonts)            | 2020-07-23 | Shell      | 2021-10-29   |
+|  4 | [microrust](https://github.com/droogmic/microrust)     | 2020-08-20 | Rust       | 2021-10-15   |
+|  5 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6) | 2020-04-28 | C          | 2020-04-28   |
+|  6 | [debugcharts](https://github.com/mkevac/debugcharts)   | 2017-05-01 | Go         | 2021-09-18   |
+|  7 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp) | 2020-01-19 | Go         | 2021-10-28   |
+|  8 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs) | 2018-10-02 | HTML       | 2021-10-26   |
+|  9 | [insomnia](https://github.com/Kong/insomnia)           | 2017-06-13 | JavaScript | 2021-10-29   |
+| 10 | [goreporter](https://github.com/qax-os/goreporter)     | 2017-04-12 | Go         | 2021-10-27   |
 
 <!--END_SECTION:my_github-->
