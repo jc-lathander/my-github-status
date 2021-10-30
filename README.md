@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                          REPO                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-v](https://github.com/vlang/awesome-v)        | 2019-11-26 | md         | 2021-10-27   |
-|  2 | [msbingo](https://github.com/khoad/msbingo)            | 2020-01-17 | Go         | 2021-06-04   |
-|  3 | [fonts](https://github.com/powerline/fonts)            | 2020-07-23 | Shell      | 2021-10-29   |
-|  4 | [microrust](https://github.com/droogmic/microrust)     | 2020-08-20 | Rust       | 2021-10-15   |
-|  5 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6) | 2020-04-28 | C          | 2020-04-28   |
-|  6 | [debugcharts](https://github.com/mkevac/debugcharts)   | 2017-05-01 | Go         | 2021-09-18   |
-|  7 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp) | 2020-01-19 | Go         | 2021-10-28   |
-|  8 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs) | 2018-10-02 | HTML       | 2021-10-26   |
-|  9 | [insomnia](https://github.com/Kong/insomnia)           | 2017-06-13 | JavaScript | 2021-10-29   |
-| 10 | [goreporter](https://github.com/qax-os/goreporter)     | 2017-04-12 | Go         | 2021-10-27   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [binary-parser](https://github.com/Ericbla/binary-parser)                          | 2019-03-30 | JavaScript | 2021-09-01   |
+|  2 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)             | 2018-06-08 | JavaScript | 2021-10-29   |
+|  3 | [grpcui](https://github.com/fullstorydev/grpcui)                                   | 2020-08-12 | JavaScript | 2021-10-29   |
+|  4 | [ATX](https://github.com/NetEaseGame/ATX)                                          | 2017-04-15 | Python     | 2021-10-22   |
+|  5 | [fuckword](https://github.com/NextZeus/fuckword)                                   | 2016-11-07 | JavaScript | 2021-07-01   |
+|  6 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                             | 2020-01-19 | Go         | 2021-10-28   |
+|  7 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md         | 2021-10-29   |
+|  8 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)              | 2019-01-16 | Java       | 2021-10-29   |
+|  9 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                         | 2020-01-19 | PHP        | 2021-10-28   |
+| 10 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                | 2019-06-05 | md         | 2021-10-28   |
 
 <!--END_SECTION:my_github-->
