@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [binary-parser](https://github.com/Ericbla/binary-parser)                          | 2019-03-30 | JavaScript | 2021-09-01   |
-|  2 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)             | 2018-06-08 | JavaScript | 2021-10-29   |
-|  3 | [grpcui](https://github.com/fullstorydev/grpcui)                                   | 2020-08-12 | JavaScript | 2021-10-29   |
-|  4 | [ATX](https://github.com/NetEaseGame/ATX)                                          | 2017-04-15 | Python     | 2021-10-22   |
-|  5 | [fuckword](https://github.com/NextZeus/fuckword)                                   | 2016-11-07 | JavaScript | 2021-07-01   |
-|  6 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                             | 2020-01-19 | Go         | 2021-10-28   |
-|  7 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md         | 2021-10-29   |
-|  8 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)              | 2019-01-16 | Java       | 2021-10-29   |
-|  9 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                         | 2020-01-19 | PHP        | 2021-10-28   |
-| 10 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                | 2019-06-05 | md         | 2021-10-28   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)     | 2016-09-27 | JavaScript | 2021-09-17   |
+|  2 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)               | 2019-01-21 | JavaScript | 2021-10-30   |
+|  3 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)      | 2019-01-16 | Java       | 2021-10-29   |
+|  4 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                    | 2017-10-31 | C++        | 2021-10-29   |
+|  5 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)    | 2016-09-27 | JavaScript | 2021-04-24   |
+|  6 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)               | 2019-04-22 | TypeScript | 2021-10-27   |
+|  7 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2021-10-09   |
+|  8 | [egg-24time](https://github.com/seasonstar/egg-24time)                     | 2018-04-28 | JavaScript | 2021-10-28   |
+|  9 | [orange](https://github.com/orlabs/orange)                                 | 2017-03-08 | Lua        | 2021-10-26   |
+| 10 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                              | 2019-01-04 | Go         | 2021-10-30   |
 
 <!--END_SECTION:my_github-->
