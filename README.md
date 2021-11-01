@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)     | 2016-09-27 | JavaScript | 2021-09-17   |
-|  2 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)               | 2019-01-21 | JavaScript | 2021-10-30   |
-|  3 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)      | 2019-01-16 | Java       | 2021-10-29   |
-|  4 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                    | 2017-10-31 | C++        | 2021-10-29   |
-|  5 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)    | 2016-09-27 | JavaScript | 2021-04-24   |
-|  6 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)               | 2019-04-22 | TypeScript | 2021-10-27   |
-|  7 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2021-10-09   |
-|  8 | [egg-24time](https://github.com/seasonstar/egg-24time)                     | 2018-04-28 | JavaScript | 2021-10-28   |
-|  9 | [orange](https://github.com/orlabs/orange)                                 | 2017-03-08 | Lua        | 2021-10-26   |
-| 10 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                              | 2019-01-04 | Go         | 2021-10-30   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [libaco](https://github.com/hnes/libaco)                                | 2018-07-18 | C          | 2021-10-29   |
+|  2 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript | 2021-09-22   |
+|  3 | [msbingo](https://github.com/khoad/msbingo)                             | 2020-01-17 | Go         | 2021-06-04   |
+|  4 | [debugcharts](https://github.com/mkevac/debugcharts)                    | 2017-05-01 | Go         | 2021-10-31   |
+|  5 | [go-study-index](https://github.com/unknwon/go-study-index)             | 2017-10-30 | md         | 2021-10-31   |
+|  6 | [gadmin](https://github.com/hailaz/gadmin)                              | 2020-02-25 | Go         | 2021-08-04   |
+|  7 | [awesome-egg](https://github.com/eggjs/awesome-egg)                     | 2019-06-05 | md         | 2021-10-28   |
+|  8 | [pix2code](https://github.com/tonybeltramelli/pix2code)                 | 2017-05-30 | Python     | 2021-10-31   |
+|  9 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++        | 2021-10-27   |
+| 10 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)           | 2019-12-03 | Python     | 2021-10-26   |
 
 <!--END_SECTION:my_github-->
