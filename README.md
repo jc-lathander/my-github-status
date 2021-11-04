@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [simhash](https://github.com/yanyiwu/simhash)                                                                 | 2016-09-23 | C++        | 2021-11-01   |
-|  2 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)                                        | 2016-09-27 | JavaScript | 2021-09-17   |
-|  3 | [fuckword](https://github.com/NextZeus/fuckword)                                                              | 2016-11-07 | JavaScript | 2021-07-01   |
-|  4 | [whistle](https://github.com/avwo/whistle)                                                                    | 2018-03-29 | JavaScript | 2021-11-02   |
-|  5 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                                              | 2020-08-12 | Go         | 2021-10-15   |
-|  6 | [debugcharts](https://github.com/mkevac/debugcharts)                                                          | 2017-05-01 | Go         | 2021-11-02   |
-|  7 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)                                             | 2019-10-23 | Go         | 2021-11-01   |
-|  8 | [shellcheck](https://github.com/koalaman/shellcheck)                                                          | 2019-06-02 | Haskell    | 2021-11-02   |
-|  9 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2021-11-03   |
-| 10 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)                                       | 2019-12-15 | C++        | 2021-10-27   |
+| ID |                                        REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [blog](https://github.com/xizhibei/blog)                                           | 2018-05-05 | HTML             | 2021-10-27   |
+|  2 | [blog](https://github.com/fouber/blog)                                             | 2017-03-21 | md               | 2021-11-03   |
+|  3 | [docsify](https://github.com/docsifyjs/docsify)                                    | 2016-11-27 | JavaScript       | 2021-11-03   |
+|  4 | [gadmin](https://github.com/hailaz/gadmin)                                         | 2020-02-25 | Go               | 2021-08-04   |
+|  5 | [goreporter](https://github.com/qax-os/goreporter)                                 | 2017-04-12 | Go               | 2021-11-03   |
+|  6 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                          | 2018-07-09 | JavaScript       | 2020-03-26   |
+|  7 | [express](https://github.com/expressjs/express)                                    | 2016-03-25 | JavaScript       | 2021-11-03   |
+|  8 | [website](https://github.com/openpitrix/website)                                   | 2019-01-23 | JavaScript       | 2021-09-27   |
+|  9 | [examples](https://github.com/elastic/examples)                                    | 2016-09-27 | Jupyter Notebook | 2021-11-03   |
+| 10 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python           | 2021-10-18   |
 
 <!--END_SECTION:my_github-->
