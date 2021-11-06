@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [website](https://github.com/openpitrix/website)                         | 2019-01-23 | JavaScript | 2021-09-27   |
-|  2 | [goreporter](https://github.com/qax-os/goreporter)                       | 2017-04-12 | Go         | 2021-11-05   |
-|  3 | [gf-demos](https://github.com/gogf/gf-demos)                             | 2020-02-25 | Go         | 2021-10-28   |
-|  4 | [simhash](https://github.com/yanyiwu/simhash)                            | 2016-09-23 | C++        | 2021-11-01   |
-|  5 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)   | 2018-06-08 | JavaScript | 2021-10-29   |
-|  6 | [m-cli](https://github.com/rgcr/m-cli)                                   | 2019-12-04 | Shell      | 2021-11-02   |
-|  7 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)         | 2016-11-07 | md         | 2021-11-04   |
-|  8 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina) | 2020-01-19 | md         | 2021-04-09   |
-|  9 | [awesome-design](https://github.com/gztchan/awesome-design)              | 2016-09-07 | md         | 2021-11-04   |
-| 10 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                     | 2020-11-16 | JavaScript | 2021-11-04   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [insomnia](https://github.com/Kong/insomnia)                                                          | 2017-06-13 | JavaScript  | 2021-11-05   |
+|  2 | [GAutomator](https://github.com/Tencent/GAutomator)                                                   | 2017-04-15 | Objective-C | 2021-11-05   |
+|  3 | [escpos-php](https://github.com/mike42/escpos-php)                                                    | 2016-09-26 | PHP         | 2021-11-03   |
+|  4 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese)                    | 2018-09-07 | md          | 2021-11-04   |
+|  5 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                    | 2017-04-15 | Python      | 2021-10-18   |
+|  6 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md          | 2021-07-24   |
+|  7 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)                                | 2016-09-27 | JavaScript  | 2021-09-17   |
+|  8 | [apollo](https://github.com/ApolloAuto/apollo)                                                        | 2019-01-30 | C++         | 2021-11-05   |
+|  9 | [gitignore](https://github.com/github/gitignore)                                                      | 2016-03-25 | md          | 2021-11-06   |
+| 10 | [ATX](https://github.com/NetEaseGame/ATX)                                                             | 2017-04-15 | Python      | 2021-11-03   |
 
 <!--END_SECTION:my_github-->
