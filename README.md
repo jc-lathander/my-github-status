@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [insomnia](https://github.com/Kong/insomnia)                                                          | 2017-06-13 | JavaScript  | 2021-11-05   |
-|  2 | [GAutomator](https://github.com/Tencent/GAutomator)                                                   | 2017-04-15 | Objective-C | 2021-11-05   |
-|  3 | [escpos-php](https://github.com/mike42/escpos-php)                                                    | 2016-09-26 | PHP         | 2021-11-03   |
-|  4 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese)                    | 2018-09-07 | md          | 2021-11-04   |
-|  5 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                    | 2017-04-15 | Python      | 2021-10-18   |
-|  6 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md          | 2021-07-24   |
-|  7 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)                                | 2016-09-27 | JavaScript  | 2021-09-17   |
-|  8 | [apollo](https://github.com/ApolloAuto/apollo)                                                        | 2019-01-30 | C++         | 2021-11-05   |
-|  9 | [gitignore](https://github.com/github/gitignore)                                                      | 2016-03-25 | md          | 2021-11-06   |
-| 10 | [ATX](https://github.com/NetEaseGame/ATX)                                                             | 2017-04-15 | Python      | 2021-11-03   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [superset](https://github.com/apache/superset)                                                        | 2016-09-27 | Python     | 2021-11-06   |
+|  2 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                   | 2020-02-25 | Go         | 2021-11-05   |
+|  3 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                           | 2020-08-06 | Ruby       | 2021-11-06   |
+|  4 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
+|  5 | [egg-24time](https://github.com/seasonstar/egg-24time)                                                | 2018-04-28 | JavaScript | 2021-11-06   |
+|  6 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                                | 2018-10-02 | HTML       | 2021-11-05   |
+|  7 | [ATX](https://github.com/NetEaseGame/ATX)                                                             | 2017-04-15 | Python     | 2021-11-03   |
+|  8 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                                   | 2019-06-05 | md         | 2021-10-28   |
+|  9 | [zangodb](https://github.com/erikolson186/zangodb)                                                    | 2017-06-18 | JavaScript | 2021-11-03   |
+| 10 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                                     | 2019-10-29 | C++        | 2021-11-02   |
 
 <!--END_SECTION:my_github-->
