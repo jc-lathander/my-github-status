@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [superset](https://github.com/apache/superset)                                                        | 2016-09-27 | Python     | 2021-11-06   |
-|  2 | [gin-admin](https://github.com/LyricTian/gin-admin)                                                   | 2020-02-25 | Go         | 2021-11-05   |
-|  3 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                           | 2020-08-06 | Ruby       | 2021-11-06   |
-|  4 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-07-24   |
-|  5 | [egg-24time](https://github.com/seasonstar/egg-24time)                                                | 2018-04-28 | JavaScript | 2021-11-06   |
-|  6 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                                | 2018-10-02 | HTML       | 2021-11-05   |
-|  7 | [ATX](https://github.com/NetEaseGame/ATX)                                                             | 2017-04-15 | Python     | 2021-11-03   |
-|  8 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                                   | 2019-06-05 | md         | 2021-10-28   |
-|  9 | [zangodb](https://github.com/erikolson186/zangodb)                                                    | 2017-06-18 | JavaScript | 2021-11-03   |
-| 10 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                                     | 2019-10-29 | C++        | 2021-11-02   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)      | 2016-09-22 | JavaScript | 2021-11-04   |
+|  2 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)          | 2018-06-08 | JavaScript | 2021-10-29   |
+|  3 | [wechat-api](https://github.com/node-webot/wechat-api)                          | 2016-09-22 | JavaScript | 2021-10-31   |
+|  4 | [egg-watcher](https://github.com/eggjs/egg-watcher)                             | 2019-03-16 | JavaScript | 2021-07-12   |
+|  5 | [gin-admin](https://github.com/LyricTian/gin-admin)                             | 2020-02-25 | Go         | 2021-11-07   |
+|  6 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                          | 2018-10-02 | HTML       | 2021-11-05   |
+|  7 | [kubernetes](https://github.com/kubernetes/kubernetes)                          | 2019-12-10 | Go         | 2021-11-08   |
+|  8 | [conference](https://github.com/gopherchina/conference)                         | 2020-11-24 | md         | 2021-11-07   |
+|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)                                | 2019-12-10 | Go         | 2021-11-07   |
+| 10 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-11-07   |
 
 <!--END_SECTION:my_github-->
