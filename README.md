@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|---------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)      | 2016-09-22 | JavaScript | 2021-11-04   |
-|  2 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)          | 2018-06-08 | JavaScript | 2021-10-29   |
-|  3 | [wechat-api](https://github.com/node-webot/wechat-api)                          | 2016-09-22 | JavaScript | 2021-10-31   |
-|  4 | [egg-watcher](https://github.com/eggjs/egg-watcher)                             | 2019-03-16 | JavaScript | 2021-07-12   |
-|  5 | [gin-admin](https://github.com/LyricTian/gin-admin)                             | 2020-02-25 | Go         | 2021-11-07   |
-|  6 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                          | 2018-10-02 | HTML       | 2021-11-05   |
-|  7 | [kubernetes](https://github.com/kubernetes/kubernetes)                          | 2019-12-10 | Go         | 2021-11-08   |
-|  8 | [conference](https://github.com/gopherchina/conference)                         | 2020-11-24 | md         | 2021-11-07   |
-|  9 | [kubeedge](https://github.com/kubeedge/kubeedge)                                | 2019-12-10 | Go         | 2021-11-07   |
-| 10 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-11-07   |
+|  1 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-11-08   |
+|  2 | [go-study-index](https://github.com/unknwon/go-study-index)                     | 2017-10-30 | md         | 2021-11-08   |
+|  3 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)                   | 2019-12-03 | Python     | 2021-11-07   |
+|  4 | [casbin-go-client](https://github.com/casbin/casbin-go-client)                  | 2020-01-19 | Go         | 2021-09-29   |
+|  5 | [iptv](https://github.com/iptv-org/iptv)                                        | 2020-02-19 | JavaScript | 2021-11-08   |
+|  6 | [fuckword](https://github.com/NextZeus/fuckword)                                | 2016-11-07 | JavaScript | 2021-07-01   |
+|  7 | [debugcharts](https://github.com/mkevac/debugcharts)                            | 2017-05-01 | Go         | 2021-11-03   |
+|  8 | [shellcheck](https://github.com/koalaman/shellcheck)                            | 2019-06-02 | Haskell    | 2021-11-09   |
+|  9 | [insomnia](https://github.com/Kong/insomnia)                                    | 2017-06-13 | JavaScript | 2021-11-08   |
+| 10 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                          | 2020-01-19 | Go         | 2021-11-02   |
 
 <!--END_SECTION:my_github-->
