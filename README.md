@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2021-11-08   |
-|  2 | [go-study-index](https://github.com/unknwon/go-study-index)                     | 2017-10-30 | md         | 2021-11-08   |
-|  3 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)                   | 2019-12-03 | Python     | 2021-11-07   |
-|  4 | [casbin-go-client](https://github.com/casbin/casbin-go-client)                  | 2020-01-19 | Go         | 2021-09-29   |
-|  5 | [iptv](https://github.com/iptv-org/iptv)                                        | 2020-02-19 | JavaScript | 2021-11-08   |
-|  6 | [fuckword](https://github.com/NextZeus/fuckword)                                | 2016-11-07 | JavaScript | 2021-07-01   |
-|  7 | [debugcharts](https://github.com/mkevac/debugcharts)                            | 2017-05-01 | Go         | 2021-11-03   |
-|  8 | [shellcheck](https://github.com/koalaman/shellcheck)                            | 2019-06-02 | Haskell    | 2021-11-09   |
-|  9 | [insomnia](https://github.com/Kong/insomnia)                                    | 2017-06-13 | JavaScript | 2021-11-08   |
-| 10 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                          | 2020-01-19 | Go         | 2021-11-02   |
+| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [ajv](https://github.com/ajv-validator/ajv)                            | 2018-04-26 | TypeScript | 2021-11-10   |
+|  2 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                 | 2018-10-02 | HTML       | 2021-11-05   |
+|  3 | [tonic](https://github.com/hyperium/tonic)                             | 2020-08-14 | Rust       | 2021-11-09   |
+|  4 | [CMAK](https://github.com/yahoo/CMAK)                                  | 2018-04-27 | Scala      | 2021-11-09   |
+|  5 | [binary-parser](https://github.com/Ericbla/binary-parser)              | 2019-03-30 | JavaScript | 2021-09-01   |
+|  6 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)            | 2020-08-06 | Ruby       | 2021-11-09   |
+|  7 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                 | 2020-04-28 | C          | 2020-04-28   |
+|  8 | [go-study-index](https://github.com/unknwon/go-study-index)            | 2017-10-30 | md         | 2021-11-09   |
+|  9 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench) | 2016-09-27 | JavaScript | 2021-11-09   |
+| 10 | [winpcap](https://github.com/patmarion/winpcap)                        | 2020-04-08 | C          | 2021-06-29   |
 
 <!--END_SECTION:my_github-->
