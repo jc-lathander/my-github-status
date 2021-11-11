@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ajv](https://github.com/ajv-validator/ajv)                            | 2018-04-26 | TypeScript | 2021-11-10   |
-|  2 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                 | 2018-10-02 | HTML       | 2021-11-05   |
-|  3 | [tonic](https://github.com/hyperium/tonic)                             | 2020-08-14 | Rust       | 2021-11-09   |
-|  4 | [CMAK](https://github.com/yahoo/CMAK)                                  | 2018-04-27 | Scala      | 2021-11-09   |
-|  5 | [binary-parser](https://github.com/Ericbla/binary-parser)              | 2019-03-30 | JavaScript | 2021-09-01   |
-|  6 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)            | 2020-08-06 | Ruby       | 2021-11-09   |
-|  7 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                 | 2020-04-28 | C          | 2020-04-28   |
-|  8 | [go-study-index](https://github.com/unknwon/go-study-index)            | 2017-10-30 | md         | 2021-11-09   |
-|  9 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench) | 2016-09-27 | JavaScript | 2021-11-09   |
-| 10 | [winpcap](https://github.com/patmarion/winpcap)                        | 2020-04-08 | C          | 2021-06-29   |
+| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [blog](https://github.com/fouber/blog)                                  | 2017-03-21 | md               | 2021-11-10   |
+|  2 | [conference](https://github.com/gopherchina/conference)                 | 2020-11-24 | md               | 2021-11-10   |
+|  3 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)             | 2020-08-06 | Ruby             | 2021-11-10   |
+|  4 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)         | 2016-09-23 | JavaScript       | 2021-11-09   |
+|  5 | [microrust](https://github.com/droogmic/microrust)                      | 2020-08-20 | Rust             | 2021-10-15   |
+|  6 | [mqtt](https://github.com/mcxiaoke/mqtt)                                | 2017-05-04 | Rich Text Format | 2021-11-10   |
+|  7 | [amazing-qr](https://github.com/x-hw/amazing-qr)                        | 2016-09-05 | Python           | 2021-11-10   |
+|  8 | [grpcui](https://github.com/fullstorydev/grpcui)                        | 2020-08-12 | JavaScript       | 2021-11-10   |
+|  9 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 2018-08-05 | md               | 2021-11-10   |
+| 10 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                 | 2017-10-31 | C++              | 2021-11-10   |
 
 <!--END_SECTION:my_github-->
