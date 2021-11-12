@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [blog](https://github.com/fouber/blog)                                  | 2017-03-21 | md               | 2021-11-10   |
-|  2 | [conference](https://github.com/gopherchina/conference)                 | 2020-11-24 | md               | 2021-11-10   |
-|  3 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)             | 2020-08-06 | Ruby             | 2021-11-10   |
-|  4 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)         | 2016-09-23 | JavaScript       | 2021-11-09   |
-|  5 | [microrust](https://github.com/droogmic/microrust)                      | 2020-08-20 | Rust             | 2021-10-15   |
-|  6 | [mqtt](https://github.com/mcxiaoke/mqtt)                                | 2017-05-04 | Rich Text Format | 2021-11-10   |
-|  7 | [amazing-qr](https://github.com/x-hw/amazing-qr)                        | 2016-09-05 | Python           | 2021-11-10   |
-|  8 | [grpcui](https://github.com/fullstorydev/grpcui)                        | 2020-08-12 | JavaScript       | 2021-11-10   |
-|  9 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 2018-08-05 | md               | 2021-11-10   |
-| 10 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                 | 2017-10-31 | C++              | 2021-11-10   |
+| ID |                                        REPO                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                                | 2020-11-16 | JavaScript       | 2021-11-11   |
+|  2 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)             | 2017-02-03 | md               | 2021-10-08   |
+|  3 | [mqtt](https://github.com/mcxiaoke/mqtt)                                            | 2017-05-04 | Rich Text Format | 2021-11-11   |
+|  4 | [hosts](https://github.com/kelthuzadx/hosts)                                        | 2017-04-26 | Rascal           | 2021-11-11   |
+|  5 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                       | 2019-10-29 | Go               | 2021-11-11   |
+|  6 | [blog](https://github.com/xizhibei/blog)                                            | 2018-05-05 | HTML             | 2021-11-11   |
+|  7 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)          | 2017-05-08 | Python           | 2021-10-12   |
+|  8 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                             | 2017-04-18 | Shell            | 2021-11-11   |
+|  9 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md               | 2021-11-11   |
+| 10 | [amazing-qr](https://github.com/x-hw/amazing-qr)                                    | 2016-09-05 | Python           | 2021-11-11   |
 
 <!--END_SECTION:my_github-->
