@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [debugcharts](https://github.com/mkevac/debugcharts)                                          | 2017-05-01 | Go         | 2021-11-16   |
-|  2 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                   | 2020-08-06 | Ruby       | 2021-11-16   |
-|  3 | [msbingo](https://github.com/khoad/msbingo)                                                   | 2020-01-17 | Go         | 2021-11-11   |
-|  4 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)                                 | 2019-12-03 | Python     | 2021-11-07   |
-|  5 | [go-study-index](https://github.com/unknwon/go-study-index)                                   | 2017-10-30 | md         | 2021-11-16   |
-|  6 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                                 | 2019-10-29 | Go         | 2021-11-16   |
-|  7 | [gin-admin](https://github.com/LyricTian/gin-admin)                                           | 2020-02-25 | Go         | 2021-11-16   |
-|  8 | [feishu](https://github.com/fastwego/feishu)                                                  | 2020-08-19 | Go         | 2021-11-13   |
-|  9 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                     | 2018-07-09 | JavaScript | 2020-03-26   |
-| 10 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2021-09-29   |
+| ID |                                    REPO                                    | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider) | 2017-05-08 | Python           | 2021-10-12   |
+|  2 | [hosts](https://github.com/kelthuzadx/hosts)                               | 2017-04-26 | Rascal           | 2021-11-17   |
+|  3 | [conference](https://github.com/gopherchina/conference)                    | 2020-11-24 | md               | 2021-11-17   |
+|  4 | [PowerJob](https://github.com/PowerJob/PowerJob)                           | 2020-08-04 | Java             | 2021-11-17   |
+|  5 | [grpcman](https://github.com/grpcman/grpcman)                              | 2020-08-12 | Vue              | 2021-10-29   |
+|  6 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)     | 2018-06-08 | JavaScript       | 2021-11-16   |
+|  7 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)        | 2019-06-07 | PHP              | 2021-11-17   |
+|  8 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                    | 2017-04-18 | Shell            | 2021-11-13   |
+|  9 | [acme.sh](https://github.com/acmesh-official/acme.sh)                      | 2016-04-21 | Shell            | 2021-11-17   |
+| 10 | [examples](https://github.com/elastic/examples)                            | 2016-09-27 | Jupyter Notebook | 2021-11-17   |
 
 <!--END_SECTION:my_github-->
