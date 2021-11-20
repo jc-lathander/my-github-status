@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)                    | 2020-08-14 | md         | 2021-11-18   |
-|  2 | [grpcman](https://github.com/grpcman/grpcman)                                                      | 2020-08-12 | Vue        | 2021-10-29   |
-|  3 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | md         | 2021-11-18   |
-|  4 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                             | 2018-10-02 | HTML       | 2021-11-15   |
-|  5 | [agent](https://github.com/LeonZYang/agent)                                                        | 2019-10-23 | Go         | 2021-01-12   |
-|  6 | [libaco](https://github.com/hnes/libaco)                                                           | 2018-07-18 | C          | 2021-11-17   |
-|  7 | [yin](https://github.com/0x55aa/yin)                                                               | 2019-04-21 | Java       | 2021-10-26   |
-|  8 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                                    | 2020-04-08 | Batchfile  | 2021-11-11   |
-|  9 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                                      | 2019-01-04 | Go         | 2021-11-18   |
-| 10 | [docsify](https://github.com/docsifyjs/docsify)                                                    | 2016-11-27 | JavaScript | 2021-11-18   |
+| ID |                                                REPO                                                | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                                      | 2019-10-29 | Go               | 2021-11-19   |
+|  2 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | md               | 2021-11-19   |
+|  3 | [gf-demos](https://github.com/gogf/gf-demos)                                                       | 2020-02-25 | Go               | 2021-11-19   |
+|  4 | [orange](https://github.com/orlabs/orange)                                                         | 2017-03-08 | Lua              | 2021-11-19   |
+|  5 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                                | 2019-03-16 | JavaScript       | 2021-07-12   |
+|  6 | [vscode-python](https://github.com/microsoft/vscode-python)                                        | 2017-11-10 | TypeScript       | 2021-11-19   |
+|  7 | [fonts](https://github.com/powerline/fonts)                                                        | 2020-07-23 | Shell            | 2021-11-20   |
+|  8 | [zangodb](https://github.com/erikolson186/zangodb)                                                 | 2017-06-18 | JavaScript       | 2021-11-19   |
+|  9 | [mqtt](https://github.com/mcxiaoke/mqtt)                                                           | 2017-05-04 | Rich Text Format | 2021-11-17   |
+| 10 | [gnvm](https://github.com/Kenshin/gnvm)                                                            | 2016-04-28 | Go               | 2021-11-16   |
 
 <!--END_SECTION:my_github-->
