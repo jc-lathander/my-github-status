@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)  | 2020-10-21 | JavaScript | 2021-11-23   |
-|  2 | [awesome-v](https://github.com/vlang/awesome-v)                        | 2019-11-26 | md         | 2021-11-23   |
-|  3 | [m-cli](https://github.com/rgcr/m-cli)                                 | 2019-12-04 | Shell      | 2021-11-21   |
-|  4 | [awesome-go](https://github.com/avelino/awesome-go)                    | 2017-10-30 | Go         | 2021-11-24   |
-|  5 | [CMAK](https://github.com/yahoo/CMAK)                                  | 2018-04-27 | Scala      | 2021-11-23   |
-|  6 | [wooyun_public](https://github.com/hanc00l/wooyun_public)              | 2018-11-23 | PHP        | 2021-11-23   |
-|  7 | [pix2code](https://github.com/tonybeltramelli/pix2code)                | 2017-05-30 | Python     | 2021-11-23   |
-|  8 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp) | 2016-09-23 | JavaScript | 2021-11-20   |
-|  9 | [wechat](https://github.com/node-webot/wechat)                         | 2016-09-22 | JavaScript | 2021-11-18   |
-| 10 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench) | 2016-09-27 | JavaScript | 2021-11-16   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [amazing-qr](https://github.com/x-hw/amazing-qr)                        | 2016-09-05 | Python     | 2021-11-24   |
+|  2 | [apigateway](https://github.com/adobe-apiplatform/apigateway)           | 2017-03-08 | Lua        | 2021-10-14   |
+|  3 | [node-tenpay](https://github.com/befinal/node-tenpay)                   | 2018-03-05 | JavaScript | 2021-11-22   |
+|  4 | [iptv](https://github.com/iptv-org/iptv)                                | 2020-02-19 | JavaScript | 2021-11-24   |
+|  5 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)             | 2016-09-22 | JavaScript | 2021-11-17   |
+|  6 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                  | 2020-01-19 | Go         | 2021-11-24   |
+|  7 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)   | 2020-10-21 | JavaScript | 2021-11-24   |
+|  8 | [go_tls_example](https://github.com/michelia/go_tls_example)            | 2020-02-23 | Go         | 2020-07-30   |
+|  9 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 2018-08-05 | md         | 2021-11-24   |
+| 10 | [docsify](https://github.com/docsifyjs/docsify)                         | 2016-11-27 | JavaScript | 2021-11-24   |
 
 <!--END_SECTION:my_github-->
