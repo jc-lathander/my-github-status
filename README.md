@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [amazing-qr](https://github.com/x-hw/amazing-qr)                        | 2016-09-05 | Python     | 2021-11-24   |
-|  2 | [apigateway](https://github.com/adobe-apiplatform/apigateway)           | 2017-03-08 | Lua        | 2021-10-14   |
-|  3 | [node-tenpay](https://github.com/befinal/node-tenpay)                   | 2018-03-05 | JavaScript | 2021-11-22   |
-|  4 | [iptv](https://github.com/iptv-org/iptv)                                | 2020-02-19 | JavaScript | 2021-11-24   |
-|  5 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)             | 2016-09-22 | JavaScript | 2021-11-17   |
-|  6 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                  | 2020-01-19 | Go         | 2021-11-24   |
-|  7 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)   | 2020-10-21 | JavaScript | 2021-11-24   |
-|  8 | [go_tls_example](https://github.com/michelia/go_tls_example)            | 2020-02-23 | Go         | 2020-07-30   |
-|  9 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 2018-08-05 | md         | 2021-11-24   |
-| 10 | [docsify](https://github.com/docsifyjs/docsify)                         | 2016-11-27 | JavaScript | 2021-11-24   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent) | 2019-10-23 | Go         | 2021-11-01   |
+|  2 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)       | 2020-08-06 | Ruby       | 2021-11-25   |
+|  3 | [website](https://github.com/openpitrix/website)                  | 2019-01-23 | JavaScript | 2021-09-27   |
+|  4 | [doesitarm](https://github.com/ThatGuySam/doesitarm)              | 2020-11-16 | JavaScript | 2021-11-25   |
+|  5 | [mongood](https://github.com/renzholy/mongood)                    | 2020-08-06 | TypeScript | 2021-11-22   |
+|  6 | [express](https://github.com/expressjs/express)                   | 2016-03-25 | JavaScript | 2021-11-25   |
+|  7 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)            | 2018-10-02 | HTML       | 2021-11-19   |
+|  8 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)      | 2019-01-21 | JavaScript | 2021-11-25   |
+|  9 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)     | 2019-10-29 | Go         | 2021-11-26   |
+| 10 | [awesome-design](https://github.com/gztchan/awesome-design)       | 2016-09-07 | md         | 2021-11-25   |
 
 <!--END_SECTION:my_github-->
