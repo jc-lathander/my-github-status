@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [feishu](https://github.com/fastwego/feishu)                           | 2020-08-19 | Go         | 2021-11-24   |
-|  2 | [wooyun_public](https://github.com/hanc00l/wooyun_public)              | 2018-11-23 | PHP        | 2021-11-26   |
-|  3 | [apollo](https://github.com/ApolloAuto/apollo)                         | 2019-01-30 | C++        | 2021-11-26   |
-|  4 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench) | 2016-09-27 | JavaScript | 2021-11-16   |
-|  5 | [superset](https://github.com/apache/superset)                         | 2016-09-27 | TypeScript | 2021-11-26   |
-|  6 | [alwsl](https://github.com/alwsl/alwsl)                                | 2017-04-15 | Batchfile  | 2021-11-23   |
-|  7 | [iptv](https://github.com/iptv-org/iptv)                               | 2020-02-19 | JavaScript | 2021-11-27   |
-|  8 | [whistle](https://github.com/avwo/whistle)                             | 2018-03-29 | JavaScript | 2021-11-26   |
-|  9 | [blog](https://github.com/xizhibei/blog)                               | 2018-05-05 | HTML       | 2021-11-25   |
-| 10 | [pix2code](https://github.com/tonybeltramelli/pix2code)                | 2017-05-30 | Python     | 2021-11-26   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [mongood](https://github.com/renzholy/mongood)                          | 2020-08-06 | TypeScript | 2021-11-26   |
+|  2 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)        | 2017-05-01 | C++        | 2021-11-19   |
+|  3 | [insomnia](https://github.com/Kong/insomnia)                            | 2017-06-13 | JavaScript | 2021-11-28   |
+|  4 | [wechat](https://github.com/node-webot/wechat)                          | 2016-09-22 | JavaScript | 2021-11-25   |
+|  5 | [debugcharts](https://github.com/mkevac/debugcharts)                    | 2017-05-01 | Go         | 2021-11-16   |
+|  6 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)        | 2016-11-07 | md         | 2021-11-26   |
+|  7 | [fuckcqcs](https://github.com/fuckcqcs/fuckcqcs)                        | 2018-07-23 | HTML       | 2021-11-26   |
+|  8 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client) | 2016-09-27 | JavaScript | 2021-04-24   |
+|  9 | [blog](https://github.com/xizhibei/blog)                                | 2018-05-05 | HTML       | 2021-11-25   |
+| 10 | [msbingo](https://github.com/khoad/msbingo)                             | 2020-01-17 | Go         | 2021-11-11   |
 
 <!--END_SECTION:my_github-->
