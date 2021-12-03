@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [Win10Pcap](https://github.com/pmsjt/Win10Pcap)                         | 2020-04-08 | C                | 2020-06-04   |
-|  2 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                    | 2020-11-16 | JavaScript       | 2021-12-01   |
-|  3 | [mqtt](https://github.com/mcxiaoke/mqtt)                                | 2017-05-04 | Rich Text Format | 2021-12-01   |
-|  4 | [acme.sh](https://github.com/acmesh-official/acme.sh)                   | 2016-04-21 | Shell            | 2021-12-02   |
-|  5 | [gitignore](https://github.com/github/gitignore)                        | 2016-03-25 | md               | 2021-12-01   |
-|  6 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)   | 2020-10-21 | JavaScript       | 2021-11-30   |
-|  7 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++              | 2021-11-29   |
-|  8 | [casbin-go-client](https://github.com/casbin/casbin-go-client)          | 2020-01-19 | Go               | 2021-09-29   |
-|  9 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)           | 2019-12-03 | Python           | 2021-11-07   |
-| 10 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                 | 2017-04-18 | Shell            | 2021-11-29   |
+| ID |                                REPO                                 | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|---------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)          | 2020-01-19 | PHP              | 2021-11-29   |
+|  2 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks) | 2019-06-07 | PHP              | 2021-12-02   |
+|  3 | [go-v8](https://github.com/lazytiger/go-v8)                         | 2017-05-01 | Go               | 2021-12-02   |
+|  4 | [Potatso](https://github.com/icodesign/Potatso)                     | 2016-06-30 | md               | 2021-11-27   |
+|  5 | [PowerJob](https://github.com/PowerJob/PowerJob)                    | 2020-08-04 | Java             | 2021-12-02   |
+|  6 | [msbingo](https://github.com/khoad/msbingo)                         | 2020-01-17 | Go               | 2021-11-11   |
+|  7 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)       | 2019-12-03 | Python           | 2021-11-07   |
+|  8 | [mqtt](https://github.com/mcxiaoke/mqtt)                            | 2017-05-04 | Rich Text Format | 2021-12-02   |
+|  9 | [cpython](https://github.com/python/cpython)                        | 2017-07-03 | Python           | 2021-12-03   |
+| 10 | [ajv](https://github.com/ajv-validator/ajv)                         | 2018-04-26 | TypeScript       | 2021-12-02   |
 
 <!--END_SECTION:my_github-->
