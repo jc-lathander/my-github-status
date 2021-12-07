@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                                 | 2019-10-29 | Go               | 2021-12-05   |
-|  2 | [agent](https://github.com/LeonZYang/agent)                                                   | 2019-10-23 | Go               | 2021-01-12   |
-|  3 | [gf](https://github.com/gogf/gf)                                                              | 2020-01-13 | Go               | 2021-12-05   |
-|  4 | [gf-demos](https://github.com/gogf/gf-demos)                                                  | 2020-02-25 | Go               | 2021-12-03   |
-|  5 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)                                  | 2019-04-22 | TypeScript       | 2021-12-04   |
-|  6 | [mqtt](https://github.com/mcxiaoke/mqtt)                                                      | 2017-05-04 | Rich Text Format | 2021-12-03   |
-|  7 | [grpcman](https://github.com/grpcman/grpcman)                                                 | 2020-08-12 | Vue              | 2021-10-29   |
-|  8 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                              | 2020-08-12 | Go               | 2021-11-28   |
-|  9 | [wechat-api](https://github.com/node-webot/wechat-api)                                        | 2016-09-22 | JavaScript       | 2021-11-29   |
-| 10 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md               | 2021-09-29   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [grpcui](https://github.com/fullstorydev/grpcui)                        | 2020-08-12 | JavaScript | 2021-12-06   |
+|  2 | [grpcman](https://github.com/grpcman/grpcman)                           | 2020-08-12 | Vue        | 2021-10-29   |
+|  3 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript | 2021-09-22   |
+|  4 | [escpos-php](https://github.com/mike42/escpos-php)                      | 2016-09-26 | PHP        | 2021-12-06   |
+|  5 | [iptv](https://github.com/iptv-org/iptv)                                | 2020-02-19 | JavaScript | 2021-12-07   |
+|  6 | [tonic](https://github.com/hyperium/tonic)                              | 2020-08-14 | Rust       | 2021-12-06   |
+|  7 | [superset](https://github.com/apache/superset)                          | 2016-09-27 | TypeScript | 2021-12-06   |
+|  8 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 2018-08-05 | md         | 2021-12-06   |
+|  9 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)        | 2017-05-01 | C++        | 2021-12-04   |
+| 10 | [vscode-python](https://github.com/microsoft/vscode-python)             | 2017-11-10 | TypeScript | 2021-12-06   |
 
 <!--END_SECTION:my_github-->
