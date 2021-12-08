@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [grpcui](https://github.com/fullstorydev/grpcui)                        | 2020-08-12 | JavaScript | 2021-12-06   |
-|  2 | [grpcman](https://github.com/grpcman/grpcman)                           | 2020-08-12 | Vue        | 2021-10-29   |
-|  3 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript | 2021-09-22   |
-|  4 | [escpos-php](https://github.com/mike42/escpos-php)                      | 2016-09-26 | PHP        | 2021-12-06   |
-|  5 | [iptv](https://github.com/iptv-org/iptv)                                | 2020-02-19 | JavaScript | 2021-12-07   |
-|  6 | [tonic](https://github.com/hyperium/tonic)                              | 2020-08-14 | Rust       | 2021-12-06   |
-|  7 | [superset](https://github.com/apache/superset)                          | 2016-09-27 | TypeScript | 2021-12-06   |
-|  8 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) | 2018-08-05 | md         | 2021-12-06   |
-|  9 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)        | 2017-05-01 | C++        | 2021-12-04   |
-| 10 | [vscode-python](https://github.com/microsoft/vscode-python)             | 2017-11-10 | TypeScript | 2021-12-06   |
+| ID |                                        REPO                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [iptv](https://github.com/iptv-org/iptv)                                            | 2020-02-19 | JavaScript       | 2021-12-07   |
+|  2 | [examples](https://github.com/elastic/examples)                                     | 2016-09-27 | Jupyter Notebook | 2021-12-07   |
+|  3 | [yin](https://github.com/0x55aa/yin)                                                | 2019-04-21 | Java             | 2021-10-26   |
+|  4 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)             | 2017-02-03 | md               | 2021-10-08   |
+|  5 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                             | 2017-10-31 | C++              | 2021-12-07   |
+|  6 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                              | 2018-10-02 | HTML             | 2021-12-05   |
+|  7 | [gnvm](https://github.com/Kenshin/gnvm)                                             | 2016-04-28 | Go               | 2021-12-01   |
+|  8 | [m-cli](https://github.com/rgcr/m-cli)                                              | 2019-12-04 | Shell            | 2021-12-07   |
+|  9 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)     | 2020-08-14 | md               | 2021-12-07   |
+| 10 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md               | 2021-12-07   |
 
 <!--END_SECTION:my_github-->
