@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [iptv](https://github.com/iptv-org/iptv)                                            | 2020-02-19 | JavaScript       | 2021-12-07   |
-|  2 | [examples](https://github.com/elastic/examples)                                     | 2016-09-27 | Jupyter Notebook | 2021-12-07   |
-|  3 | [yin](https://github.com/0x55aa/yin)                                                | 2019-04-21 | Java             | 2021-10-26   |
-|  4 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)             | 2017-02-03 | md               | 2021-10-08   |
-|  5 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                             | 2017-10-31 | C++              | 2021-12-07   |
-|  6 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                              | 2018-10-02 | HTML             | 2021-12-05   |
-|  7 | [gnvm](https://github.com/Kenshin/gnvm)                                             | 2016-04-28 | Go               | 2021-12-01   |
-|  8 | [m-cli](https://github.com/rgcr/m-cli)                                              | 2019-12-04 | Shell            | 2021-12-07   |
-|  9 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)     | 2020-08-14 | md               | 2021-12-07   |
-| 10 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md               | 2021-12-07   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [v](https://github.com/vlang/v)                                                    | 2019-04-09 | V          | 2021-12-08   |
+|  2 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md         | 2021-12-08   |
+|  3 | [website](https://github.com/openpitrix/website)                                   | 2019-01-23 | JavaScript | 2021-09-27   |
+|  4 | [cpython](https://github.com/python/cpython)                                       | 2017-07-03 | Python     | 2021-12-08   |
+|  5 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)           | 2020-01-19 | md         | 2021-04-09   |
+|  6 | [awesome-design](https://github.com/gztchan/awesome-design)                        | 2016-09-07 | md         | 2021-12-08   |
+|  7 | [superset](https://github.com/apache/superset)                                     | 2016-09-27 | TypeScript | 2021-12-08   |
+|  8 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                | 2019-03-16 | JavaScript | 2021-07-12   |
+|  9 | [msbingo](https://github.com/khoad/msbingo)                                        | 2020-01-17 | Go         | 2021-11-11   |
+| 10 | [gin-admin](https://github.com/LyricTian/gin-admin)                                | 2020-02-25 | Go         | 2021-12-08   |
 
 <!--END_SECTION:my_github-->
