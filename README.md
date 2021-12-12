@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ajv](https://github.com/ajv-validator/ajv)                            | 2018-04-26 | TypeScript | 2021-12-10   |
-|  2 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench) | 2016-09-27 | JavaScript | 2021-12-04   |
-|  3 | [detector](https://github.com/hotoo/detector)                          | 2017-11-17 | JavaScript | 2021-11-23   |
-|  4 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)        | 2020-04-08 | Batchfile  | 2021-11-11   |
-|  5 | [wechat](https://github.com/node-webot/wechat)                         | 2016-09-22 | JavaScript | 2021-12-07   |
-|  6 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                 | 2020-01-19 | Go         | 2021-12-09   |
-|  7 | [iso7064](https://github.com/danieltwagner/iso7064)                    | 2018-06-08 | Java       | 2021-03-05   |
-|  8 | [blog](https://github.com/fouber/blog)                                 | 2017-03-21 | md         | 2021-12-10   |
-|  9 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)      | 2019-10-23 | Go         | 2021-11-01   |
-| 10 | [CMAK](https://github.com/yahoo/CMAK)                                  | 2018-04-27 | Scala      | 2021-12-10   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++        | 2021-12-06   |
+|  2 | [apollo](https://github.com/ApolloAuto/apollo)                          | 2019-01-30 | C++        | 2021-12-11   |
+|  3 | [m-cli](https://github.com/rgcr/m-cli)                                  | 2019-12-04 | Shell      | 2021-12-11   |
+|  4 | [egg-24time](https://github.com/seasonstar/egg-24time)                  | 2018-04-28 | JavaScript | 2021-12-03   |
+|  5 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)   | 2020-10-21 | JavaScript | 2021-12-10   |
+|  6 | [go-study-index](https://github.com/unknwon/go-study-index)             | 2017-10-30 | md         | 2021-12-11   |
+|  7 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                           | 2019-01-04 | Go         | 2021-12-10   |
+|  8 | [docsify](https://github.com/docsifyjs/docsify)                         | 2016-11-27 | JavaScript | 2021-12-11   |
+|  9 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)        | 2017-05-01 | C++        | 2021-12-04   |
+| 10 | [libaco](https://github.com/hnes/libaco)                                | 2018-07-18 | C          | 2021-12-10   |
 
 <!--END_SECTION:my_github-->
