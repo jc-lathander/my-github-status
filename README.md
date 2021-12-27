@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-v](https://github.com/vlang/awesome-v)                  | 2019-11-26 | md         | 2021-12-25   |
-|  2 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                    | 2019-01-04 | Go         | 2021-12-25   |
-|  3 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)          | 2017-04-18 | Shell      | 2021-12-24   |
-|  4 | [acme.sh](https://github.com/acmesh-official/acme.sh)            | 2016-04-21 | Shell      | 2021-12-25   |
-|  5 | [feishu](https://github.com/fastwego/feishu)                     | 2020-08-19 | Go         | 2021-12-15   |
-|  6 | [insomnia](https://github.com/Kong/insomnia)                     | 2017-06-13 | JavaScript | 2021-12-25   |
-|  7 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql) | 2016-11-07 | md         | 2021-12-25   |
-|  8 | [kratos](https://github.com/go-kratos/kratos)                    | 2019-04-22 | Go         | 2021-12-25   |
-|  9 | [pix2code](https://github.com/tonybeltramelli/pix2code)          | 2017-05-30 | Python     | 2021-12-25   |
-| 10 | [blog](https://github.com/fouber/blog)                           | 2017-03-21 | md         | 2021-12-25   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2021-12-18   |
+|  2 | [blog](https://github.com/xizhibei/blog)                                   | 2018-05-05 | HTML       | 2021-12-24   |
+|  3 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)            | 2020-04-08 | Batchfile  | 2021-11-11   |
+|  4 | [detector](https://github.com/hotoo/detector)                              | 2017-11-17 | JavaScript | 2021-11-23   |
+|  5 | [node-tenpay](https://github.com/befinal/node-tenpay)                      | 2018-03-05 | JavaScript | 2021-12-16   |
+|  6 | [egg-watcher](https://github.com/eggjs/egg-watcher)                        | 2019-03-16 | JavaScript | 2021-07-12   |
+|  7 | [feishu](https://github.com/fastwego/feishu)                               | 2020-08-19 | Go         | 2021-12-15   |
+|  8 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)              | 2019-10-29 | Go         | 2021-12-24   |
+|  9 | [kubernetes](https://github.com/kubernetes/kubernetes)                     | 2019-12-10 | Go         | 2021-12-27   |
+| 10 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)      | 2020-10-21 | JavaScript | 2021-12-24   |
 
 <!--END_SECTION:my_github-->
