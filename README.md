@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [whistle](https://github.com/avwo/whistle)                                                         | 2018-03-29 | JavaScript | 2021-12-27   |
-|  2 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)                           | 2020-01-19 | md         | 2021-04-09   |
-|  3 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                                   | 2016-11-07 | md         | 2021-12-27   |
-|  4 | [mongood](https://github.com/renzholy/mongood)                                                     | 2020-08-06 | TypeScript | 2021-12-21   |
-|  5 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)                                       | 2019-01-21 | JavaScript | 2021-12-25   |
-|  6 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                                             | 2018-10-02 | HTML       | 2021-12-26   |
-|  7 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)                            | 2019-12-15 | C++        | 2021-12-16   |
-|  8 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese)                 | 2018-09-07 | md         | 2021-12-27   |
-|  9 | [shellcheck](https://github.com/koalaman/shellcheck)                                               | 2019-06-02 | Haskell    | 2021-12-27   |
-| 10 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | HTML       | 2021-12-27   |
+| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [escpos-php](https://github.com/mike42/escpos-php)                      | 2016-09-26 | PHP         | 2021-12-28   |
+|  2 | [go-study-index](https://github.com/unknwon/go-study-index)             | 2017-10-30 | md          | 2021-12-28   |
+|  3 | [express](https://github.com/expressjs/express)                         | 2016-03-25 | JavaScript  | 2021-12-29   |
+|  4 | [casbin-go-client](https://github.com/casbin/casbin-go-client)          | 2020-01-19 | Go          | 2021-12-09   |
+|  5 | [GAutomator](https://github.com/Tencent/GAutomator)                     | 2017-04-15 | Objective-C | 2021-12-28   |
+|  6 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript  | 2021-09-22   |
+|  7 | [yin](https://github.com/0x55aa/yin)                                    | 2019-04-21 | Java        | 2021-10-26   |
+|  8 | [website](https://github.com/openpitrix/website)                        | 2019-01-23 | JavaScript  | 2021-09-27   |
+|  9 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)       | 2019-10-23 | Go          | 2021-12-24   |
+| 10 | [go-v8](https://github.com/lazytiger/go-v8)                             | 2017-05-01 | Go          | 2021-12-06   |
 
 <!--END_SECTION:my_github-->
