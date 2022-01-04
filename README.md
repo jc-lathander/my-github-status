@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [pix2code](https://github.com/tonybeltramelli/pix2code)                    | 2017-05-30 | Python           | 2021-12-31   |
-|  2 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)            | 2020-04-08 | Batchfile        | 2021-11-11   |
-|  3 | [acme.sh](https://github.com/acmesh-official/acme.sh)                      | 2016-04-21 | Shell            | 2022-01-03   |
-|  4 | [examples](https://github.com/elastic/examples)                            | 2016-09-27 | Jupyter Notebook | 2022-01-02   |
-|  5 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                 | 2020-01-19 | PHP              | 2021-12-29   |
-|  6 | [go_tls_example](https://github.com/michelia/go_tls_example)               | 2020-02-23 | Go               | 2020-07-30   |
-|  7 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider) | 2017-05-08 | Python           | 2021-12-20   |
-|  8 | [spring-boot-quick](https://github.com/vector4wang/spring-boot-quick)      | 2019-01-16 | Java             | 2021-12-31   |
-|  9 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                  | 2018-07-09 | JavaScript       | 2020-03-26   |
-| 10 | [tsung_ws](https://github.com/wulczer/tsung_ws)                            | 2017-08-08 | Erlang           | 2021-12-17   |
+| ID |                                      REPO                                       | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [shellcheck](https://github.com/koalaman/shellcheck)                            | 2019-06-02 | Haskell          | 2022-01-03   |
+|  2 | [ATX](https://github.com/NetEaseGame/ATX)                                       | 2017-04-15 | Python           | 2021-12-31   |
+|  3 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)         | 2019-12-15 | C++              | 2021-12-16   |
+|  4 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                         | 2017-11-06 | CoffeeScript     | 2021-08-02   |
+|  5 | [gitignore](https://github.com/github/gitignore)                                | 2016-03-25 | md               | 2022-01-03   |
+|  6 | [examples](https://github.com/elastic/examples)                                 | 2016-09-27 | Jupyter Notebook | 2022-01-03   |
+|  7 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                 | 2020-04-08 | Batchfile        | 2021-11-11   |
+|  8 | [goreporter](https://github.com/qax-os/goreporter)                              | 2017-04-12 | Go               | 2021-12-31   |
+|  9 | [v](https://github.com/vlang/v)                                                 | 2019-04-09 | V                | 2022-01-03   |
+| 10 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md               | 2022-01-03   |
 
 <!--END_SECTION:my_github-->
