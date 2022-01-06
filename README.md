@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [gnvm](https://github.com/Kenshin/gnvm)                         | 2016-04-28 | Go         | 2021-12-18   |
-|  2 | [zangodb](https://github.com/erikolson186/zangodb)              | 2017-06-18 | JavaScript | 2021-12-26   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)          | 2019-12-10 | Go         | 2022-01-05   |
-|  4 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install) | 2020-04-08 | Batchfile  | 2022-01-04   |
-|  5 | [blog](https://github.com/fouber/blog)                          | 2017-03-21 | md         | 2022-01-04   |
-|  6 | [egg-24time](https://github.com/seasonstar/egg-24time)          | 2018-04-28 | JavaScript | 2021-12-03   |
-|  7 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)          | 2020-04-28 | C          | 2020-04-28   |
-|  8 | [gitignore](https://github.com/github/gitignore)                | 2016-03-25 | md         | 2022-01-04   |
-|  9 | [ATX](https://github.com/NetEaseGame/ATX)                       | 2017-04-15 | Python     | 2021-12-31   |
-| 10 | [CMAK](https://github.com/yahoo/CMAK)                           | 2018-04-27 | Scala      | 2022-01-04   |
+| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [debugcharts](https://github.com/mkevac/debugcharts)             | 2017-05-01 | Go         | 2021-12-31   |
+|  2 | [grpcman](https://github.com/grpcman/grpcman)                    | 2020-08-12 | Vue        | 2021-10-29   |
+|  3 | [kratos](https://github.com/go-kratos/kratos)                    | 2019-04-22 | Go         | 2022-01-05   |
+|  4 | [tsung_ws](https://github.com/wulczer/tsung_ws)                  | 2017-08-08 | Erlang     | 2021-12-17   |
+|  5 | [detector](https://github.com/hotoo/detector)                    | 2017-11-17 | JavaScript | 2021-11-23   |
+|  6 | [devdocs-desktop](https://github.com/egoist/devdocs-desktop)     | 2019-01-21 | JavaScript | 2022-01-04   |
+|  7 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo) | 2020-08-12 | Go         | 2021-12-25   |
+|  8 | [msbingo](https://github.com/khoad/msbingo)                      | 2020-01-17 | Go         | 2021-11-11   |
+|  9 | [grpcui](https://github.com/fullstorydev/grpcui)                 | 2020-08-12 | JavaScript | 2022-01-05   |
+| 10 | [libaco](https://github.com/hnes/libaco)                         | 2018-07-18 | C          | 2022-01-05   |
 
 <!--END_SECTION:my_github-->
