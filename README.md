@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [iso7064](https://github.com/danieltwagner/iso7064)                    | 2018-06-08 | Java       | 2021-03-05   |
-|  2 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)            | 2020-08-06 | Ruby       | 2022-01-06   |
-|  3 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN) | 2018-06-08 | JavaScript | 2021-12-23   |
-|  4 | [gadmin](https://github.com/hailaz/gadmin)                             | 2020-02-25 | Go         | 2021-12-25   |
-|  5 | [yin](https://github.com/0x55aa/yin)                                   | 2019-04-21 | Java       | 2021-10-26   |
-|  6 | [zangodb](https://github.com/erikolson186/zangodb)                     | 2017-06-18 | JavaScript | 2022-01-07   |
-|  7 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)    | 2019-06-07 | PHP        | 2022-01-07   |
-|  8 | [escpos-php](https://github.com/mike42/escpos-php)                     | 2016-09-26 | PHP        | 2022-01-04   |
-|  9 | [goreporter](https://github.com/qax-os/goreporter)                     | 2017-04-12 | Go         | 2022-01-07   |
-| 10 | [feishu](https://github.com/fastwego/feishu)                           | 2020-08-19 | Go         | 2021-12-28   |
+| ID |                                        REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [wechat-api](https://github.com/node-webot/wechat-api)                             | 2016-09-22 | JavaScript       | 2022-01-07   |
+|  2 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)                       | 2019-04-22 | TypeScript       | 2022-01-08   |
+|  3 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                             | 2018-10-02 | HTML             | 2021-12-30   |
+|  4 | [mqtt](https://github.com/mcxiaoke/mqtt)                                           | 2017-05-04 | Rich Text Format | 2022-01-08   |
+|  5 | [awesome-design](https://github.com/gztchan/awesome-design)                        | 2016-09-07 | md               | 2022-01-08   |
+|  6 | [go-v8](https://github.com/lazytiger/go-v8)                                        | 2017-05-01 | Go               | 2022-01-07   |
+|  7 | [website](https://github.com/openpitrix/website)                                   | 2019-01-23 | JavaScript       | 2021-09-27   |
+|  8 | [awesome-v](https://github.com/vlang/awesome-v)                                    | 2019-11-26 | md               | 2022-01-08   |
+|  9 | [whistle](https://github.com/avwo/whistle)                                         | 2018-03-29 | JavaScript       | 2022-01-08   |
+| 10 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python           | 2021-12-24   |
 
 <!--END_SECTION:my_github-->
