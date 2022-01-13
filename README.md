@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [m-cli](https://github.com/rgcr/m-cli)                                                             | 2019-12-04 | Shell      | 2022-01-11   |
-|  2 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                          | 2018-07-09 | JavaScript | 2020-03-26   |
-|  3 | [gitignore](https://github.com/github/gitignore)                                                   | 2016-03-25 | md         | 2022-01-11   |
-|  4 | [casbin-go-client](https://github.com/casbin/casbin-go-client)                                     | 2020-01-19 | Go         | 2021-12-09   |
-|  5 | [hosts](https://github.com/kelthuzadx/hosts)                                                       | 2017-04-26 | Rascal     | 2022-01-11   |
-|  6 | [shellcheck](https://github.com/koalaman/shellcheck)                                               | 2019-06-02 | Haskell    | 2022-01-11   |
-|  7 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                                | 2019-06-05 | md         | 2022-01-10   |
-|  8 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | HTML       | 2022-01-11   |
-|  9 | [grpcui](https://github.com/fullstorydev/grpcui)                                                   | 2020-08-12 | JavaScript | 2022-01-11   |
-| 10 | [binary-parser](https://github.com/Ericbla/binary-parser)                                          | 2019-03-30 | JavaScript | 2021-09-01   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [goadmin](https://github.com/CrazyRocks/goadmin)                                   | 2020-01-13 | Go         | 2022-01-10   |
+|  2 | [awesome-egg](https://github.com/eggjs/awesome-egg)                                | 2019-06-05 | md         | 2022-01-10   |
+|  3 | [gnvm](https://github.com/Kenshin/gnvm)                                            | 2016-04-28 | Go         | 2022-01-09   |
+|  4 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python     | 2022-01-10   |
+|  5 | [v](https://github.com/vlang/v)                                                    | 2019-04-09 | V          | 2022-01-12   |
+|  6 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                   | 2016-11-07 | md         | 2022-01-12   |
+|  7 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                      | 2019-01-04 | Go         | 2022-01-12   |
+|  8 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)         | 2016-09-22 | JavaScript | 2022-01-08   |
+|  9 | [grpcman](https://github.com/grpcman/grpcman)                                      | 2020-08-12 | Vue        | 2021-10-29   |
+| 10 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                               | 2018-01-02 | TypeScript | 2022-01-12   |
 
 <!--END_SECTION:my_github-->
