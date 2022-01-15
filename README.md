@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [iptv](https://github.com/iptv-org/iptv)                                            | 2020-02-19 | JavaScript | 2022-01-13   |
-|  2 | [go-jaeger-demo](https://github.com/xinliangnote/go-jaeger-demo)                    | 2020-08-12 | Go         | 2022-01-13   |
-|  3 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                              | 2020-04-28 | C          | 2020-04-28   |
-|  4 | [superset](https://github.com/apache/superset)                                      | 2016-09-27 | TypeScript | 2022-01-14   |
-|  5 | [Potatso](https://github.com/icodesign/Potatso)                                     | 2016-06-30 | md         | 2021-12-27   |
-|  6 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)          | 2016-09-22 | JavaScript | 2022-01-08   |
-|  7 | [go-v8](https://github.com/lazytiger/go-v8)                                         | 2017-05-01 | Go         | 2022-01-07   |
-|  8 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese)  | 2018-09-07 | md         | 2022-01-13   |
-|  9 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md         | 2022-01-13   |
-| 10 | [gadmin](https://github.com/hailaz/gadmin)                                          | 2020-02-25 | Go         | 2021-12-25   |
+| ID |                                        REPO                                         | STAREDDATE | LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|-----------|--------------|
+|  1 | [m-cli](https://github.com/rgcr/m-cli)                                              | 2019-12-04 | Shell     | 2022-01-14   |
+|  2 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                       | 2019-01-04 | Go        | 2022-01-14   |
+|  3 | [alwsl](https://github.com/alwsl/alwsl)                                             | 2017-04-15 | Batchfile | 2022-01-13   |
+|  4 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                       | 2019-10-29 | Go        | 2022-01-14   |
+|  5 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)             | 2019-12-15 | C++       | 2021-12-16   |
+|  6 | [CMAK](https://github.com/yahoo/CMAK)                                               | 2018-04-27 | Scala     | 2022-01-14   |
+|  7 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)          | 2017-05-08 | Python    | 2022-01-14   |
+|  8 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                     | 2017-08-08 | Erlang    | 2022-01-11   |
+|  9 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                   | 2019-10-29 | C++       | 2021-11-14   |
+| 10 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | 2019-02-22 | md        | 2022-01-14   |
 
 <!--END_SECTION:my_github-->
