@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [express](https://github.com/expressjs/express)                                                               | 2016-03-25 | JavaScript | 2022-01-23   |
-|  2 | [go-study-index](https://github.com/unknwon/go-study-index)                                                   | 2017-10-30 | md         | 2022-01-23   |
-|  3 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                                              | 2016-11-07 | md         | 2022-01-22   |
-|  4 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2022-01-23   |
-|  5 | [awesome-design](https://github.com/gztchan/awesome-design)                                                   | 2016-09-07 | md         | 2022-01-24   |
-|  6 | [wechat](https://github.com/node-webot/wechat)                                                                | 2016-09-22 | JavaScript | 2022-01-21   |
-|  7 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                            | 2017-04-15 | Python     | 2022-01-10   |
-|  8 | [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp)                                        | 2016-09-23 | JavaScript | 2022-01-18   |
-|  9 | [gitignore](https://github.com/github/gitignore)                                                              | 2016-03-25 | md         | 2022-01-24   |
-| 10 | [kratos](https://github.com/go-kratos/kratos)                                                                 | 2019-04-22 | Go         | 2022-01-23   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [orange](https://github.com/orlabs/orange)                                 | 2017-03-08 | Lua        | 2022-01-20   |
+|  2 | [fuckword](https://github.com/NextZeus/fuckword)                           | 2016-11-07 | JavaScript | 2021-07-01   |
+|  3 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2022-01-24   |
+|  4 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)          | 2019-10-29 | C++        | 2021-11-14   |
+|  5 | [libaco](https://github.com/hnes/libaco)                                   | 2018-07-18 | C          | 2022-01-24   |
+|  6 | [express](https://github.com/expressjs/express)                            | 2016-03-25 | JavaScript | 2022-01-24   |
+|  7 | [grpcui](https://github.com/fullstorydev/grpcui)                           | 2020-08-12 | JavaScript | 2022-01-24   |
+|  8 | [ajv](https://github.com/ajv-validator/ajv)                                | 2018-04-26 | TypeScript | 2022-01-24   |
+|  9 | [debugcharts](https://github.com/mkevac/debugcharts)                       | 2017-05-01 | Go         | 2022-01-21   |
+| 10 | [iptv](https://github.com/iptv-org/iptv)                                   | 2020-02-19 | JavaScript | 2022-01-25   |
 
 <!--END_SECTION:my_github-->
