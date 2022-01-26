@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [orange](https://github.com/orlabs/orange)                                 | 2017-03-08 | Lua        | 2022-01-20   |
-|  2 | [fuckword](https://github.com/NextZeus/fuckword)                           | 2016-11-07 | JavaScript | 2021-07-01   |
-|  3 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2022-01-24   |
-|  4 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)          | 2019-10-29 | C++        | 2021-11-14   |
-|  5 | [libaco](https://github.com/hnes/libaco)                                   | 2018-07-18 | C          | 2022-01-24   |
-|  6 | [express](https://github.com/expressjs/express)                            | 2016-03-25 | JavaScript | 2022-01-24   |
-|  7 | [grpcui](https://github.com/fullstorydev/grpcui)                           | 2020-08-12 | JavaScript | 2022-01-24   |
-|  8 | [ajv](https://github.com/ajv-validator/ajv)                                | 2018-04-26 | TypeScript | 2022-01-24   |
-|  9 | [debugcharts](https://github.com/mkevac/debugcharts)                       | 2017-05-01 | Go         | 2022-01-21   |
-| 10 | [iptv](https://github.com/iptv-org/iptv)                                   | 2020-02-19 | JavaScript | 2022-01-25   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)                                             | 2018-07-09 | JavaScript | 2020-03-26   |
+|  2 | [superset](https://github.com/apache/superset)                                                        | 2016-09-27 | TypeScript | 2022-01-26   |
+|  3 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)                                   | 2019-06-07 | PHP        | 2022-01-25   |
+|  4 | [shellcheck](https://github.com/koalaman/shellcheck)                                                  | 2019-06-02 | Haskell    | 2022-01-25   |
+|  5 | [go-v8](https://github.com/lazytiger/go-v8)                                                           | 2017-05-01 | Go         | 2022-01-20   |
+|  6 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                                       | 2017-08-08 | Erlang     | 2022-01-11   |
+|  7 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2021-12-11   |
+|  8 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher)                    | 2017-04-15 | Python     | 2022-01-25   |
+|  9 | [v](https://github.com/vlang/v)                                                                       | 2019-04-09 | V          | 2022-01-26   |
+| 10 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)                               | 2019-12-15 | C++        | 2022-01-16   |
 
 <!--END_SECTION:my_github-->
