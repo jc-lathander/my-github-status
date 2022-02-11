@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [express](https://github.com/expressjs/express)                                    | 2016-03-25 | JavaScript | 2022-02-10   |
-|  2 | [egg-24time](https://github.com/seasonstar/egg-24time)                             | 2018-04-28 | JavaScript | 2022-01-19   |
-|  3 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)                      | 2019-10-29 | Go         | 2022-02-07   |
-|  4 | [feishu](https://github.com/fastwego/feishu)                                       | 2020-08-19 | Go         | 2022-02-02   |
-|  5 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                             | 2020-01-19 | Go         | 2022-02-08   |
-|  6 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot)            | 2017-02-03 | md         | 2022-02-07   |
-|  7 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python     | 2022-02-09   |
-|  8 | [awesome-v](https://github.com/vlang/awesome-v)                                    | 2019-11-26 | md         | 2022-02-04   |
-|  9 | [insomnia](https://github.com/Kong/insomnia)                                       | 2017-06-13 | JavaScript | 2022-02-10   |
-| 10 | [detector](https://github.com/hotoo/detector)                                      | 2017-11-17 | JavaScript | 2021-11-23   |
+|  1 | [Potatso](https://github.com/icodesign/Potatso)                                    | 2016-06-30 | md         | 2022-02-07   |
+|  2 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python     | 2022-02-09   |
+|  3 | [shellcheck](https://github.com/koalaman/shellcheck)                               | 2019-06-02 | Haskell    | 2022-02-11   |
+|  4 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)    | 2020-08-14 | md         | 2022-02-10   |
+|  5 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)                        | 2016-09-22 | JavaScript | 2022-02-07   |
+|  6 | [gitignore](https://github.com/github/gitignore)                                   | 2016-03-25 | md         | 2022-02-11   |
+|  7 | [acme.sh](https://github.com/acmesh-official/acme.sh)                              | 2016-04-21 | Shell      | 2022-02-10   |
+|  8 | [conference](https://github.com/gopherchina/conference)                            | 2020-11-24 | md         | 2022-02-10   |
+|  9 | [microrust](https://github.com/droogmic/microrust)                                 | 2020-08-20 | Rust       | 2021-10-15   |
+| 10 | [v](https://github.com/vlang/v)                                                    | 2019-04-09 | V          | 2022-02-10   |
 
 <!--END_SECTION:my_github-->
