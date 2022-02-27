@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|---------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)     | 2016-09-23 | JavaScript | 2022-02-25   |
-|  2 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)      | 2020-02-23 | Go         | 2022-02-18   |
-|  3 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks) | 2019-06-07 | PHP        | 2022-02-25   |
-|  4 | [awesome-egg](https://github.com/eggjs/awesome-egg)                 | 2019-06-05 | md         | 2022-02-22   |
-|  5 | [awesome-v](https://github.com/vlang/awesome-v)                     | 2019-11-26 | md         | 2022-02-25   |
-|  6 | [feishu](https://github.com/fastwego/feishu)                        | 2020-08-19 | Go         | 2022-02-25   |
-|  7 | [winpcap](https://github.com/patmarion/winpcap)                     | 2020-04-08 | C          | 2022-02-11   |
-|  8 | [gitignore](https://github.com/github/gitignore)                    | 2016-03-25 | md         | 2022-02-25   |
-|  9 | [superset](https://github.com/apache/superset)                      | 2016-09-27 | TypeScript | 2022-02-25   |
-| 10 | [wechat-api](https://github.com/node-webot/wechat-api)              | 2016-09-22 | JavaScript | 2022-02-22   |
+|  1 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)           | 2018-07-09 | JavaScript | 2020-03-26   |
+|  2 | [vscode-python](https://github.com/microsoft/vscode-python)         | 2017-11-10 | TypeScript | 2022-02-26   |
+|  3 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks) | 2019-06-07 | PHP        | 2022-02-26   |
+|  4 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)          | 2020-01-19 | PHP        | 2022-02-25   |
+|  5 | [alwsl](https://github.com/alwsl/alwsl)                             | 2017-04-15 | Batchfile  | 2022-02-25   |
+|  6 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)        | 2019-04-22 | TypeScript | 2022-02-26   |
+|  7 | [simhash](https://github.com/yanyiwu/simhash)                       | 2016-09-23 | C++        | 2022-02-02   |
+|  8 | [fonts](https://github.com/powerline/fonts)                         | 2020-07-23 | Shell      | 2022-02-26   |
+|  9 | [Potatso](https://github.com/icodesign/Potatso)                     | 2016-06-30 | md         | 2022-02-23   |
+| 10 | [ajv](https://github.com/ajv-validator/ajv)                         | 2018-04-26 | TypeScript | 2022-02-26   |
 
 <!--END_SECTION:my_github-->
