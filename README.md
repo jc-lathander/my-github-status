@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [weapp-workflow](https://github.com/lbb00/weapp-workflow)           | 2018-07-09 | JavaScript | 2020-03-26   |
-|  2 | [vscode-python](https://github.com/microsoft/vscode-python)         | 2017-11-10 | TypeScript | 2022-02-26   |
-|  3 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks) | 2019-06-07 | PHP        | 2022-02-26   |
-|  4 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)          | 2020-01-19 | PHP        | 2022-02-25   |
-|  5 | [alwsl](https://github.com/alwsl/alwsl)                             | 2017-04-15 | Batchfile  | 2022-02-25   |
-|  6 | [data-forge-ts](https://github.com/data-forge/data-forge-ts)        | 2019-04-22 | TypeScript | 2022-02-26   |
-|  7 | [simhash](https://github.com/yanyiwu/simhash)                       | 2016-09-23 | C++        | 2022-02-02   |
-|  8 | [fonts](https://github.com/powerline/fonts)                         | 2020-07-23 | Shell      | 2022-02-26   |
-|  9 | [Potatso](https://github.com/icodesign/Potatso)                     | 2016-06-30 | md         | 2022-02-23   |
-| 10 | [ajv](https://github.com/ajv-validator/ajv)                         | 2018-04-26 | TypeScript | 2022-02-26   |
+| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [go-study-index](https://github.com/unknwon/go-study-index)                | 2017-10-30 | md         | 2022-02-28   |
+|  2 | [insomnia](https://github.com/Kong/insomnia)                               | 2017-06-13 | JavaScript | 2022-02-28   |
+|  3 | [blockchain_guide](https://github.com/yeasy/blockchain_guide)              | 2019-10-29 | Go         | 2022-02-27   |
+|  4 | [shellcheck](https://github.com/koalaman/shellcheck)                       | 2019-06-02 | Haskell    | 2022-02-27   |
+|  5 | [node-tenpay](https://github.com/befinal/node-tenpay)                      | 2018-03-05 | JavaScript | 2022-02-25   |
+|  6 | [gadmin](https://github.com/hailaz/gadmin)                                 | 2020-02-25 | Go         | 2022-02-18   |
+|  7 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)            | 2016-09-23 | JavaScript | 2022-02-25   |
+|  8 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider) | 2017-05-08 | Python     | 2022-02-06   |
+|  9 | [hosts](https://github.com/kelthuzadx/hosts)                               | 2017-04-26 | Rascal     | 2022-02-27   |
+| 10 | [hardseed](https://github.com/yangyangwithgnu/hardseed)                    | 2017-10-31 | C++        | 2022-02-24   |
 
 <!--END_SECTION:my_github-->
