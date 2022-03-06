@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider) | 2017-05-08 | Python     | 2022-03-04   |
-|  2 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                     | 2020-04-28 | C          | 2020-04-28   |
-|  3 | [yin](https://github.com/0x55aa/yin)                                       | 2019-04-21 | Java       | 2022-01-24   |
-|  4 | [csstdg4figs](https://github.com/meyerweb/csstdg4figs)                     | 2018-10-02 | HTML       | 2022-01-27   |
-|  5 | [gadmin](https://github.com/hailaz/gadmin)                                 | 2020-02-25 | Go         | 2022-02-28   |
-|  6 | [whistle](https://github.com/avwo/whistle)                                 | 2018-03-29 | JavaScript | 2022-03-04   |
-|  7 | [fontObfuscator](https://github.com/solarhell/fontObfuscator)              | 2019-12-03 | Python     | 2022-02-07   |
-|  8 | [iso7064](https://github.com/danieltwagner/iso7064)                        | 2018-06-08 | Java       | 2021-03-05   |
-|  9 | [amazing-qr](https://github.com/x-hw/amazing-qr)                           | 2016-09-05 | Python     | 2022-03-04   |
-| 10 | [acme.sh](https://github.com/acmesh-official/acme.sh)                      | 2016-04-21 | Shell      | 2022-03-04   |
+| ID |                                                     REPO                                                      | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)                                           | 2019-06-07 | PHP        | 2022-03-04   |
+|  2 | [binary-parser](https://github.com/Ericbla/binary-parser)                                                     | 2019-03-30 | JavaScript | 2021-09-01   |
+|  3 | [Potatso](https://github.com/icodesign/Potatso)                                                               | 2016-06-30 | md         | 2022-03-01   |
+|  4 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                                                          | 2020-11-16 | JavaScript | 2022-03-05   |
+|  5 | [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) | 2017-04-24 | md         | 2022-03-05   |
+|  6 | [detector](https://github.com/hotoo/detector)                                                                 | 2017-11-17 | JavaScript | 2022-03-04   |
+|  7 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)            | 2020-08-06 | HTML       | 2022-03-05   |
+|  8 | [hosts](https://github.com/kelthuzadx/hosts)                                                                  | 2017-04-26 | Rascal     | 2022-03-04   |
+|  9 | [blog](https://github.com/xizhibei/blog)                                                                      | 2018-05-05 | HTML       | 2022-02-14   |
+| 10 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                                              | 2016-11-07 | md         | 2022-03-02   |
 
 <!--END_SECTION:my_github-->
