@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [apollo](https://github.com/ApolloAuto/apollo)                          | 2019-01-30 | C++        | 2022-03-09   |
-|  2 | [shellcheck](https://github.com/koalaman/shellcheck)                    | 2019-06-02 | Haskell    | 2022-03-10   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)                  | 2019-12-10 | Go         | 2022-03-10   |
-|  4 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot) | 2017-02-03 | md         | 2022-02-26   |
-|  5 | [wechat-api](https://github.com/node-webot/wechat-api)                  | 2016-09-22 | JavaScript | 2022-03-04   |
-|  6 | [grpcui](https://github.com/fullstorydev/grpcui)                        | 2020-08-12 | Go         | 2022-03-08   |
-|  7 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client) | 2016-09-27 | JavaScript | 2021-04-24   |
-|  8 | [whistle](https://github.com/avwo/whistle)                              | 2018-03-29 | JavaScript | 2022-03-09   |
-|  9 | [toc](https://github.com/cncf/toc)                                      | 2020-07-27 | md         | 2022-03-06   |
-| 10 | [weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket) | 2016-09-27 | JavaScript | 2022-01-04   |
+| ID |                                    REPO                                    | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|----------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [examples](https://github.com/elastic/examples)                            | 2016-09-27 | Jupyter Notebook | 2022-03-07   |
+|  2 | [tonic](https://github.com/hyperium/tonic)                                 | 2020-08-14 | Rust             | 2022-03-11   |
+|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)                     | 2019-12-10 | Go               | 2022-03-11   |
+|  4 | [website](https://github.com/openpitrix/website)                           | 2019-01-23 | JavaScript       | 2022-02-27   |
+|  5 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider) | 2017-05-08 | Python           | 2022-03-04   |
+|  6 | [m-cli](https://github.com/rgcr/m-cli)                                     | 2019-12-04 | Shell            | 2022-03-10   |
+|  7 | [v](https://github.com/vlang/v)                                            | 2019-04-09 | V                | 2022-03-11   |
+|  8 | [gitignore](https://github.com/github/gitignore)                           | 2016-03-25 | md               | 2022-03-11   |
+|  9 | [amazing-qr](https://github.com/x-hw/amazing-qr)                           | 2016-09-05 | Python           | 2022-03-10   |
+| 10 | [kratos](https://github.com/go-kratos/kratos)                              | 2019-04-22 | Go               | 2022-03-10   |
 
 <!--END_SECTION:my_github-->
