@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [examples](https://github.com/elastic/examples)                            | 2016-09-27 | Jupyter Notebook | 2022-03-07   |
-|  2 | [tonic](https://github.com/hyperium/tonic)                                 | 2020-08-14 | Rust             | 2022-03-11   |
-|  3 | [kubernetes](https://github.com/kubernetes/kubernetes)                     | 2019-12-10 | Go               | 2022-03-11   |
-|  4 | [website](https://github.com/openpitrix/website)                           | 2019-01-23 | JavaScript       | 2022-02-27   |
-|  5 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider) | 2017-05-08 | Python           | 2022-03-04   |
-|  6 | [m-cli](https://github.com/rgcr/m-cli)                                     | 2019-12-04 | Shell            | 2022-03-10   |
-|  7 | [v](https://github.com/vlang/v)                                            | 2019-04-09 | V                | 2022-03-11   |
-|  8 | [gitignore](https://github.com/github/gitignore)                           | 2016-03-25 | md               | 2022-03-11   |
-|  9 | [amazing-qr](https://github.com/x-hw/amazing-qr)                           | 2016-09-05 | Python           | 2022-03-10   |
-| 10 | [kratos](https://github.com/go-kratos/kratos)                              | 2019-04-22 | Go               | 2022-03-10   |
+| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [Tars](https://github.com/TarsCloud/Tars)                                       | 2017-11-02 | C++        | 2022-03-11   |
+|  2 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md         | 2022-03-12   |
+|  3 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                | 2017-05-01 | C++        | 2022-03-06   |
+|  4 | [zangodb](https://github.com/erikolson186/zangodb)                              | 2017-06-18 | JavaScript | 2022-03-10   |
+|  5 | [yin](https://github.com/0x55aa/yin)                                            | 2019-04-21 | Java       | 2022-01-24   |
+|  6 | [shellcheck](https://github.com/koalaman/shellcheck)                            | 2019-06-02 | Haskell    | 2022-03-11   |
+|  7 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                     | 2020-08-06 | Ruby       | 2022-03-11   |
+|  8 | [v](https://github.com/vlang/v)                                                 | 2019-04-09 | V          | 2022-03-11   |
+|  9 | [cpython](https://github.com/python/cpython)                                    | 2017-07-03 | Python     | 2022-03-11   |
+| 10 | [awesome-egg](https://github.com/eggjs/awesome-egg)                             | 2019-06-05 | md         | 2022-03-10   |
 
 <!--END_SECTION:my_github-->
