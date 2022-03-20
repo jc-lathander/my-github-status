@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                  REPO                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot) | 2017-02-03 | md         | 2022-03-17   |
-|  2 | [feishu](https://github.com/fastwego/feishu)                            | 2020-08-19 | Go         | 2022-03-14   |
-|  3 | [fuckword](https://github.com/NextZeus/fuckword)                        | 2016-11-07 | JavaScript | 2021-07-01   |
-|  4 | [windows-agent](https://github.com/freedomkk-qfeng/windows-agent)       | 2019-10-23 | Go         | 2022-02-22   |
-|  5 | [iptv](https://github.com/iptv-org/iptv)                                | 2020-02-19 | JavaScript | 2022-03-18   |
-|  6 | [gitignore](https://github.com/github/gitignore)                        | 2016-03-25 | md         | 2022-03-18   |
-|  7 | [Tars](https://github.com/TarsCloud/Tars)                               | 2017-11-02 | C++        | 2022-03-19   |
-|  8 | [cpython](https://github.com/python/cpython)                            | 2017-07-03 | Python     | 2022-03-18   |
-|  9 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                 | 2017-04-18 | Shell      | 2022-03-16   |
-| 10 | [kratos](https://github.com/go-kratos/kratos)                           | 2019-04-22 | Go         | 2022-03-18   |
+|  1 | [websocket-bench](https://github.com/BedrockStreaming/websocket-bench)  | 2016-09-27 | JavaScript | 2022-02-27   |
+|  2 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                    | 2020-11-16 | JavaScript | 2022-03-19   |
+|  3 | [awesome-azure-iot](https://github.com/formulahendry/awesome-azure-iot) | 2017-02-03 | md         | 2022-03-17   |
+|  4 | [Tars](https://github.com/TarsCloud/Tars)                               | 2017-11-02 | C++        | 2022-03-19   |
+|  5 | [acme.sh](https://github.com/acmesh-official/acme.sh)                   | 2016-04-21 | Shell      | 2022-03-19   |
+|  6 | [SakuraFrp](https://github.com/ZeroDream-CN/SakuraFrp)                  | 2020-01-19 | Go         | 2022-03-13   |
+|  7 | [alwsl](https://github.com/alwsl/alwsl)                                 | 2017-04-15 | Batchfile  | 2022-03-03   |
+|  8 | [shellcheck](https://github.com/koalaman/shellcheck)                    | 2019-06-02 | Haskell    | 2022-03-19   |
+|  9 | [yin](https://github.com/0x55aa/yin)                                    | 2019-04-21 | Java       | 2022-01-24   |
+| 10 | [gin-admin](https://github.com/LyricTian/gin-admin)                     | 2020-02-25 | Go         | 2022-03-19   |
 
 <!--END_SECTION:my_github-->
