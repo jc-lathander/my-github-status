@@ -18,15 +18,15 @@
 ## The repos I stared (random 10)
 | ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [superset](https://github.com/apache/superset)                                                        | 2016-09-27 | TypeScript | 2022-03-20   |
-|  2 | [bitcoin_satoshi](https://github.com/brain-zhang/bitcoin_satoshi)                                     | 2019-10-29 | C++        | 2021-11-14   |
-|  3 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)    | 2020-08-06 | HTML       | 2022-03-19   |
-|  4 | [china_area_mysql](https://github.com/kakuilan/china_area_mysql)                                      | 2016-11-07 | md         | 2022-03-19   |
-|  5 | [node-tenpay](https://github.com/befinal/node-tenpay)                                                 | 2018-03-05 | JavaScript | 2022-03-19   |
-|  6 | [wechat-api](https://github.com/node-webot/wechat-api)                                                | 2016-09-22 | JavaScript | 2022-03-18   |
-|  7 | [simhash](https://github.com/yanyiwu/simhash)                                                         | 2016-09-23 | C++        | 2022-03-03   |
-|  8 | [puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)                                | 2018-06-08 | JavaScript | 2022-03-17   |
-|  9 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2022-03-14   |
-| 10 | [go_tls_example](https://github.com/michelia/go_tls_example)                                          | 2020-02-23 | Go         | 2020-07-30   |
+|  1 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)                                        | 2020-02-23 | Go         | 2022-02-18   |
+|  2 | [libaco](https://github.com/hnes/libaco)                                                              | 2018-07-18 | C          | 2022-03-21   |
+|  3 | [lenovo-thinkcentre-m93p-hackintosh](https://github.com/mingcheng/lenovo-thinkcentre-m93p-hackintosh) | 2019-12-22 | md         | 2022-03-14   |
+|  4 | [wsl-terminal](https://github.com/mskyaxl/wsl-terminal)                                               | 2017-04-18 | Shell      | 2022-03-21   |
+|  5 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                                         | 2019-01-04 | Go         | 2022-03-22   |
+|  6 | [go-v8](https://github.com/lazytiger/go-v8)                                                           | 2017-05-01 | Go         | 2022-03-04   |
+|  7 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)                                   | 2019-06-07 | PHP        | 2022-03-20   |
+|  8 | [debugcharts](https://github.com/mkevac/debugcharts)                                                  | 2017-05-01 | Go         | 2022-03-16   |
+|  9 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)                                 | 2020-10-21 | JavaScript | 2022-03-20   |
+| 10 | [alwsl](https://github.com/alwsl/alwsl)                                                               | 2017-04-15 | Batchfile  | 2022-03-03   |
 
 <!--END_SECTION:my_github-->
