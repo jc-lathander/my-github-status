@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python           | 2022-03-22   |
-|  2 | [gitignore](https://github.com/github/gitignore)                                   | 2016-03-25 | md               | 2022-03-24   |
-|  3 | [ziroom_realtime_spider](https://github.com/facert/ziroom_realtime_spider)         | 2017-05-08 | Python           | 2022-03-04   |
-|  4 | [Winpcap_Install](https://github.com/3gstudent/Winpcap_Install)                    | 2020-04-08 | Batchfile        | 2022-01-04   |
-|  5 | [mqtt](https://github.com/mcxiaoke/mqtt)                                           | 2017-05-04 | Rich Text Format | 2022-03-23   |
-|  6 | [vscode-python](https://github.com/microsoft/vscode-python)                        | 2017-11-10 | TypeScript       | 2022-03-24   |
-|  7 | [egg-24time](https://github.com/seasonstar/egg-24time)                             | 2018-04-28 | JavaScript       | 2022-03-04   |
-|  8 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                            | 2017-11-06 | CoffeeScript     | 2022-03-13   |
-|  9 | [iso7064](https://github.com/danieltwagner/iso7064)                                | 2018-06-08 | Java             | 2021-03-05   |
-| 10 | [docsify](https://github.com/docsifyjs/docsify)                                    | 2016-11-27 | JavaScript       | 2022-03-23   |
+| ID |                             REPO                             | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------|------------|------------|--------------|
+|  1 | [v](https://github.com/vlang/v)                              | 2019-04-09 | V          | 2022-03-25   |
+|  2 | [superset](https://github.com/apache/superset)               | 2016-09-27 | TypeScript | 2022-03-25   |
+|  3 | [goadmin](https://github.com/CrazyRocks/goadmin)             | 2020-01-13 | Go         | 2022-03-17   |
+|  4 | [simhash](https://github.com/yanyiwu/simhash)                | 2016-09-23 | C++        | 2022-03-03   |
+|  5 | [cpython](https://github.com/python/cpython)                 | 2017-07-03 | Python     | 2022-03-24   |
+|  6 | [gf-demo-user](https://github.com/gogf/gf-demo-user)         | 2020-02-25 | Go         | 2022-03-22   |
+|  7 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)       | 2020-04-28 | C          | 2020-04-28   |
+|  8 | [go_tls_example](https://github.com/michelia/go_tls_example) | 2020-02-23 | Go         | 2020-07-30   |
+|  9 | [insomnia](https://github.com/Kong/insomnia)                 | 2017-06-13 | JavaScript | 2022-03-24   |
+| 10 | [fonts](https://github.com/powerline/fonts)                  | 2020-07-23 | Shell      | 2022-03-24   |
 
 <!--END_SECTION:my_github-->
