@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ajv](https://github.com/ajv-validator/ajv)                                | 2018-04-26 | TypeScript | 2022-03-25   |
-|  2 | [yin](https://github.com/0x55aa/yin)                                       | 2019-04-21 | Java       | 2022-01-24   |
-|  3 | [cpython](https://github.com/python/cpython)                               | 2017-07-03 | Python     | 2022-03-25   |
-|  4 | [acme.sh](https://github.com/acmesh-official/acme.sh)                      | 2016-04-21 | Shell      | 2022-03-26   |
-|  5 | [SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel)                 | 2020-01-19 | PHP        | 2022-03-23   |
-|  6 | [express](https://github.com/expressjs/express)                            | 2016-03-25 | JavaScript | 2022-03-25   |
-|  7 | [CMAK](https://github.com/yahoo/CMAK)                                      | 2018-04-27 | Scala      | 2022-03-25   |
-|  8 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2022-03-05   |
-|  9 | [gin-admin](https://github.com/LyricTian/gin-admin)                        | 2020-02-25 | Go         | 2022-03-25   |
-| 10 | [tonic](https://github.com/hyperium/tonic)                                 | 2020-08-14 | Rust       | 2022-03-25   |
+| ID |                                  REPO                                   | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover) | 2019-12-15 | C++              | 2022-03-16   |
+|  2 | [go-study-index](https://github.com/unknwon/go-study-index)             | 2017-10-30 | md               | 2022-03-25   |
+|  3 | [shellcheck](https://github.com/koalaman/shellcheck)                    | 2019-06-02 | Haskell          | 2022-03-26   |
+|  4 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)   | 2020-10-21 | JavaScript       | 2022-03-25   |
+|  5 | [egg-24time](https://github.com/seasonstar/egg-24time)                  | 2018-04-28 | JavaScript       | 2022-03-04   |
+|  6 | [examples](https://github.com/elastic/examples)                         | 2016-09-27 | Jupyter Notebook | 2022-03-25   |
+|  7 | [apollo](https://github.com/ApolloAuto/apollo)                          | 2019-01-30 | C++              | 2022-03-26   |
+|  8 | [Potatso](https://github.com/icodesign/Potatso)                         | 2016-06-30 | md               | 2022-03-25   |
+|  9 | [gin-admin](https://github.com/LyricTian/gin-admin)                     | 2020-02-25 | Go               | 2022-03-26   |
+| 10 | [docsify](https://github.com/docsifyjs/docsify)                         | 2016-11-27 | JavaScript       | 2022-03-26   |
 
 <!--END_SECTION:my_github-->
