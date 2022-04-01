@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                 REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [gnvm](https://github.com/Kenshin/gnvm)                               | 2016-04-28 | Go         | 2022-03-29   |
-|  2 | [kratos](https://github.com/go-kratos/kratos)                         | 2019-04-22 | Go         | 2022-03-30   |
-|  3 | [feishu](https://github.com/fastwego/feishu)                          | 2020-08-19 | Go         | 2022-03-29   |
-|  4 | [go-study-index](https://github.com/unknwon/go-study-index)           | 2017-10-30 | md         | 2022-03-30   |
-|  5 | [pcap-ndis6](https://github.com/SageAxcess/pcap-ndis6)                | 2020-04-28 | C          | 2020-04-28   |
-|  6 | [hardseed](https://github.com/yangyangwithgnu/hardseed)               | 2017-10-31 | C++        | 2022-03-30   |
-|  7 | [ajv](https://github.com/ajv-validator/ajv)                           | 2018-04-26 | TypeScript | 2022-03-30   |
-|  8 | [tonic](https://github.com/hyperium/tonic)                            | 2020-08-14 | Rust       | 2022-03-30   |
-|  9 | [yin](https://github.com/0x55aa/yin)                                  | 2019-04-21 | Java       | 2022-01-24   |
-| 10 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework) | 2020-10-21 | JavaScript | 2022-03-30   |
+| ID |                                                REPO                                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [whistle](https://github.com/avwo/whistle)                                                         | 2018-03-29 | JavaScript | 2022-03-31   |
+|  2 | [go-study-index](https://github.com/unknwon/go-study-index)                                        | 2017-10-30 | md         | 2022-03-31   |
+|  3 | [binary-parser](https://github.com/Ericbla/binary-parser)                                          | 2019-03-30 | JavaScript | 2021-09-01   |
+|  4 | [awesome-v](https://github.com/vlang/awesome-v)                                                    | 2019-11-26 | md         | 2022-03-31   |
+|  5 | [iso7064](https://github.com/danieltwagner/iso7064)                                                | 2018-06-08 | Java       | 2021-03-05   |
+|  6 | [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 2020-08-06 | HTML       | 2022-03-31   |
+|  7 | [feishu](https://github.com/fastwego/feishu)                                                       | 2020-08-19 | Go         | 2022-03-29   |
+|  8 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)                              | 2020-10-21 | JavaScript | 2022-03-31   |
+|  9 | [fuckword](https://github.com/NextZeus/fuckword)                                                   | 2016-11-07 | JavaScript | 2022-03-31   |
+| 10 | [microrust](https://github.com/droogmic/microrust)                                                 | 2020-08-20 | Rust       | 2021-10-15   |
 
 <!--END_SECTION:my_github-->
