@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)      | 2020-10-21 | JavaScript | 2022-03-31   |
-|  2 | [binary-parser](https://github.com/Ericbla/binary-parser)                  | 2019-03-30 | JavaScript | 2021-09-01   |
-|  3 | [awesome-go](https://github.com/avelino/awesome-go)                        | 2017-10-30 | Go         | 2022-04-04   |
-|  4 | [toc](https://github.com/cncf/toc)                                         | 2020-07-27 | md         | 2022-04-03   |
-|  5 | [application-shell](https://github.com/GoogleChromeLabs/application-shell) | 2016-09-22 | JavaScript | 2022-03-05   |
-|  6 | [generate-tls-cert](https://github.com/Shyp/generate-tls-cert)             | 2020-02-23 | Go         | 2022-03-25   |
-|  7 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                | 2020-08-06 | Ruby       | 2022-04-03   |
-|  8 | [go-v8](https://github.com/lazytiger/go-v8)                                | 2017-05-01 | Go         | 2022-03-04   |
-|  9 | [go-study-index](https://github.com/unknwon/go-study-index)                | 2017-10-30 | md         | 2022-04-04   |
-| 10 | [grpcman](https://github.com/grpcman/grpcman)                              | 2020-08-12 | Vue        | 2022-03-26   |
+| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                   | 2017-05-01 | C++        | 2022-03-18   |
+|  2 | [go-study-index](https://github.com/unknwon/go-study-index)                        | 2017-10-30 | md         | 2022-04-04   |
+|  3 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                    | 2017-08-08 | Erlang     | 2022-01-28   |
+|  4 | [mongood](https://github.com/renzholy/mongood)                                     | 2020-08-06 | TypeScript | 2022-04-01   |
+|  5 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)           | 2020-01-19 | md         | 2022-03-03   |
+|  6 | [pix2code](https://github.com/tonybeltramelli/pix2code)                            | 2017-05-30 | Python     | 2022-04-03   |
+|  7 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)            | 2016-09-27 | JavaScript | 2022-04-02   |
+|  8 | [awesome-go](https://github.com/avelino/awesome-go)                                | 2017-10-30 | Go         | 2022-04-04   |
+|  9 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md         | 2022-04-04   |
+| 10 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                      | 2019-01-04 | Go         | 2022-04-04   |
 
 <!--END_SECTION:my_github-->
