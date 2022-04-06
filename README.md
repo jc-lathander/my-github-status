@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                   | 2017-05-01 | C++        | 2022-03-18   |
-|  2 | [go-study-index](https://github.com/unknwon/go-study-index)                        | 2017-10-30 | md         | 2022-04-04   |
-|  3 | [tsung_ws](https://github.com/wulczer/tsung_ws)                                    | 2017-08-08 | Erlang     | 2022-01-28   |
-|  4 | [mongood](https://github.com/renzholy/mongood)                                     | 2020-08-06 | TypeScript | 2022-04-01   |
-|  5 | [OptiPlex-9020-Catalina](https://github.com/W-MS/OptiPlex-9020-Catalina)           | 2020-01-19 | md         | 2022-03-03   |
-|  6 | [pix2code](https://github.com/tonybeltramelli/pix2code)                            | 2017-05-30 | Python     | 2022-04-03   |
-|  7 | [weapp-session-client](https://github.com/CFETeam/weapp-session-client)            | 2016-09-27 | JavaScript | 2022-04-02   |
-|  8 | [awesome-go](https://github.com/avelino/awesome-go)                                | 2017-10-30 | Go         | 2022-04-04   |
-|  9 | [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) | 2018-09-07 | md         | 2022-04-04   |
-| 10 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                                      | 2019-01-04 | Go         | 2022-04-04   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [egg-watcher](https://github.com/eggjs/egg-watcher)                                           | 2019-03-16 | JavaScript | 2021-07-12   |
+|  2 | [application-shell](https://github.com/GoogleChromeLabs/application-shell)                    | 2016-09-22 | JavaScript | 2022-03-05   |
+|  3 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                              | 2017-05-01 | C++        | 2022-03-18   |
+|  4 | [ajv](https://github.com/ajv-validator/ajv)                                                   | 2018-04-26 | TypeScript | 2022-04-05   |
+|  5 | [v](https://github.com/vlang/v)                                                               | 2019-04-09 | V          | 2022-04-06   |
+|  6 | [dell-optiplex-9020m-hackintosh](https://github.com/mingcheng/dell-optiplex-9020m-hackintosh) | 2019-12-22 | md         | 2022-01-31   |
+|  7 | [cpython](https://github.com/python/cpython)                                                  | 2017-07-03 | Python     | 2022-04-06   |
+|  8 | [Hitchhiker](https://github.com/brookshi/Hitchhiker)                                          | 2018-01-02 | TypeScript | 2022-04-05   |
+|  9 | [web-frameworks](https://github.com/the-benchmarker/web-frameworks)                           | 2019-06-07 | PHP        | 2022-04-04   |
+| 10 | [mobile-toolkit](https://github.com/angular/mobile-toolkit)                                   | 2016-09-22 | JavaScript | 2022-02-07   |
 
 <!--END_SECTION:my_github-->
