@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)    | 2020-08-14 | md         | 2022-04-07   |
-|  2 | [docsify](https://github.com/docsifyjs/docsify)                                    | 2016-11-27 | JavaScript | 2022-04-08   |
-|  3 | [ajv](https://github.com/ajv-validator/ajv)                                        | 2018-04-26 | TypeScript | 2022-04-08   |
-|  4 | [escpos-php](https://github.com/mike42/escpos-php)                                 | 2016-09-26 | PHP        | 2022-04-06   |
-|  5 | [gadmin](https://github.com/hailaz/gadmin)                                         | 2020-02-25 | Go         | 2022-04-01   |
-|  6 | [gitignore](https://github.com/github/gitignore)                                   | 2016-03-25 | md         | 2022-04-08   |
-|  7 | [simhash](https://github.com/yanyiwu/simhash)                                      | 2016-09-23 | C++        | 2022-04-07   |
-|  8 | [whistle](https://github.com/avwo/whistle)                                         | 2018-03-29 | JavaScript | 2022-04-07   |
-|  9 | [libaco](https://github.com/hnes/libaco)                                           | 2018-07-18 | C          | 2022-04-07   |
-| 10 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python     | 2022-04-04   |
+| ID |                                        REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [doesitarm](https://github.com/ThatGuySam/doesitarm)                               | 2020-11-16 | JavaScript       | 2022-04-06   |
+|  2 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                        | 2020-08-06 | Ruby             | 2022-04-08   |
+|  3 | [cloudbase-framework](https://github.com/Tencent/cloudbase-framework)              | 2020-10-21 | JavaScript       | 2022-04-08   |
+|  4 | [ajv](https://github.com/ajv-validator/ajv)                                        | 2018-04-26 | TypeScript       | 2022-04-08   |
+|  5 | [examples](https://github.com/elastic/examples)                                    | 2016-09-27 | Jupyter Notebook | 2022-04-08   |
+|  6 | [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack)                    | 2016-09-23 | JavaScript       | 2022-03-29   |
+|  7 | [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)            | 2018-08-05 | md               | 2022-04-09   |
+|  8 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python           | 2022-04-04   |
+|  9 | [gitignore](https://github.com/github/gitignore)                                   | 2016-03-25 | md               | 2022-04-09   |
+| 10 | [kubernetes](https://github.com/kubernetes/kubernetes)                             | 2019-12-10 | Go               | 2022-04-08   |
 
 <!--END_SECTION:my_github-->
