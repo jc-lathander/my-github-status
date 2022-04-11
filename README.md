@@ -16,17 +16,17 @@
 |  2 | [egg-captcha](https://github.com/Raoul1996/egg-captcha)            | 2019-01-26 | 2019-01-26 | [1](https://github.com/Raoul1996/egg-captcha/pulls?q=is%3Apr+author%3Ajc-lathander)        |
 
 ## The repos I stared (random 10)
-| ID |                                      REPO                                       | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Potatso](https://github.com/icodesign/Potatso)                                 | 2016-06-30 | md          | 2022-04-07   |
-|  2 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                | 2017-05-01 | C++         | 2022-03-18   |
-|  3 | [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) | 2020-08-14 | md          | 2022-04-09   |
-|  4 | [goadmin](https://github.com/CrazyRocks/goadmin)                                | 2020-01-13 | Go          | 2022-03-17   |
-|  5 | [gnvm](https://github.com/Kenshin/gnvm)                                         | 2016-04-28 | Go          | 2022-04-09   |
-|  6 | [go-v8](https://github.com/lazytiger/go-v8)                                     | 2017-05-01 | Go          | 2022-03-04   |
-|  7 | [Tars](https://github.com/TarsCloud/Tars)                                       | 2017-11-02 | C++         | 2022-04-08   |
-|  8 | [express](https://github.com/expressjs/express)                                 | 2016-03-25 | JavaScript  | 2022-04-09   |
-|  9 | [GAutomator](https://github.com/Tencent/GAutomator)                             | 2017-04-15 | Objective-C | 2022-04-07   |
-| 10 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                     | 2020-08-06 | Ruby        | 2022-04-09   |
+| ID |                                        REPO                                        | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [gf-demo-user](https://github.com/gogf/gf-demo-user)                               | 2020-02-25 | Go               | 2022-04-04   |
+|  2 | [toc](https://github.com/cncf/toc)                                                 | 2020-07-27 | md               | 2022-04-08   |
+|  3 | [casbin-go-client](https://github.com/casbin/casbin-go-client)                     | 2020-01-19 | Go               | 2022-04-01   |
+|  4 | [binary-parser](https://github.com/Ericbla/binary-parser)                          | 2019-03-30 | JavaScript       | 2021-09-01   |
+|  5 | [website](https://github.com/openpitrix/website)                                   | 2019-01-23 | JavaScript       | 2022-02-27   |
+|  6 | [examples](https://github.com/elastic/examples)                                    | 2016-09-27 | Jupyter Notebook | 2022-04-08   |
+|  7 | [conference](https://github.com/gopherchina/conference)                            | 2020-11-24 | md               | 2022-04-09   |
+|  8 | [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) | 2017-04-15 | Python           | 2022-04-04   |
+|  9 | [agent](https://github.com/LeonZYang/agent)                                        | 2019-10-23 | Go               | 2021-01-12   |
+| 10 | [rsmq-worker](https://github.com/mpneuried/rsmq-worker)                            | 2017-11-06 | CoffeeScript     | 2022-03-13   |
 
 <!--END_SECTION:my_github-->
